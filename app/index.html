@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Saheli · Women’s support</title>
+  <link rel="stylesheet" href="/app.css">
+  <script defer src="/app.js"></script>
+</head>
+<body>
+  <header><div class="header-inner">
+    <b class="brand">Saheli</b>
+    <button type="button" id="urgent">Immediate help</button>
+    <button type="button" id="exit">Quick exit ↗</button>
+  </div></header>
+  <main>
+    <div class="intro">
+      <h1 id="heading">Find support</h1>
+      <label class="language">Language / भाषा / மொழி
+        <select id="lang"><option value="en">English</option><option value="hi">हिन्दी</option><option value="mix">Hinglish</option><option value="ta">தமிழ்</option></select>
+      </label>
+    </div>
+    <section class="chat">
+      <form id="form" autocomplete="off">
+        <label id="askTitle" for="q">Ask a question</label>
+        <textarea autocomplete="off" spellcheck="false" id="q" maxlength="1200" rows="3" required></textarea>
+        <div class="bar"><button id="submit">Ask</button><button type="button" id="mic">Speak</button></div>
+      </form>
+      <small id="micNote">Voice input stays on this computer. Review the transcript before sending.</small>
+      <p id="status" role="status"></p>
+      <article id="answer" aria-live="polite" tabindex="-1"></article>
+      <button id="listen" hidden>Read aloud</button>
+    </section>
+    <details class="panel"><summary id="guidesTitle">Rights and action guides</summary><div id="guides" class="grid"></div></details>
+    <details id="directoryPanel" class="panel"><summary id="directoryTitle">Find local services</summary>
+      <div class="filters"><label>State / UT <select id="state"></select></label><label>District <select id="district"></select></label></div>
+      <label><input id="languageFilter" type="checkbox"> Only services listing my language</label>
+      <p><small id="dirNote">Published directory listings. Confirm details before travelling. Live availability is unknown.</small></p>
+      <div id="resources"></div>
+    </details>
+    <footer><small id="privacy">Quick exit opens a weather page. Browser history and device activity may still be visible.</small></footer>
+  </main>
+</body>
+</html>

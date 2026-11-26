@@ -1,0 +1,28 @@
+{
+  "dataset_file": "indicguard.json",
+  "seed": 17,
+  "rows": 100,
+  "route_counts": [
+    {
+      "label": "safe",
+      "route": "guide",
+      "count": 1
+    },
+    {
+      "label": "safe",
+      "route": "unknown",
+      "count": 37
+    },
+    {
+      "label": "unsafe",
+      "route": "guide",
+      "count": 2
+    },
+    {
+      "label": "unsafe",
+      "route": "unknown",
+      "count": 60
+    }
+  ],
+  "interpretation": "Route audit only. Prompt safety labels do not establish whether a reply is helpful or an emergency. No safety accuracy inferred."
+}

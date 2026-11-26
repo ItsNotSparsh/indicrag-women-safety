@@ -1,0 +1,1401 @@
+{
+  "selected_step": 30,
+  "metric": "rank of first annotated supporting chunk",
+  "examples": [
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "19",
+      "anchor": "relocation to Shakti Sadan",
+      "en": "How long can I stay at an OSC?",
+      "hi": "वन स्टॉप सेंटर में अधिकतम कितने दिन रह सकती हूँ?",
+      "hinglish": "OSC mein maximum kitne din ruk sakte hain?",
+      "reference": "Usually five days. If relocation to Shakti Sadan is infeasible, the administrator can extend the stay to ten days case by case. The DNO/DPO can authorize up to ten further days.",
+      "language": "en",
+      "question": "How long can I stay at an OSC?",
+      "baseline_rank": 5,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p19:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "19",
+      "anchor": "relocation to Shakti Sadan",
+      "en": "How long can I stay at an OSC?",
+      "hi": "वन स्टॉप सेंटर में अधिकतम कितने दिन रह सकती हूँ?",
+      "hinglish": "OSC mein maximum kitne din ruk sakte hain?",
+      "reference": "Usually five days. If relocation to Shakti Sadan is infeasible, the administrator can extend the stay to ten days case by case. The DNO/DPO can authorize up to ten further days.",
+      "language": "hi",
+      "question": "वन स्टॉप सेंटर में अधिकतम कितने दिन रह सकती हूँ?",
+      "baseline_rank": 6,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p19:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "19",
+      "anchor": "relocation to Shakti Sadan",
+      "en": "How long can I stay at an OSC?",
+      "hi": "वन स्टॉप सेंटर में अधिकतम कितने दिन रह सकती हूँ?",
+      "hinglish": "OSC mein maximum kitne din ruk sakte hain?",
+      "reference": "Usually five days. If relocation to Shakti Sadan is infeasible, the administrator can extend the stay to ten days case by case. The DNO/DPO can authorize up to ten further days.",
+      "language": "hinglish",
+      "question": "OSC mein maximum kitne din ruk sakte hain?",
+      "baseline_rank": 4,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p19:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "20",
+      "anchor": "girls of all ages",
+      "en": "Can my children stay with me?",
+      "hi": "क्या मेरे बच्चे मेरे साथ केंद्र में रह सकते हैं?",
+      "hinglish": "Mere bachche mere saath OSC mein ruk sakte hain?",
+      "reference": "The SOP includes girls of all ages and boys up to age twelve when shelter is required.",
+      "language": "en",
+      "question": "Can my children stay with me?",
+      "baseline_rank": 3,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p20:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "20",
+      "anchor": "girls of all ages",
+      "en": "Can my children stay with me?",
+      "hi": "क्या मेरे बच्चे मेरे साथ केंद्र में रह सकते हैं?",
+      "hinglish": "Mere bachche mere saath OSC mein ruk sakte hain?",
+      "reference": "The SOP includes girls of all ages and boys up to age twelve when shelter is required.",
+      "language": "hi",
+      "question": "क्या मेरे बच्चे मेरे साथ केंद्र में रह सकते हैं?",
+      "baseline_rank": 1,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p20:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "20",
+      "anchor": "girls of all ages",
+      "en": "Can my children stay with me?",
+      "hi": "क्या मेरे बच्चे मेरे साथ केंद्र में रह सकते हैं?",
+      "hinglish": "Mere bachche mere saath OSC mein ruk sakte hain?",
+      "reference": "The SOP includes girls of all ages and boys up to age twelve when shelter is required.",
+      "language": "hinglish",
+      "question": "Mere bachche mere saath OSC mein ruk sakte hain?",
+      "baseline_rank": 84,
+      "adapted_rank": 3,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p20:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "20",
+      "anchor": "audio and visual privacy",
+      "en": "Can other people hear my counselling session?",
+      "hi": "क्या दूसरे लोग मेरी काउंसलिंग सुन सकते हैं?",
+      "hinglish": "Counselling room mein meri baat koi aur sun sakta hai?",
+      "reference": "The SOP requires dedicated rooms with both audio and visual privacy.",
+      "language": "en",
+      "question": "Can other people hear my counselling session?",
+      "baseline_rank": 7,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p20:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "20",
+      "anchor": "audio and visual privacy",
+      "en": "Can other people hear my counselling session?",
+      "hi": "क्या दूसरे लोग मेरी काउंसलिंग सुन सकते हैं?",
+      "hinglish": "Counselling room mein meri baat koi aur sun sakta hai?",
+      "reference": "The SOP requires dedicated rooms with both audio and visual privacy.",
+      "language": "hi",
+      "question": "क्या दूसरे लोग मेरी काउंसलिंग सुन सकते हैं?",
+      "baseline_rank": 4,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p20:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "20",
+      "anchor": "audio and visual privacy",
+      "en": "Can other people hear my counselling session?",
+      "hi": "क्या दूसरे लोग मेरी काउंसलिंग सुन सकते हैं?",
+      "hinglish": "Counselling room mein meri baat koi aur sun sakta hai?",
+      "reference": "The SOP requires dedicated rooms with both audio and visual privacy.",
+      "language": "hinglish",
+      "question": "Counselling room mein meri baat koi aur sun sakta hai?",
+      "baseline_rank": 4,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p20:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "19",
+      "anchor": "radius of 2 kms",
+      "en": "Where should an OSC be located relative to a hospital?",
+      "hi": "अस्पताल से केंद्र कितनी दूर होना चाहिए?",
+      "hinglish": "Hospital se centre kitna door ho sakta hai?",
+      "reference": "Preferably within the district hospital or medical facility. If that is infeasible, a government or semi-government building within two kilometres is an option.",
+      "language": "en",
+      "question": "Where should an OSC be located relative to a hospital?",
+      "baseline_rank": 1,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p19:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "19",
+      "anchor": "radius of 2 kms",
+      "en": "Where should an OSC be located relative to a hospital?",
+      "hi": "अस्पताल से केंद्र कितनी दूर होना चाहिए?",
+      "hinglish": "Hospital se centre kitna door ho sakta hai?",
+      "reference": "Preferably within the district hospital or medical facility. If that is infeasible, a government or semi-government building within two kilometres is an option.",
+      "language": "hi",
+      "question": "अस्पताल से केंद्र कितनी दूर होना चाहिए?",
+      "baseline_rank": 1,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p19:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "19",
+      "anchor": "radius of 2 kms",
+      "en": "Where should an OSC be located relative to a hospital?",
+      "hi": "अस्पताल से केंद्र कितनी दूर होना चाहिए?",
+      "hinglish": "Hospital se centre kitna door ho sakta hai?",
+      "reference": "Preferably within the district hospital or medical facility. If that is infeasible, a government or semi-government building within two kilometres is an option.",
+      "language": "hinglish",
+      "question": "Hospital se centre kitna door ho sakta hai?",
+      "baseline_rank": 1,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p19:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "17",
+      "anchor": "extended shelter",
+      "en": "Who helps arrange longer-term housing?",
+      "hi": "लंबे समय के आश्रय की व्यवस्था किसके साथ होती है?",
+      "hinglish": "Long term shelter ke liye centre kisse coordinate karta hai?",
+      "reference": "OSCs should coordinate with government or nongovernmental shelter homes.",
+      "language": "en",
+      "question": "Who helps arrange longer-term housing?",
+      "baseline_rank": 1,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p17:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "17",
+      "anchor": "extended shelter",
+      "en": "Who helps arrange longer-term housing?",
+      "hi": "लंबे समय के आश्रय की व्यवस्था किसके साथ होती है?",
+      "hinglish": "Long term shelter ke liye centre kisse coordinate karta hai?",
+      "reference": "OSCs should coordinate with government or nongovernmental shelter homes.",
+      "language": "hi",
+      "question": "लंबे समय के आश्रय की व्यवस्था किसके साथ होती है?",
+      "baseline_rank": 5,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p17:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "17",
+      "anchor": "extended shelter",
+      "en": "Who helps arrange longer-term housing?",
+      "hi": "लंबे समय के आश्रय की व्यवस्था किसके साथ होती है?",
+      "hinglish": "Long term shelter ke liye centre kisse coordinate karta hai?",
+      "reference": "OSCs should coordinate with government or nongovernmental shelter homes.",
+      "language": "hinglish",
+      "question": "Long term shelter ke liye centre kisse coordinate karta hai?",
+      "baseline_rank": 56,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p17:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "21",
+      "anchor": "rescue operations",
+      "en": "What can the centre vehicle be used for?",
+      "hi": "केंद्र की गाड़ी किन कामों के लिए होती है?",
+      "hinglish": "OSC ki gaadi kis kaam aati hai?",
+      "reference": "Rescue, fact checks, family reintegration and transport for medical, legal and police assistance.",
+      "language": "en",
+      "question": "What can the centre vehicle be used for?",
+      "baseline_rank": 1,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p21:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "21",
+      "anchor": "rescue operations",
+      "en": "What can the centre vehicle be used for?",
+      "hi": "केंद्र की गाड़ी किन कामों के लिए होती है?",
+      "hinglish": "OSC ki gaadi kis kaam aati hai?",
+      "reference": "Rescue, fact checks, family reintegration and transport for medical, legal and police assistance.",
+      "language": "hi",
+      "question": "केंद्र की गाड़ी किन कामों के लिए होती है?",
+      "baseline_rank": 1,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p21:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "21",
+      "anchor": "rescue operations",
+      "en": "What can the centre vehicle be used for?",
+      "hi": "केंद्र की गाड़ी किन कामों के लिए होती है?",
+      "hinglish": "OSC ki gaadi kis kaam aati hai?",
+      "reference": "Rescue, fact checks, family reintegration and transport for medical, legal and police assistance.",
+      "language": "hinglish",
+      "question": "OSC ki gaadi kis kaam aati hai?",
+      "baseline_rank": 38,
+      "adapted_rank": 3,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p21:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "22",
+      "anchor": "braille",
+      "en": "In what formats should awareness materials be displayed?",
+      "hi": "जागरूकता सामग्री किन रूपों में उपलब्ध होनी चाहिए?",
+      "hinglish": "Information posters kaunse formats mein hote hain?",
+      "reference": "Prominent locations, multiple languages and formats including Braille and pictures.",
+      "language": "en",
+      "question": "In what formats should awareness materials be displayed?",
+      "baseline_rank": 2,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p22:c1",
+        "One_Stop_Centre_SOP_English:p22:c3"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "22",
+      "anchor": "braille",
+      "en": "In what formats should awareness materials be displayed?",
+      "hi": "जागरूकता सामग्री किन रूपों में उपलब्ध होनी चाहिए?",
+      "hinglish": "Information posters kaunse formats mein hote hain?",
+      "reference": "Prominent locations, multiple languages and formats including Braille and pictures.",
+      "language": "hi",
+      "question": "जागरूकता सामग्री किन रूपों में उपलब्ध होनी चाहिए?",
+      "baseline_rank": 6,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p22:c1",
+        "One_Stop_Centre_SOP_English:p22:c3"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "22",
+      "anchor": "braille",
+      "en": "In what formats should awareness materials be displayed?",
+      "hi": "जागरूकता सामग्री किन रूपों में उपलब्ध होनी चाहिए?",
+      "hinglish": "Information posters kaunse formats mein hote hain?",
+      "reference": "Prominent locations, multiple languages and formats including Braille and pictures.",
+      "language": "hinglish",
+      "question": "Information posters kaunse formats mein hote hain?",
+      "baseline_rank": 2,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p22:c1",
+        "One_Stop_Centre_SOP_English:p22:c3"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "31",
+      "anchor": "Seek consent",
+      "en": "Who seeks consent before completing case forms?",
+      "hi": "केस फॉर्म भरने के लिए सहमति कौन लेता है?",
+      "hinglish": "Case form ke liye consent kaun leta hai?",
+      "reference": "The case worker seeks consent and completes case management forms.",
+      "language": "en",
+      "question": "Who seeks consent before completing case forms?",
+      "baseline_rank": 27,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p31:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "31",
+      "anchor": "Seek consent",
+      "en": "Who seeks consent before completing case forms?",
+      "hi": "केस फॉर्म भरने के लिए सहमति कौन लेता है?",
+      "hinglish": "Case form ke liye consent kaun leta hai?",
+      "reference": "The case worker seeks consent and completes case management forms.",
+      "language": "hi",
+      "question": "केस फॉर्म भरने के लिए सहमति कौन लेता है?",
+      "baseline_rank": 59,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p31:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "31",
+      "anchor": "Seek consent",
+      "en": "Who seeks consent before completing case forms?",
+      "hi": "केस फॉर्म भरने के लिए सहमति कौन लेता है?",
+      "hinglish": "Case form ke liye consent kaun leta hai?",
+      "reference": "The case worker seeks consent and completes case management forms.",
+      "language": "hinglish",
+      "question": "Case form ke liye consent kaun leta hai?",
+      "baseline_rank": 70,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p31:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "32",
+      "anchor": "Public Prosecutor",
+      "en": "Who follows up legal support after filing?",
+      "hi": "मुकदमा दर्ज होने के बाद कानूनी मदद कौन जारी रखता है?",
+      "hinglish": "Case file hone ke baad legal follow up kaun karta hai?",
+      "reference": "The para-legal officer or lawyer coordinates with the public prosecutor or legal services authority lawyers.",
+      "language": "en",
+      "question": "Who follows up legal support after filing?",
+      "baseline_rank": 10,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p32:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "32",
+      "anchor": "Public Prosecutor",
+      "en": "Who follows up legal support after filing?",
+      "hi": "मुकदमा दर्ज होने के बाद कानूनी मदद कौन जारी रखता है?",
+      "hinglish": "Case file hone ke baad legal follow up kaun karta hai?",
+      "reference": "The para-legal officer or lawyer coordinates with the public prosecutor or legal services authority lawyers.",
+      "language": "hi",
+      "question": "मुकदमा दर्ज होने के बाद कानूनी मदद कौन जारी रखता है?",
+      "baseline_rank": 3,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p32:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "32",
+      "anchor": "Public Prosecutor",
+      "en": "Who follows up legal support after filing?",
+      "hi": "मुकदमा दर्ज होने के बाद कानूनी मदद कौन जारी रखता है?",
+      "hinglish": "Case file hone ke baad legal follow up kaun karta hai?",
+      "reference": "The para-legal officer or lawyer coordinates with the public prosecutor or legal services authority lawyers.",
+      "language": "hinglish",
+      "question": "Case file hone ke baad legal follow up kaun karta hai?",
+      "baseline_rank": 22,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p32:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "33",
+      "anchor": "Mission Shakti OSC dashboard",
+      "en": "Who enters cases in the OSC dashboard?",
+      "hi": "डैशबोर्ड में मामला कौन दर्ज करता है?",
+      "hinglish": "Dashboard par case entry kaun karta hai?",
+      "reference": "IT staff register the case.",
+      "language": "en",
+      "question": "Who enters cases in the OSC dashboard?",
+      "baseline_rank": 59,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p33:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "33",
+      "anchor": "Mission Shakti OSC dashboard",
+      "en": "Who enters cases in the OSC dashboard?",
+      "hi": "डैशबोर्ड में मामला कौन दर्ज करता है?",
+      "hinglish": "Dashboard par case entry kaun karta hai?",
+      "reference": "IT staff register the case.",
+      "language": "hi",
+      "question": "डैशबोर्ड में मामला कौन दर्ज करता है?",
+      "baseline_rank": 20,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p33:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "33",
+      "anchor": "Mission Shakti OSC dashboard",
+      "en": "Who enters cases in the OSC dashboard?",
+      "hi": "डैशबोर्ड में मामला कौन दर्ज करता है?",
+      "hinglish": "Dashboard par case entry kaun karta hai?",
+      "reference": "IT staff register the case.",
+      "language": "hinglish",
+      "question": "Dashboard par case entry kaun karta hai?",
+      "baseline_rank": 27,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p33:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "16",
+      "anchor": "dedicated lawyers",
+      "en": "Who prepares the district list of lawyers?",
+      "hi": "जिले के वकीलों की सूची कौन बनाता है?",
+      "hinglish": "District ke lawyers ki list kaun banata hai?",
+      "reference": "State and district legal services authorities.",
+      "language": "en",
+      "question": "Who prepares the district list of lawyers?",
+      "baseline_rank": 5,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p16:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "16",
+      "anchor": "dedicated lawyers",
+      "en": "Who prepares the district list of lawyers?",
+      "hi": "जिले के वकीलों की सूची कौन बनाता है?",
+      "hinglish": "District ke lawyers ki list kaun banata hai?",
+      "reference": "State and district legal services authorities.",
+      "language": "hi",
+      "question": "जिले के वकीलों की सूची कौन बनाता है?",
+      "baseline_rank": 1,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p16:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "16",
+      "anchor": "dedicated lawyers",
+      "en": "Who prepares the district list of lawyers?",
+      "hi": "जिले के वकीलों की सूची कौन बनाता है?",
+      "hinglish": "District ke lawyers ki list kaun banata hai?",
+      "reference": "State and district legal services authorities.",
+      "language": "hinglish",
+      "question": "District ke lawyers ki list kaun banata hai?",
+      "baseline_rank": 4,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p16:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "30",
+      "anchor": "first point of contact",
+      "en": "Who is the first contact for a survivor at an OSC?",
+      "hi": "केंद्र पर सबसे पहले संपर्क किससे होता है?",
+      "hinglish": "OSC par sabse pehle kisse contact karein?",
+      "reference": "The Centre Administrator.",
+      "language": "en",
+      "question": "Who is the first contact for a survivor at an OSC?",
+      "baseline_rank": 30,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p30:c1",
+        "One_Stop_Centre_SOP_English:p30:c2"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "30",
+      "anchor": "first point of contact",
+      "en": "Who is the first contact for a survivor at an OSC?",
+      "hi": "केंद्र पर सबसे पहले संपर्क किससे होता है?",
+      "hinglish": "OSC par sabse pehle kisse contact karein?",
+      "reference": "The Centre Administrator.",
+      "language": "hi",
+      "question": "केंद्र पर सबसे पहले संपर्क किससे होता है?",
+      "baseline_rank": 39,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p30:c1",
+        "One_Stop_Centre_SOP_English:p30:c2"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "30",
+      "anchor": "first point of contact",
+      "en": "Who is the first contact for a survivor at an OSC?",
+      "hi": "केंद्र पर सबसे पहले संपर्क किससे होता है?",
+      "hinglish": "OSC par sabse pehle kisse contact karein?",
+      "reference": "The Centre Administrator.",
+      "language": "hinglish",
+      "question": "OSC par sabse pehle kisse contact karein?",
+      "baseline_rank": 61,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p30:c1",
+        "One_Stop_Centre_SOP_English:p30:c2"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "W",
+      "page": "7",
+      "anchor": "Information calls",
+      "en": "What are the three categories of helpline calls?",
+      "hi": "हेल्पलाइन कॉल किन तीन श्रेणियों में आती हैं?",
+      "hinglish": "181 par calls ki teen categories kya hain?",
+      "reference": "Emergency, non-emergency and information calls.",
+      "language": "en",
+      "question": "What are the three categories of helpline calls?",
+      "baseline_rank": 24,
+      "adapted_rank": 3,
+      "gold_chunks": [
+        "Women_Helpline_181_SOP_English:p7:c1",
+        "Women_Helpline_181_SOP_English:p7:c2"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "W",
+      "page": "7",
+      "anchor": "Information calls",
+      "en": "What are the three categories of helpline calls?",
+      "hi": "हेल्पलाइन कॉल किन तीन श्रेणियों में आती हैं?",
+      "hinglish": "181 par calls ki teen categories kya hain?",
+      "reference": "Emergency, non-emergency and information calls.",
+      "language": "hi",
+      "question": "हेल्पलाइन कॉल किन तीन श्रेणियों में आती हैं?",
+      "baseline_rank": 10,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "Women_Helpline_181_SOP_English:p7:c1",
+        "Women_Helpline_181_SOP_English:p7:c2"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "W",
+      "page": "7",
+      "anchor": "Information calls",
+      "en": "What are the three categories of helpline calls?",
+      "hi": "हेल्पलाइन कॉल किन तीन श्रेणियों में आती हैं?",
+      "hinglish": "181 par calls ki teen categories kya hain?",
+      "reference": "Emergency, non-emergency and information calls.",
+      "language": "hinglish",
+      "question": "181 par calls ki teen categories kya hain?",
+      "baseline_rank": 8,
+      "adapted_rank": 2,
+      "gold_chunks": [
+        "Women_Helpline_181_SOP_English:p7:c1",
+        "Women_Helpline_181_SOP_English:p7:c2"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "W",
+      "page": "8",
+      "anchor": "forwarded by the WHL",
+      "en": "Where does the helpline forward emergency calls?",
+      "hi": "आपातकालीन कॉल किस सेवा को भेजी जाती है?",
+      "hinglish": "Emergency call kahan forward hoti hai?",
+      "reference": "The WHL control room forwards emergency calls to ERSS-112 and informs the relevant WHL unit or OSC.",
+      "language": "en",
+      "question": "Where does the helpline forward emergency calls?",
+      "baseline_rank": 5,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "Women_Helpline_181_SOP_English:p8:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "W",
+      "page": "8",
+      "anchor": "forwarded by the WHL",
+      "en": "Where does the helpline forward emergency calls?",
+      "hi": "आपातकालीन कॉल किस सेवा को भेजी जाती है?",
+      "hinglish": "Emergency call kahan forward hoti hai?",
+      "reference": "The WHL control room forwards emergency calls to ERSS-112 and informs the relevant WHL unit or OSC.",
+      "language": "hi",
+      "question": "आपातकालीन कॉल किस सेवा को भेजी जाती है?",
+      "baseline_rank": 6,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "Women_Helpline_181_SOP_English:p8:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "W",
+      "page": "8",
+      "anchor": "forwarded by the WHL",
+      "en": "Where does the helpline forward emergency calls?",
+      "hi": "आपातकालीन कॉल किस सेवा को भेजी जाती है?",
+      "hinglish": "Emergency call kahan forward hoti hai?",
+      "reference": "The WHL control room forwards emergency calls to ERSS-112 and informs the relevant WHL unit or OSC.",
+      "language": "hinglish",
+      "question": "Emergency call kahan forward hoti hai?",
+      "baseline_rank": 2,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "Women_Helpline_181_SOP_English:p8:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "W",
+      "page": "10",
+      "anchor": "weekly shift",
+      "en": "Does the helpline answer at night?",
+      "hi": "क्या हेल्पलाइन रात में भी कॉल लेती है?",
+      "hinglish": "Raat mein bhi helpline call uthati hai?",
+      "reference": "The SOP specifies 24 hours a day throughout the year, in shifts.",
+      "language": "en",
+      "question": "Does the helpline answer at night?",
+      "baseline_rank": 3,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "Women_Helpline_181_SOP_English:p10:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "W",
+      "page": "10",
+      "anchor": "weekly shift",
+      "en": "Does the helpline answer at night?",
+      "hi": "क्या हेल्पलाइन रात में भी कॉल लेती है?",
+      "hinglish": "Raat mein bhi helpline call uthati hai?",
+      "reference": "The SOP specifies 24 hours a day throughout the year, in shifts.",
+      "language": "hi",
+      "question": "क्या हेल्पलाइन रात में भी कॉल लेती है?",
+      "baseline_rank": 1,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "Women_Helpline_181_SOP_English:p10:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "W",
+      "page": "10",
+      "anchor": "weekly shift",
+      "en": "Does the helpline answer at night?",
+      "hi": "क्या हेल्पलाइन रात में भी कॉल लेती है?",
+      "hinglish": "Raat mein bhi helpline call uthati hai?",
+      "reference": "The SOP specifies 24 hours a day throughout the year, in shifts.",
+      "language": "hinglish",
+      "question": "Raat mein bhi helpline call uthati hai?",
+      "baseline_rank": 9,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "Women_Helpline_181_SOP_English:p10:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "W",
+      "page": "16",
+      "anchor": "technical training",
+      "en": "Who provides hands-on training for helpline personnel?",
+      "hi": "हेल्पलाइन कर्मचारियों को तकनीकी प्रशिक्षण कौन देता है?",
+      "hinglish": "Helpline staff ko technical training kaun deta hai?",
+      "reference": "C-DAC.",
+      "language": "en",
+      "question": "Who provides hands-on training for helpline personnel?",
+      "baseline_rank": 1,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "Women_Helpline_181_SOP_English:p16:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "W",
+      "page": "16",
+      "anchor": "technical training",
+      "en": "Who provides hands-on training for helpline personnel?",
+      "hi": "हेल्पलाइन कर्मचारियों को तकनीकी प्रशिक्षण कौन देता है?",
+      "hinglish": "Helpline staff ko technical training kaun deta hai?",
+      "reference": "C-DAC.",
+      "language": "hi",
+      "question": "हेल्पलाइन कर्मचारियों को तकनीकी प्रशिक्षण कौन देता है?",
+      "baseline_rank": 1,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "Women_Helpline_181_SOP_English:p16:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "W",
+      "page": "16",
+      "anchor": "technical training",
+      "en": "Who provides hands-on training for helpline personnel?",
+      "hi": "हेल्पलाइन कर्मचारियों को तकनीकी प्रशिक्षण कौन देता है?",
+      "hinglish": "Helpline staff ko technical training kaun deta hai?",
+      "reference": "C-DAC.",
+      "language": "hinglish",
+      "question": "Helpline staff ko technical training kaun deta hai?",
+      "baseline_rank": 3,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "Women_Helpline_181_SOP_English:p16:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "W",
+      "page": "17",
+      "anchor": "Average time",
+      "en": "Which time measure is included in reporting?",
+      "hi": "रिपोर्ट में समय का कौन सा माप शामिल है?",
+      "hinglish": "Helpline report mein time ka kaunsa metric hai?",
+      "reference": "Average time taken to close the call.",
+      "language": "en",
+      "question": "Which time measure is included in reporting?",
+      "baseline_rank": 6,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "Women_Helpline_181_SOP_English:p17:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "W",
+      "page": "17",
+      "anchor": "Average time",
+      "en": "Which time measure is included in reporting?",
+      "hi": "रिपोर्ट में समय का कौन सा माप शामिल है?",
+      "hinglish": "Helpline report mein time ka kaunsa metric hai?",
+      "reference": "Average time taken to close the call.",
+      "language": "hi",
+      "question": "रिपोर्ट में समय का कौन सा माप शामिल है?",
+      "baseline_rank": 9,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "Women_Helpline_181_SOP_English:p17:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "W",
+      "page": "17",
+      "anchor": "Average time",
+      "en": "Which time measure is included in reporting?",
+      "hi": "रिपोर्ट में समय का कौन सा माप शामिल है?",
+      "hinglish": "Helpline report mein time ka kaunsa metric hai?",
+      "reference": "Average time taken to close the call.",
+      "language": "hinglish",
+      "question": "Helpline report mein time ka kaunsa metric hai?",
+      "baseline_rank": 17,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "Women_Helpline_181_SOP_English:p17:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "14",
+      "anchor": "nodal ministry",
+      "en": "Who oversees OSC policy nationally?",
+      "hi": "राष्ट्रीय स्तर पर केंद्र की नीति कौन देखता है?",
+      "hinglish": "National level par OSC policy kaun dekhta hai?",
+      "reference": "The Ministry of Women and Child Development.",
+      "language": "en",
+      "question": "Who oversees OSC policy nationally?",
+      "baseline_rank": 9,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p14:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "14",
+      "anchor": "nodal ministry",
+      "en": "Who oversees OSC policy nationally?",
+      "hi": "राष्ट्रीय स्तर पर केंद्र की नीति कौन देखता है?",
+      "hinglish": "National level par OSC policy kaun dekhta hai?",
+      "reference": "The Ministry of Women and Child Development.",
+      "language": "hi",
+      "question": "राष्ट्रीय स्तर पर केंद्र की नीति कौन देखता है?",
+      "baseline_rank": 3,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p14:c1"
+      ]
+    },
+    {
+      "split": "train",
+      "doc": "O",
+      "page": "14",
+      "anchor": "nodal ministry",
+      "en": "Who oversees OSC policy nationally?",
+      "hi": "राष्ट्रीय स्तर पर केंद्र की नीति कौन देखता है?",
+      "hinglish": "National level par OSC policy kaun dekhta hai?",
+      "reference": "The Ministry of Women and Child Development.",
+      "language": "hinglish",
+      "question": "National level par OSC policy kaun dekhta hai?",
+      "baseline_rank": 2,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p14:c1"
+      ]
+    },
+    {
+      "split": "dev",
+      "doc": "O",
+      "page": "22",
+      "anchor": "respectfully ask",
+      "en": "How should staff find out disability-related support needs?",
+      "hi": "दिव्यांग व्यक्ति की सहायता की जरूरत कैसे जानें?",
+      "hinglish": "Disability support ki zarurat staff kaise samjhe?",
+      "reference": "Ask the survivor respectfully which accommodations are needed.",
+      "language": "en",
+      "question": "How should staff find out disability-related support needs?",
+      "baseline_rank": 1,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p22:c1"
+      ]
+    },
+    {
+      "split": "dev",
+      "doc": "O",
+      "page": "22",
+      "anchor": "respectfully ask",
+      "en": "How should staff find out disability-related support needs?",
+      "hi": "दिव्यांग व्यक्ति की सहायता की जरूरत कैसे जानें?",
+      "hinglish": "Disability support ki zarurat staff kaise samjhe?",
+      "reference": "Ask the survivor respectfully which accommodations are needed.",
+      "language": "hi",
+      "question": "दिव्यांग व्यक्ति की सहायता की जरूरत कैसे जानें?",
+      "baseline_rank": 2,
+      "adapted_rank": 2,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p22:c1"
+      ]
+    },
+    {
+      "split": "dev",
+      "doc": "O",
+      "page": "22",
+      "anchor": "respectfully ask",
+      "en": "How should staff find out disability-related support needs?",
+      "hi": "दिव्यांग व्यक्ति की सहायता की जरूरत कैसे जानें?",
+      "hinglish": "Disability support ki zarurat staff kaise samjhe?",
+      "reference": "Ask the survivor respectfully which accommodations are needed.",
+      "language": "hinglish",
+      "question": "Disability support ki zarurat staff kaise samjhe?",
+      "baseline_rank": 23,
+      "adapted_rank": 10,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p22:c1"
+      ]
+    },
+    {
+      "split": "dev",
+      "doc": "W",
+      "page": "10",
+      "anchor": "specified address",
+      "en": "Can I contact the helpline without a voice call?",
+      "hi": "क्या बिना फोन किए संपर्क कर सकती हूँ?",
+      "hinglish": "Call ke bina helpline se contact kaise karun?",
+      "reference": "The SOP also lists SMS to the specified number and email to the specified address.",
+      "language": "en",
+      "question": "Can I contact the helpline without a voice call?",
+      "baseline_rank": 1,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "Women_Helpline_181_SOP_English:p10:c1"
+      ]
+    },
+    {
+      "split": "dev",
+      "doc": "W",
+      "page": "10",
+      "anchor": "specified address",
+      "en": "Can I contact the helpline without a voice call?",
+      "hi": "क्या बिना फोन किए संपर्क कर सकती हूँ?",
+      "hinglish": "Call ke bina helpline se contact kaise karun?",
+      "reference": "The SOP also lists SMS to the specified number and email to the specified address.",
+      "language": "hi",
+      "question": "क्या बिना फोन किए संपर्क कर सकती हूँ?",
+      "baseline_rank": 5,
+      "adapted_rank": 2,
+      "gold_chunks": [
+        "Women_Helpline_181_SOP_English:p10:c1"
+      ]
+    },
+    {
+      "split": "dev",
+      "doc": "W",
+      "page": "10",
+      "anchor": "specified address",
+      "en": "Can I contact the helpline without a voice call?",
+      "hi": "क्या बिना फोन किए संपर्क कर सकती हूँ?",
+      "hinglish": "Call ke bina helpline se contact kaise karun?",
+      "reference": "The SOP also lists SMS to the specified number and email to the specified address.",
+      "language": "hinglish",
+      "question": "Call ke bina helpline se contact kaise karun?",
+      "baseline_rank": 2,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "Women_Helpline_181_SOP_English:p10:c1"
+      ]
+    },
+    {
+      "split": "dev",
+      "doc": "O",
+      "page": "31",
+      "anchor": "safety plan",
+      "en": "Who helps the survivor make a safety plan?",
+      "hi": "सुरक्षा योजना बनाने में कौन मदद करता है?",
+      "hinglish": "Safety plan banane mein kaun help karta hai?",
+      "reference": "The case worker.",
+      "language": "en",
+      "question": "Who helps the survivor make a safety plan?",
+      "baseline_rank": 34,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p31:c1"
+      ]
+    },
+    {
+      "split": "dev",
+      "doc": "O",
+      "page": "31",
+      "anchor": "safety plan",
+      "en": "Who helps the survivor make a safety plan?",
+      "hi": "सुरक्षा योजना बनाने में कौन मदद करता है?",
+      "hinglish": "Safety plan banane mein kaun help karta hai?",
+      "reference": "The case worker.",
+      "language": "hi",
+      "question": "सुरक्षा योजना बनाने में कौन मदद करता है?",
+      "baseline_rank": 147,
+      "adapted_rank": 23,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p31:c1"
+      ]
+    },
+    {
+      "split": "dev",
+      "doc": "O",
+      "page": "31",
+      "anchor": "safety plan",
+      "en": "Who helps the survivor make a safety plan?",
+      "hi": "सुरक्षा योजना बनाने में कौन मदद करता है?",
+      "hinglish": "Safety plan banane mein kaun help karta hai?",
+      "reference": "The case worker.",
+      "language": "hinglish",
+      "question": "Safety plan banane mein kaun help karta hai?",
+      "baseline_rank": 81,
+      "adapted_rank": 19,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p31:c1"
+      ]
+    },
+    {
+      "split": "test",
+      "doc": "O",
+      "page": "20",
+      "anchor": "minimum of five beds",
+      "en": "How many shelter beds should an OSC have at minimum?",
+      "hi": "केंद्र में न्यूनतम कितने बिस्तर होने चाहिए?",
+      "hinglish": "Centre mein kam se kam kitne beds hone chahiye?",
+      "reference": "At least five beds.",
+      "language": "en",
+      "question": "How many shelter beds should an OSC have at minimum?",
+      "baseline_rank": 2,
+      "adapted_rank": 2,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p20:c1"
+      ]
+    },
+    {
+      "split": "test",
+      "doc": "O",
+      "page": "20",
+      "anchor": "minimum of five beds",
+      "en": "How many shelter beds should an OSC have at minimum?",
+      "hi": "केंद्र में न्यूनतम कितने बिस्तर होने चाहिए?",
+      "hinglish": "Centre mein kam se kam kitne beds hone chahiye?",
+      "reference": "At least five beds.",
+      "language": "hi",
+      "question": "केंद्र में न्यूनतम कितने बिस्तर होने चाहिए?",
+      "baseline_rank": 2,
+      "adapted_rank": 2,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p20:c1"
+      ]
+    },
+    {
+      "split": "test",
+      "doc": "O",
+      "page": "20",
+      "anchor": "minimum of five beds",
+      "en": "How many shelter beds should an OSC have at minimum?",
+      "hi": "केंद्र में न्यूनतम कितने बिस्तर होने चाहिए?",
+      "hinglish": "Centre mein kam se kam kitne beds hone chahiye?",
+      "reference": "At least five beds.",
+      "language": "hinglish",
+      "question": "Centre mein kam se kam kitne beds hone chahiye?",
+      "baseline_rank": 13,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p20:c1"
+      ]
+    },
+    {
+      "split": "test",
+      "doc": "O",
+      "page": "32",
+      "anchor": "first aid",
+      "en": "Who gives first aid before hospital arrival?",
+      "hi": "अस्पताल पहुँचने से पहले प्राथमिक उपचार कौन देता है?",
+      "hinglish": "Hospital pahunchne se pehle first aid kaun deta hai?",
+      "reference": "The para-medical officer.",
+      "language": "en",
+      "question": "Who gives first aid before hospital arrival?",
+      "baseline_rank": 8,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p32:c1"
+      ]
+    },
+    {
+      "split": "test",
+      "doc": "O",
+      "page": "32",
+      "anchor": "first aid",
+      "en": "Who gives first aid before hospital arrival?",
+      "hi": "अस्पताल पहुँचने से पहले प्राथमिक उपचार कौन देता है?",
+      "hinglish": "Hospital pahunchne se pehle first aid kaun deta hai?",
+      "reference": "The para-medical officer.",
+      "language": "hi",
+      "question": "अस्पताल पहुँचने से पहले प्राथमिक उपचार कौन देता है?",
+      "baseline_rank": 2,
+      "adapted_rank": 2,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p32:c1"
+      ]
+    },
+    {
+      "split": "test",
+      "doc": "O",
+      "page": "32",
+      "anchor": "first aid",
+      "en": "Who gives first aid before hospital arrival?",
+      "hi": "अस्पताल पहुँचने से पहले प्राथमिक उपचार कौन देता है?",
+      "hinglish": "Hospital pahunchne se pehle first aid kaun deta hai?",
+      "reference": "The para-medical officer.",
+      "language": "hinglish",
+      "question": "Hospital pahunchne se pehle first aid kaun deta hai?",
+      "baseline_rank": 52,
+      "adapted_rank": 47,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p32:c1"
+      ]
+    },
+    {
+      "split": "test",
+      "doc": "W",
+      "page": "8",
+      "anchor": "post assessment",
+      "en": "What happens to a non-emergency request for emotional support?",
+      "hi": "भावनात्मक सहायता की गैर आपात कॉल का क्या होता है?",
+      "hinglish": "Emotional support wali non emergency call kahan jaati hai?",
+      "reference": "Following assessment, it is transferred to the WHL unit of an OSC for the appropriate intervention.",
+      "language": "en",
+      "question": "What happens to a non-emergency request for emotional support?",
+      "baseline_rank": 8,
+      "adapted_rank": 4,
+      "gold_chunks": [
+        "Women_Helpline_181_SOP_English:p8:c1"
+      ]
+    },
+    {
+      "split": "test",
+      "doc": "W",
+      "page": "8",
+      "anchor": "post assessment",
+      "en": "What happens to a non-emergency request for emotional support?",
+      "hi": "भावनात्मक सहायता की गैर आपात कॉल का क्या होता है?",
+      "hinglish": "Emotional support wali non emergency call kahan jaati hai?",
+      "reference": "Following assessment, it is transferred to the WHL unit of an OSC for the appropriate intervention.",
+      "language": "hi",
+      "question": "भावनात्मक सहायता की गैर आपात कॉल का क्या होता है?",
+      "baseline_rank": 3,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "Women_Helpline_181_SOP_English:p8:c1"
+      ]
+    },
+    {
+      "split": "test",
+      "doc": "W",
+      "page": "8",
+      "anchor": "post assessment",
+      "en": "What happens to a non-emergency request for emotional support?",
+      "hi": "भावनात्मक सहायता की गैर आपात कॉल का क्या होता है?",
+      "hinglish": "Emotional support wali non emergency call kahan jaati hai?",
+      "reference": "Following assessment, it is transferred to the WHL unit of an OSC for the appropriate intervention.",
+      "language": "hinglish",
+      "question": "Emotional support wali non emergency call kahan jaati hai?",
+      "baseline_rank": 6,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "Women_Helpline_181_SOP_English:p8:c1"
+      ]
+    },
+    {
+      "split": "test",
+      "doc": "O",
+      "page": "27",
+      "anchor": "Minimum three years",
+      "en": "How much relevant experience should a case worker have?",
+      "hi": "केस वर्कर को कितना अनुभव चाहिए?",
+      "hinglish": "Case worker ko kitna experience chahiye?",
+      "reference": "At least three years of relevant experience.",
+      "language": "en",
+      "question": "How much relevant experience should a case worker have?",
+      "baseline_rank": 2,
+      "adapted_rank": 3,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p27:c1",
+        "One_Stop_Centre_SOP_English:p27:c2",
+        "One_Stop_Centre_SOP_English:p27:c3"
+      ]
+    },
+    {
+      "split": "test",
+      "doc": "O",
+      "page": "27",
+      "anchor": "Minimum three years",
+      "en": "How much relevant experience should a case worker have?",
+      "hi": "केस वर्कर को कितना अनुभव चाहिए?",
+      "hinglish": "Case worker ko kitna experience chahiye?",
+      "reference": "At least three years of relevant experience.",
+      "language": "hi",
+      "question": "केस वर्कर को कितना अनुभव चाहिए?",
+      "baseline_rank": 3,
+      "adapted_rank": 4,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p27:c1",
+        "One_Stop_Centre_SOP_English:p27:c2",
+        "One_Stop_Centre_SOP_English:p27:c3"
+      ]
+    },
+    {
+      "split": "test",
+      "doc": "O",
+      "page": "27",
+      "anchor": "Minimum three years",
+      "en": "How much relevant experience should a case worker have?",
+      "hi": "केस वर्कर को कितना अनुभव चाहिए?",
+      "hinglish": "Case worker ko kitna experience chahiye?",
+      "reference": "At least three years of relevant experience.",
+      "language": "hinglish",
+      "question": "Case worker ko kitna experience chahiye?",
+      "baseline_rank": 1,
+      "adapted_rank": 5,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p27:c1",
+        "One_Stop_Centre_SOP_English:p27:c2",
+        "One_Stop_Centre_SOP_English:p27:c3"
+      ]
+    },
+    {
+      "split": "test",
+      "doc": "O",
+      "page": "14",
+      "anchor": "District Magistrate",
+      "en": "Who leads the district committee implementing the OSC scheme?",
+      "hi": "जिला स्तर पर कार्यान्वयन समिति की अगुवाई कौन करता है?",
+      "hinglish": "District ki OSC implementation committee ka head kaun hai?",
+      "reference": "The District Magistrate or Collector.",
+      "language": "en",
+      "question": "Who leads the district committee implementing the OSC scheme?",
+      "baseline_rank": 2,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p14:c1",
+        "One_Stop_Centre_SOP_English:p14:c2"
+      ]
+    },
+    {
+      "split": "test",
+      "doc": "O",
+      "page": "14",
+      "anchor": "District Magistrate",
+      "en": "Who leads the district committee implementing the OSC scheme?",
+      "hi": "जिला स्तर पर कार्यान्वयन समिति की अगुवाई कौन करता है?",
+      "hinglish": "District ki OSC implementation committee ka head kaun hai?",
+      "reference": "The District Magistrate or Collector.",
+      "language": "hi",
+      "question": "जिला स्तर पर कार्यान्वयन समिति की अगुवाई कौन करता है?",
+      "baseline_rank": 2,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p14:c1",
+        "One_Stop_Centre_SOP_English:p14:c2"
+      ]
+    },
+    {
+      "split": "test",
+      "doc": "O",
+      "page": "14",
+      "anchor": "District Magistrate",
+      "en": "Who leads the district committee implementing the OSC scheme?",
+      "hi": "जिला स्तर पर कार्यान्वयन समिति की अगुवाई कौन करता है?",
+      "hinglish": "District ki OSC implementation committee ka head kaun hai?",
+      "reference": "The District Magistrate or Collector.",
+      "language": "hinglish",
+      "question": "District ki OSC implementation committee ka head kaun hai?",
+      "baseline_rank": 2,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p14:c1",
+        "One_Stop_Centre_SOP_English:p14:c2"
+      ]
+    },
+    {
+      "split": "test",
+      "doc": "O",
+      "page": "20",
+      "anchor": "sign language",
+      "en": "What communication support should counselling rooms offer?",
+      "hi": "परामर्श कक्ष में सुनने में कठिनाई वालों के लिए क्या व्यवस्था है?",
+      "hinglish": "Hearing difficulty ho toh counselling room mein kya support hai?",
+      "reference": "Appropriate communication aids and access to trained sign language interpreters where needed.",
+      "language": "en",
+      "question": "What communication support should counselling rooms offer?",
+      "baseline_rank": 3,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p20:c1"
+      ]
+    },
+    {
+      "split": "test",
+      "doc": "O",
+      "page": "20",
+      "anchor": "sign language",
+      "en": "What communication support should counselling rooms offer?",
+      "hi": "परामर्श कक्ष में सुनने में कठिनाई वालों के लिए क्या व्यवस्था है?",
+      "hinglish": "Hearing difficulty ho toh counselling room mein kya support hai?",
+      "reference": "Appropriate communication aids and access to trained sign language interpreters where needed.",
+      "language": "hi",
+      "question": "परामर्श कक्ष में सुनने में कठिनाई वालों के लिए क्या व्यवस्था है?",
+      "baseline_rank": 1,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p20:c1"
+      ]
+    },
+    {
+      "split": "test",
+      "doc": "O",
+      "page": "20",
+      "anchor": "sign language",
+      "en": "What communication support should counselling rooms offer?",
+      "hi": "परामर्श कक्ष में सुनने में कठिनाई वालों के लिए क्या व्यवस्था है?",
+      "hinglish": "Hearing difficulty ho toh counselling room mein kya support hai?",
+      "reference": "Appropriate communication aids and access to trained sign language interpreters where needed.",
+      "language": "hinglish",
+      "question": "Hearing difficulty ho toh counselling room mein kya support hai?",
+      "baseline_rank": 3,
+      "adapted_rank": 1,
+      "gold_chunks": [
+        "One_Stop_Centre_SOP_English:p20:c1"
+      ]
+    }
+  ]
+}

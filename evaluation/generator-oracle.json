@@ -1,0 +1,245 @@
+[
+  {
+    "question": "How long can I stay at an OSC?",
+    "language": "en",
+    "split": "train",
+    "passage": "D. Infrastructure and facilities 1. Location and accessibility OSCs should be located within the district hospital/ medical facility. If it is not possible to locate them within the hospital, they may be located in a government/semi government building within a radius of 2 kms from the district hospital. If it is not possible to locate the OSC in an existing government/semi government accommodation, the OSC could be constructed on adequate land either within the hospital / medical facility or within a 2 km radius of the hospital/medical facility. While OSCs currently provide temporary shelter for a maximum of 5 days, a longer stay may be required in specific cases where relocation to Shakti Sadan is not feasible. In such cases, Centre Administrators have the discretion to extend the stay up to 10 days on a case by case basis. For any further extension beyond 10 days, the District Nodal Officer (DNO)/District Program Officer (DPO) is authorized to allow an additional stay of up to 10 more days, ensuring victims have continuous access to essential services as required.",
+    "reference": "Usually five days. If relocation to Shakti Sadan is infeasible, the administrator can extend the stay to ten days case by case. The DNO/DPO can authorize up to ten further days.",
+    "baseline": "The passage states that an OSC provides temporary shelter for a maximum of 5 days but can extend this up to 10 days under certain circumstances.",
+    "adapted": "Centre administrators have discretion to extend stay up to ten days."
+  },
+  {
+    "question": "वन स्टॉप सेंटर में अधिकतम कितने दिन रह सकती हूँ?",
+    "language": "hi",
+    "split": "train",
+    "passage": "D. Infrastructure and facilities 1. Location and accessibility OSCs should be located within the district hospital/ medical facility. If it is not possible to locate them within the hospital, they may be located in a government/semi government building within a radius of 2 kms from the district hospital. If it is not possible to locate the OSC in an existing government/semi government accommodation, the OSC could be constructed on adequate land either within the hospital / medical facility or within a 2 km radius of the hospital/medical facility. While OSCs currently provide temporary shelter for a maximum of 5 days, a longer stay may be required in specific cases where relocation to Shakti Sadan is not feasible. In such cases, Centre Administrators have the discretion to extend the stay up to 10 days on a case by case basis. For any further extension beyond 10 days, the District Nodal Officer (DNO)/District Program Officer (DPO) is authorized to allow an additional stay of up to 10 more days, ensuring victims have continuous access to essential services as required.",
+    "reference": "Usually five days. If relocation to Shakti Sadan is infeasible, the administrator can extend the stay to ten days case by case. The DNO/DPO can authorize up to ten further days.",
+    "baseline": "वन स्टॉप सेंटर में अधिकतम 5 दिनों रह सकता है।",
+    "adapted": "संविधान प्रणाली।"
+  },
+  {
+    "question": "OSC mein maximum kitne din ruk sakte hain?",
+    "language": "hinglish",
+    "split": "train",
+    "passage": "D. Infrastructure and facilities 1. Location and accessibility OSCs should be located within the district hospital/ medical facility. If it is not possible to locate them within the hospital, they may be located in a government/semi government building within a radius of 2 kms from the district hospital. If it is not possible to locate the OSC in an existing government/semi government accommodation, the OSC could be constructed on adequate land either within the hospital / medical facility or within a 2 km radius of the hospital/medical facility. While OSCs currently provide temporary shelter for a maximum of 5 days, a longer stay may be required in specific cases where relocation to Shakti Sadan is not feasible. In such cases, Centre Administrators have the discretion to extend the stay up to 10 days on a case by case basis. For any further extension beyond 10 days, the District Nodal Officer (DNO)/District Program Officer (DPO) is authorized to allow an additional stay of up to 10 more days, ensuring victims have continuous access to essential services as required.",
+    "reference": "Usually five days. If relocation to Shakti Sadan is infeasible, the administrator can extend the stay to ten days case by case. The DNO/DPO can authorize up to ten further days.",
+    "baseline": "OSCs can provide temporary shelter for a maximum of 5 days.",
+    "adapted": "OSCs kisi par aur duniya mein maximum 5 days ruk sakta hai."
+  },
+  {
+    "question": "How many shelter beds should an OSC have at minimum?",
+    "language": "en",
+    "split": "test",
+    "passage": "● Emergency provisions such as fire safety measures and clearly marked accessible exits The Centre Administrator will be responsible for ensuring the availability of the above mentioned facilities at the OSC. 3. Private counseling rooms OSCs must have dedicated private counseling rooms, with both audio and visual privacy, to provide survivors with a confidential and safe space for emotional, psychological, and legal consultations. The counselling rooms should be equipped with comfortable seating and appropriate communication aids, including devices for survivors with hearing or visual impairments, as well as access to trained personnel for sign language interpretation where needed. The Centre Administrator will be responsible for ensuring the availability of the above mentioned facilities at the OSC. 4. Temporary shelter facilities OSCs should have a minimum of five beds to provide temporary shelter facilities to distressed women and their children, where required (girls of all ages, and boys till the age of 12 years) for up to five days. On case to case basis, temporary shelter may be extended to 20 days.",
+    "reference": "At least five beds.",
+    "baseline": "An OSC should have a minimum of five beds for temporary shelter facilities.",
+    "adapted": "Five."
+  },
+  {
+    "question": "केंद्र में न्यूनतम कितने बिस्तर होने चाहिए?",
+    "language": "hi",
+    "split": "test",
+    "passage": "● Emergency provisions such as fire safety measures and clearly marked accessible exits The Centre Administrator will be responsible for ensuring the availability of the above mentioned facilities at the OSC. 3. Private counseling rooms OSCs must have dedicated private counseling rooms, with both audio and visual privacy, to provide survivors with a confidential and safe space for emotional, psychological, and legal consultations. The counselling rooms should be equipped with comfortable seating and appropriate communication aids, including devices for survivors with hearing or visual impairments, as well as access to trained personnel for sign language interpretation where needed. The Centre Administrator will be responsible for ensuring the availability of the above mentioned facilities at the OSC. 4. Temporary shelter facilities OSCs should have a minimum of five beds to provide temporary shelter facilities to distressed women and their children, where required (girls of all ages, and boys till the age of 12 years) for up to five days. On case to case basis, temporary shelter may be extended to 20 days.",
+    "reference": "At least five beds.",
+    "baseline": "UNKNOWN",
+    "adapted": "सभी।"
+  },
+  {
+    "question": "Centre mein kam se kam kitne beds hone chahiye?",
+    "language": "hinglish",
+    "split": "test",
+    "passage": "● Emergency provisions such as fire safety measures and clearly marked accessible exits The Centre Administrator will be responsible for ensuring the availability of the above mentioned facilities at the OSC. 3. Private counseling rooms OSCs must have dedicated private counseling rooms, with both audio and visual privacy, to provide survivors with a confidential and safe space for emotional, psychological, and legal consultations. The counselling rooms should be equipped with comfortable seating and appropriate communication aids, including devices for survivors with hearing or visual impairments, as well as access to trained personnel for sign language interpretation where needed. The Centre Administrator will be responsible for ensuring the availability of the above mentioned facilities at the OSC. 4. Temporary shelter facilities OSCs should have a minimum of five beds to provide temporary shelter facilities to distressed women and their children, where required (girls of all ages, and boys till the age of 12 years) for up to five days. On case to case basis, temporary shelter may be extended to 20 days.",
+    "reference": "At least five beds.",
+    "baseline": "5 beds.",
+    "adapted": "Centre mein minimum five beds hona chahiye."
+  },
+  {
+    "question": "Who gives first aid before hospital arrival?",
+    "language": "en",
+    "split": "test",
+    "passage": "S. No Position Primary responsibilities Secondary responsibilities 3 Para Legal officer/ Lawyer Para Legal officer will: · Orient the survivor about their legal rights · Support/guide the survivor to initiate legal proceedings against the abuse/violence suffered, if they would like to · Coordinate with the Public Prosecutor or the SLSA/DLSA Lawyers, to support the survivor even after the case has been filed in court as well as to ensure the case is followed up to its logical conclusion · Simplify legal procedures for the survivor · Facilitate speedy and hassle free police and court proceedings through the use of video conferencing facilities for recording the statement of the survivor Para legal officer will assist the centre administrator and case worker for: · Understanding the legal nuances involved during case assessment · Coordinating with the police and other institutions under the law 4 Para Medical Officer Para medical officer will: · Provide first aid and immediate lifesaving medical assistance to the survivor until they reach the hospital. · Accompany the survivor to the hospital.",
+    "reference": "The para-medical officer.",
+    "baseline": "The Para Medical Officer gives first aid before the survivor reaches the hospital.",
+    "adapted": "The para medical officer provides first aid and immediate medical assistance to the survivor until they reach the hospital."
+  },
+  {
+    "question": "अस्पताल पहुँचने से पहले प्राथमिक उपचार कौन देता है?",
+    "language": "hi",
+    "split": "test",
+    "passage": "S. No Position Primary responsibilities Secondary responsibilities 3 Para Legal officer/ Lawyer Para Legal officer will: · Orient the survivor about their legal rights · Support/guide the survivor to initiate legal proceedings against the abuse/violence suffered, if they would like to · Coordinate with the Public Prosecutor or the SLSA/DLSA Lawyers, to support the survivor even after the case has been filed in court as well as to ensure the case is followed up to its logical conclusion · Simplify legal procedures for the survivor · Facilitate speedy and hassle free police and court proceedings through the use of video conferencing facilities for recording the statement of the survivor Para legal officer will assist the centre administrator and case worker for: · Understanding the legal nuances involved during case assessment · Coordinating with the police and other institutions under the law 4 Para Medical Officer Para medical officer will: · Provide first aid and immediate lifesaving medical assistance to the survivor until they reach the hospital. · Accompany the survivor to the hospital.",
+    "reference": "The para-medical officer.",
+    "baseline": "अस्पताल पहुँचने से पहले प्राथमिक उपचार करता है मध्यकाने शरीर को आवश्यक उपचार देता है।",
+    "adapted": "करीब आया। स्वास्थ्य मोड नेटवर्क अस्पताल पहुँचने से प्राथमिक उपचार जैसे बढ़िया गृह भावना और शामिल चिकित्सा देता है।"
+  },
+  {
+    "question": "Hospital pahunchne se pehle first aid kaun deta hai?",
+    "language": "hinglish",
+    "split": "test",
+    "passage": "S. No Position Primary responsibilities Secondary responsibilities 3 Para Legal officer/ Lawyer Para Legal officer will: · Orient the survivor about their legal rights · Support/guide the survivor to initiate legal proceedings against the abuse/violence suffered, if they would like to · Coordinate with the Public Prosecutor or the SLSA/DLSA Lawyers, to support the survivor even after the case has been filed in court as well as to ensure the case is followed up to its logical conclusion · Simplify legal procedures for the survivor · Facilitate speedy and hassle free police and court proceedings through the use of video conferencing facilities for recording the statement of the survivor Para legal officer will assist the centre administrator and case worker for: · Understanding the legal nuances involved during case assessment · Coordinating with the police and other institutions under the law 4 Para Medical Officer Para medical officer will: · Provide first aid and immediate lifesaving medical assistance to the survivor until they reach the hospital. · Accompany the survivor to the hospital.",
+    "reference": "The para-medical officer.",
+    "baseline": "Para Medical Officer",
+    "adapted": "Para medical officer yaar deta hai aur medical officer medical statement karta hai."
+  },
+  {
+    "question": "What happens to a non-emergency request for emotional support?",
+    "language": "en",
+    "split": "test",
+    "passage": "3.6 Call Management: Depending upon the category of the call, tre cail operator shall follow the below laid down procedure for transferring the call to 1 12 or WHL unit of OSCs: i) EmerEency calls: Alt Emergency calls requiring intervention of abuse involvingmedical/health I police / fir e I arnbulance/protection from violence against women/chi1d marriage etc. shall be forwarded by the WHL Control Rooms to ERSS-112. While forwarding the calls to 112, concerned WHL Unit/OSC also be informed of the case for intervention. ii) Non-Emergencv calls: Non-emergency calls requiring psycho-social support/emotional support and guidance/legal support/education etc. on post assessment and nature of the call shall be transferred to WHL Units of OSCs for providing necessar5r support ald intervention as per the case. iii) Information Calls: These are ca-lls wherein caller is looking for information either pertaining to other services/ schemes of the Government. The call may be handled by the Call Operators of the WHL-CR wherever information is available or may be transferred to SHEW/DHEW/WHL Units of OSCs for providing information to the caller. 6",
+    "reference": "Following assessment, it is transferred to the WHL unit of an OSC for the appropriate intervention.",
+    "baseline": "A non-emergency request for emotional support is transferred to WHL units of OSCs for provision of necessary support and intervention as per the case.",
+    "adapted": "The WHL units of OSCs are informed about the case when emergency calls require medical or health intervention."
+  },
+  {
+    "question": "भावनात्मक सहायता की गैर आपात कॉल का क्या होता है?",
+    "language": "hi",
+    "split": "test",
+    "passage": "3.6 Call Management: Depending upon the category of the call, tre cail operator shall follow the below laid down procedure for transferring the call to 1 12 or WHL unit of OSCs: i) EmerEency calls: Alt Emergency calls requiring intervention of abuse involvingmedical/health I police / fir e I arnbulance/protection from violence against women/chi1d marriage etc. shall be forwarded by the WHL Control Rooms to ERSS-112. While forwarding the calls to 112, concerned WHL Unit/OSC also be informed of the case for intervention. ii) Non-Emergencv calls: Non-emergency calls requiring psycho-social support/emotional support and guidance/legal support/education etc. on post assessment and nature of the call shall be transferred to WHL Units of OSCs for providing necessar5r support ald intervention as per the case. iii) Information Calls: These are ca-lls wherein caller is looking for information either pertaining to other services/ schemes of the Government. The call may be handled by the Call Operators of the WHL-CR wherever information is available or may be transferred to SHEW/DHEW/WHL Units of OSCs for providing information to the caller. 6",
+    "reference": "Following assessment, it is transferred to the WHL unit of an OSC for the appropriate intervention.",
+    "baseline": "भावनात्मक सहायता की गैर-आपात कोल के लिए निम्न प्रकार की मांग होती है:\n\ni) असमुद्रिक जीवन के बाद कोल को इंटरवेट के लिए चाहिए।\n\nii) नई आपात कोल को फ़िल्ड ऑफ इंटरवेट के लिए चाहिए।\n\niii)",
+    "adapted": "सभी प्रकार के जिला और शहर अधिकार देश में बहुत ही ज़्यादा है। इसमें एक नई जिला और एक नई शहर भी हैं। इन जिला और शहर अधिकार देश में बहुत ही ज़्यादा है।"
+  },
+  {
+    "question": "Emotional support wali non emergency call kahan jaati hai?",
+    "language": "hinglish",
+    "split": "test",
+    "passage": "3.6 Call Management: Depending upon the category of the call, tre cail operator shall follow the below laid down procedure for transferring the call to 1 12 or WHL unit of OSCs: i) EmerEency calls: Alt Emergency calls requiring intervention of abuse involvingmedical/health I police / fir e I arnbulance/protection from violence against women/chi1d marriage etc. shall be forwarded by the WHL Control Rooms to ERSS-112. While forwarding the calls to 112, concerned WHL Unit/OSC also be informed of the case for intervention. ii) Non-Emergencv calls: Non-emergency calls requiring psycho-social support/emotional support and guidance/legal support/education etc. on post assessment and nature of the call shall be transferred to WHL Units of OSCs for providing necessar5r support ald intervention as per the case. iii) Information Calls: These are ca-lls wherein caller is looking for information either pertaining to other services/ schemes of the Government. The call may be handled by the Call Operators of the WHL-CR wherever information is available or may be transferred to SHEW/DHEW/WHL Units of OSCs for providing information to the caller. 6",
+    "reference": "Following assessment, it is transferred to the WHL unit of an OSC for the appropriate intervention.",
+    "baseline": "Non-emergency calls requiring emotional support and guidance are typically handled by the Call Operators at the WHL-CR (Women's Health Line Control Room). They provide necessary support and intervene according to the specific situation described.",
+    "adapted": "Call operators transfer non-emergency calls requiring emotional support and guidance to WHL units of OSCs."
+  },
+  {
+    "question": "How much relevant experience should a case worker have?",
+    "language": "en",
+    "split": "test",
+    "passage": "S. No Position Basic Qualifications 2 Case Workers (2) The Case worker should be a woman, a resident of the local community (so that local human resource and expertise is utilised for effective functioning of the centre) and possess the following basic qualifications: · A Bachelor’s degree in law/ social work/ sociology/ social science/ psychology · Minimum three years of experience of working on wom- en related relevant domains in a Government or Non- Government project/programme CA may assign any other work related to OSC to any of the staff from time to time.",
+    "reference": "At least three years of relevant experience.",
+    "baseline": "A minimum of three years of experience working on women-related domains in a government or non-government project/programme is required.",
+    "adapted": "Minimum three years."
+  },
+  {
+    "question": "केस वर्कर को कितना अनुभव चाहिए?",
+    "language": "hi",
+    "split": "test",
+    "passage": "S. No Position Basic Qualifications 2 Case Workers (2) The Case worker should be a woman, a resident of the local community (so that local human resource and expertise is utilised for effective functioning of the centre) and possess the following basic qualifications: · A Bachelor’s degree in law/ social work/ sociology/ social science/ psychology · Minimum three years of experience of working on wom- en related relevant domains in a Government or Non- Government project/programme CA may assign any other work related to OSC to any of the staff from time to time.",
+    "reference": "At least three years of relevant experience.",
+    "baseline": "चाहिए 3 साल ही प्रति दशक योगदान.",
+    "adapted": "ब्रॉक सीपी।"
+  },
+  {
+    "question": "Case worker ko kitna experience chahiye?",
+    "language": "hinglish",
+    "split": "test",
+    "passage": "S. No Position Basic Qualifications 2 Case Workers (2) The Case worker should be a woman, a resident of the local community (so that local human resource and expertise is utilised for effective functioning of the centre) and possess the following basic qualifications: · A Bachelor’s degree in law/ social work/ sociology/ social science/ psychology · Minimum three years of experience of working on wom- en related relevant domains in a Government or Non- Government project/programme CA may assign any other work related to OSC to any of the staff from time to time.",
+    "reference": "At least three years of relevant experience.",
+    "baseline": "Case workers should have at least three years of experience working on women-related projects or programs in government or non-government settings.",
+    "adapted": "Minimum three years."
+  },
+  {
+    "question": "Who leads the district committee implementing the OSC scheme?",
+    "language": "en",
+    "split": "test",
+    "passage": "C. Institutional Framework and Governance 1. National level The Ministry of Women and Child Development (MWCD) is the nodal ministry responsible for policy formulation, budgetary regulation, overall administration and monitoring of OSCs at the national level. The Mission Shakti Scheme Implementation Guidelines (2022) and this SoP provide the overarching framework for the establishment and operation of OSCs in India. Policy review of schemes including revision/addition may be undertaken from time to time. 2. State level/UT level At the State/UT level, the Department of Women and Child Development/Social Welfare will be responsible for overall direction and implementation of the scheme. A Management Committee (MC), that reports to the Director, DWCD, is established per OSC that is responsible for the day to day operation of OSCs. 1 in addition for regular review a committee headed by Administrative Secretary. 3. District level At the district level, the scheme is implemented by a committee led by the District Magistrate/Collector and supported by Women and Child Development officers.",
+    "reference": "The District Magistrate or Collector.",
+    "baseline": "The District Magistrate/Collector leads the district committee implementing the OSC scheme.",
+    "adapted": "The district committee implementing the OSC scheme is led by the district magistrate or collector."
+  },
+  {
+    "question": "जिला स्तर पर कार्यान्वयन समिति की अगुवाई कौन करता है?",
+    "language": "hi",
+    "split": "test",
+    "passage": "C. Institutional Framework and Governance 1. National level The Ministry of Women and Child Development (MWCD) is the nodal ministry responsible for policy formulation, budgetary regulation, overall administration and monitoring of OSCs at the national level. The Mission Shakti Scheme Implementation Guidelines (2022) and this SoP provide the overarching framework for the establishment and operation of OSCs in India. Policy review of schemes including revision/addition may be undertaken from time to time. 2. State level/UT level At the State/UT level, the Department of Women and Child Development/Social Welfare will be responsible for overall direction and implementation of the scheme. A Management Committee (MC), that reports to the Director, DWCD, is established per OSC that is responsible for the day to day operation of OSCs. 1 in addition for regular review a committee headed by Administrative Secretary. 3. District level At the district level, the scheme is implemented by a committee led by the District Magistrate/Collector and supported by Women and Child Development officers.",
+    "reference": "The District Magistrate or Collector.",
+    "baseline": "UNKNOWN",
+    "adapted": "देशाको माध्यम।"
+  },
+  {
+    "question": "District ki OSC implementation committee ka head kaun hai?",
+    "language": "hinglish",
+    "split": "test",
+    "passage": "C. Institutional Framework and Governance 1. National level The Ministry of Women and Child Development (MWCD) is the nodal ministry responsible for policy formulation, budgetary regulation, overall administration and monitoring of OSCs at the national level. The Mission Shakti Scheme Implementation Guidelines (2022) and this SoP provide the overarching framework for the establishment and operation of OSCs in India. Policy review of schemes including revision/addition may be undertaken from time to time. 2. State level/UT level At the State/UT level, the Department of Women and Child Development/Social Welfare will be responsible for overall direction and implementation of the scheme. A Management Committee (MC), that reports to the Director, DWCD, is established per OSC that is responsible for the day to day operation of OSCs. 1 in addition for regular review a committee headed by Administrative Secretary. 3. District level At the district level, the scheme is implemented by a committee led by the District Magistrate/Collector and supported by Women and Child Development officers.",
+    "reference": "The District Magistrate or Collector.",
+    "baseline": "The head of the committee implementing the scheme at the district level is the District Magistrate/Collector.",
+    "adapted": "District magar ya collector."
+  },
+  {
+    "question": "What communication support should counselling rooms offer?",
+    "language": "en",
+    "split": "test",
+    "passage": "● Emergency provisions such as fire safety measures and clearly marked accessible exits The Centre Administrator will be responsible for ensuring the availability of the above mentioned facilities at the OSC. 3. Private counseling rooms OSCs must have dedicated private counseling rooms, with both audio and visual privacy, to provide survivors with a confidential and safe space for emotional, psychological, and legal consultations. The counselling rooms should be equipped with comfortable seating and appropriate communication aids, including devices for survivors with hearing or visual impairments, as well as access to trained personnel for sign language interpretation where needed. The Centre Administrator will be responsible for ensuring the availability of the above mentioned facilities at the OSC. 4. Temporary shelter facilities OSCs should have a minimum of five beds to provide temporary shelter facilities to distressed women and their children, where required (girls of all ages, and boys till the age of 12 years) for up to five days. On case to case basis, temporary shelter may be extended to 20 days.",
+    "reference": "Appropriate communication aids and access to trained sign language interpreters where needed.",
+    "baseline": "The counselling rooms should be equipped with comfortable seating and appropriate communication aids, including devices for survivors with hearing or visual impairments, as well as access to trained personnel for sign language interpretation where needed.",
+    "adapted": "The centre administrator is responsible for ensuring that the designated private counselling rooms are equipped with both audio and visual privacy. This includes providing seats for comfort and necessary communication aids, such as devices for those with hearing or vision impairments. Additionally, there should be trained staff available for interpreting signs if required."
+  },
+  {
+    "question": "परामर्श कक्ष में सुनने में कठिनाई वालों के लिए क्या व्यवस्था है?",
+    "language": "hi",
+    "split": "test",
+    "passage": "● Emergency provisions such as fire safety measures and clearly marked accessible exits The Centre Administrator will be responsible for ensuring the availability of the above mentioned facilities at the OSC. 3. Private counseling rooms OSCs must have dedicated private counseling rooms, with both audio and visual privacy, to provide survivors with a confidential and safe space for emotional, psychological, and legal consultations. The counselling rooms should be equipped with comfortable seating and appropriate communication aids, including devices for survivors with hearing or visual impairments, as well as access to trained personnel for sign language interpretation where needed. The Centre Administrator will be responsible for ensuring the availability of the above mentioned facilities at the OSC. 4. Temporary shelter facilities OSCs should have a minimum of five beds to provide temporary shelter facilities to distressed women and their children, where required (girls of all ages, and boys till the age of 12 years) for up to five days. On case to case basis, temporary shelter may be extended to 20 days.",
+    "reference": "Appropriate communication aids and access to trained sign language interpreters where needed.",
+    "baseline": "परामर्श कक्ष में सुनने में कठिनाई वालों के लिए कम्पटीशल स्टेशन है।",
+    "adapted": "लगभग तीन बार दिखाई आया है।"
+  },
+  {
+    "question": "Hearing difficulty ho toh counselling room mein kya support hai?",
+    "language": "hinglish",
+    "split": "test",
+    "passage": "● Emergency provisions such as fire safety measures and clearly marked accessible exits The Centre Administrator will be responsible for ensuring the availability of the above mentioned facilities at the OSC. 3. Private counseling rooms OSCs must have dedicated private counseling rooms, with both audio and visual privacy, to provide survivors with a confidential and safe space for emotional, psychological, and legal consultations. The counselling rooms should be equipped with comfortable seating and appropriate communication aids, including devices for survivors with hearing or visual impairments, as well as access to trained personnel for sign language interpretation where needed. The Centre Administrator will be responsible for ensuring the availability of the above mentioned facilities at the OSC. 4. Temporary shelter facilities OSCs should have a minimum of five beds to provide temporary shelter facilities to distressed women and their children, where required (girls of all ages, and boys till the age of 12 years) for up to five days. On case to case basis, temporary shelter may be extended to 20 days.",
+    "reference": "Appropriate communication aids and access to trained sign language interpreters where needed.",
+    "baseline": "The Centre Administrator is responsible for ensuring that the counselling rooms are equipped with appropriate communication aids, including devices for survivors with hearing impairments, as well as access to trained personnel for sign language interpretation when needed. This ensures that individuals with hearing difficulties can receive emotional, psychological, and legal consultations in a confidential and safe environment.",
+    "adapted": "Centre Administrator aur training karne ke liye sign language interpreter yaali hain."
+  },
+  {
+    "question": "Is there an empty bed at my nearest centre tonight?",
+    "language": "en",
+    "split": "test",
+    "passage": "D. Infrastructure and facilities 1. Location and accessibility OSCs should be located within the district hospital/ medical facility. If it is not possible to locate them within the hospital, they may be located in a government/semi government building within a radius of 2 kms from the district hospital. If it is not possible to locate the OSC in an existing government/semi government accommodation, the OSC could be constructed on adequate land either within the hospital / medical facility or within a 2 km radius of the hospital/medical facility. While OSCs currently provide temporary shelter for a maximum of 5 days, a longer stay may be required in specific cases where relocation to Shakti Sadan is not feasible. In such cases, Centre Administrators have the discretion to extend the stay up to 10 days on a case by case basis. For any further extension beyond 10 days, the District Nodal Officer (DNO)/District Program Officer (DPO) is authorized to allow an additional stay of up to 10 more days, ensuring victims have continuous access to essential services as required.",
+    "reference": "UNKNOWN",
+    "baseline": "UNKNOWN",
+    "adapted": "UNKNOWN"
+  },
+  {
+    "question": "क्या पास के केंद्र में आज रात जगह खाली है?",
+    "language": "hi",
+    "split": "test",
+    "passage": "D. Infrastructure and facilities 1. Location and accessibility OSCs should be located within the district hospital/ medical facility. If it is not possible to locate them within the hospital, they may be located in a government/semi government building within a radius of 2 kms from the district hospital. If it is not possible to locate the OSC in an existing government/semi government accommodation, the OSC could be constructed on adequate land either within the hospital / medical facility or within a 2 km radius of the hospital/medical facility. While OSCs currently provide temporary shelter for a maximum of 5 days, a longer stay may be required in specific cases where relocation to Shakti Sadan is not feasible. In such cases, Centre Administrators have the discretion to extend the stay up to 10 days on a case by case basis. For any further extension beyond 10 days, the District Nodal Officer (DNO)/District Program Officer (DPO) is authorized to allow an additional stay of up to 10 more days, ensuring victims have continuous access to essential services as required.",
+    "reference": "UNKNOWN",
+    "baseline": "UNKNOWN",
+    "adapted": "केंद्र में सभी गरिमा बनाने वाले शहरों में आज रात अपनी जगह खाऊ नहीं है।"
+  },
+  {
+    "question": "Aaj raat nearest OSC mein bed khaali hai?",
+    "language": "hinglish",
+    "split": "test",
+    "passage": "D. Infrastructure and facilities 1. Location and accessibility OSCs should be located within the district hospital/ medical facility. If it is not possible to locate them within the hospital, they may be located in a government/semi government building within a radius of 2 kms from the district hospital. If it is not possible to locate the OSC in an existing government/semi government accommodation, the OSC could be constructed on adequate land either within the hospital / medical facility or within a 2 km radius of the hospital/medical facility. While OSCs currently provide temporary shelter for a maximum of 5 days, a longer stay may be required in specific cases where relocation to Shakti Sadan is not feasible. In such cases, Centre Administrators have the discretion to extend the stay up to 10 days on a case by case basis. For any further extension beyond 10 days, the District Nodal Officer (DNO)/District Program Officer (DPO) is authorized to allow an additional stay of up to 10 more days, ensuring victims have continuous access to essential services as required.",
+    "reference": "UNKNOWN",
+    "baseline": "UNKNOWN",
+    "adapted": "UNKNOWN"
+  },
+  {
+    "question": "Has my complaint been closed today?",
+    "language": "en",
+    "split": "test",
+    "passage": "D. Infrastructure and facilities 1. Location and accessibility OSCs should be located within the district hospital/ medical facility. If it is not possible to locate them within the hospital, they may be located in a government/semi government building within a radius of 2 kms from the district hospital. If it is not possible to locate the OSC in an existing government/semi government accommodation, the OSC could be constructed on adequate land either within the hospital / medical facility or within a 2 km radius of the hospital/medical facility. While OSCs currently provide temporary shelter for a maximum of 5 days, a longer stay may be required in specific cases where relocation to Shakti Sadan is not feasible. In such cases, Centre Administrators have the discretion to extend the stay up to 10 days on a case by case basis. For any further extension beyond 10 days, the District Nodal Officer (DNO)/District Program Officer (DPO) is authorized to allow an additional stay of up to 10 more days, ensuring victims have continuous access to essential services as required.",
+    "reference": "UNKNOWN",
+    "baseline": "UNKNOWN",
+    "adapted": "UNKNOWN"
+  },
+  {
+    "question": "क्या आज मेरी शिकायत बंद हो गई?",
+    "language": "hi",
+    "split": "test",
+    "passage": "D. Infrastructure and facilities 1. Location and accessibility OSCs should be located within the district hospital/ medical facility. If it is not possible to locate them within the hospital, they may be located in a government/semi government building within a radius of 2 kms from the district hospital. If it is not possible to locate the OSC in an existing government/semi government accommodation, the OSC could be constructed on adequate land either within the hospital / medical facility or within a 2 km radius of the hospital/medical facility. While OSCs currently provide temporary shelter for a maximum of 5 days, a longer stay may be required in specific cases where relocation to Shakti Sadan is not feasible. In such cases, Centre Administrators have the discretion to extend the stay up to 10 days on a case by case basis. For any further extension beyond 10 days, the District Nodal Officer (DNO)/District Program Officer (DPO) is authorized to allow an additional stay of up to 10 more days, ensuring victims have continuous access to essential services as required.",
+    "reference": "UNKNOWN",
+    "baseline": "UNKNOWN",
+    "adapted": "UNKNOWN"
+  },
+  {
+    "question": "Meri complaint aaj close ho gayi kya?",
+    "language": "hinglish",
+    "split": "test",
+    "passage": "D. Infrastructure and facilities 1. Location and accessibility OSCs should be located within the district hospital/ medical facility. If it is not possible to locate them within the hospital, they may be located in a government/semi government building within a radius of 2 kms from the district hospital. If it is not possible to locate the OSC in an existing government/semi government accommodation, the OSC could be constructed on adequate land either within the hospital / medical facility or within a 2 km radius of the hospital/medical facility. While OSCs currently provide temporary shelter for a maximum of 5 days, a longer stay may be required in specific cases where relocation to Shakti Sadan is not feasible. In such cases, Centre Administrators have the discretion to extend the stay up to 10 days on a case by case basis. For any further extension beyond 10 days, the District Nodal Officer (DNO)/District Program Officer (DPO) is authorized to allow an additional stay of up to 10 more days, ensuring victims have continuous access to essential services as required.",
+    "reference": "UNKNOWN",
+    "baseline": "UNKNOWN",
+    "adapted": "UNKNOWN"
+  }
+]

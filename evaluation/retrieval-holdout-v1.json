@@ -1,0 +1,199 @@
+[
+  {
+    "file": "One_Stop_Centre_SOP_English.pdf",
+    "page": 15,
+    "anchor": "district, block, and village/ward levels",
+    "gold_chunks": [
+      "One_Stop_Centre_SOP_English:p15:c1",
+      "One_Stop_Centre_SOP_English:p60:c2"
+    ],
+    "queries": {
+      "en": "Which levels of administration do the district committee’s annual plans cover?",
+      "hi": "जिला समिति की वार्षिक योजनाएँ प्रशासन के किन स्तरों को कवर करती हैं?",
+      "hinglish": "District committee ka yearly action plan kin levels ke liye banta hai?"
+    }
+  },
+  {
+    "file": "One_Stop_Centre_SOP_English.pdf",
+    "page": 28,
+    "anchor": "Degree / Diploma in psychology / psychiatry / neurosciences",
+    "gold_chunks": [
+      "One_Stop_Centre_SOP_English:p28:c1"
+    ],
+    "queries": {
+      "en": "Which subjects can qualify someone to be the centre’s psychosocial counsellor?",
+      "hi": "केंद्र में मनोसामाजिक परामर्शदाता बनने के लिए किन विषयों में पढ़ाई मान्य है?",
+      "hinglish": "OSC counsellor banne ke liye degree ya diploma kis subject mein chahiye?"
+    }
+  },
+  {
+    "file": "One_Stop_Centre_SOP_English.pdf",
+    "page": 34,
+    "anchor": "Monitoring access to the OSC premises",
+    "gold_chunks": [
+      "One_Stop_Centre_SOP_English:p34:c1"
+    ],
+    "queries": {
+      "en": "Who checks that only authorised visitors enter the centre?",
+      "hi": "कौन सुनिश्चित करता है कि केंद्र में सिर्फ अधिकृत आगंतुक प्रवेश करें?",
+      "hinglish": "Centre mein entry ke waqt authorised visitors ko check karna kiski duty hai?"
+    }
+  },
+  {
+    "file": "One_Stop_Centre_SOP_English.pdf",
+    "page": 35,
+    "anchor": "warmth, respect, soft spoken, empathy and acceptance",
+    "gold_chunks": [
+      "One_Stop_Centre_SOP_English:p35:c1",
+      "One_Stop_Centre_SOP_English:p35:c3"
+    ],
+    "queries": {
+      "en": "What personal qualities help staff earn a survivor’s trust?",
+      "hi": "महिला का भरोसा जीतने में कर्मचारियों के कौन से व्यक्तिगत गुण मदद करते हैं?",
+      "hinglish": "Survivor ka trust jeetne ke liye staff ke behaviour mein kya qualities honi chahiye?"
+    }
+  },
+  {
+    "file": "One_Stop_Centre_SOP_English.pdf",
+    "page": 40,
+    "anchor": "ensure that induction training is provided",
+    "gold_chunks": [
+      "One_Stop_Centre_SOP_English:p40:c1"
+    ],
+    "queries": {
+      "en": "Who is responsible at district level for making sure all OSC personnel get induction training?",
+      "hi": "जिले में केंद्र के सभी कर्मियों का शुरुआती प्रशिक्षण सुनिश्चित करने की जिम्मेदारी किसकी है?",
+      "hinglish": "Zile mein OSC ke saare staff ki induction training kaun ensure karta hai?"
+    }
+  },
+  {
+    "file": "One_Stop_Centre_SOP_English.pdf",
+    "page": 44,
+    "anchor": "both physical safety and security and to a sense of psychological and emotional safety",
+    "gold_chunks": [
+      "One_Stop_Centre_SOP_English:p44:c1"
+    ],
+    "queries": {
+      "en": "In survivor-centred care, what does safety include beyond protection from physical harm?",
+      "hi": "महिला-केंद्रित देखभाल में शारीरिक सुरक्षा के अलावा किन पहलुओं को सुरक्षित रखना ज़रूरी है?",
+      "hinglish": "Survivor-centred care mein physical safety ke alawa aur kis tarah ki safety matter karti hai?"
+    }
+  },
+  {
+    "file": "One_Stop_Centre_SOP_English.pdf",
+    "page": 48,
+    "anchor": "psycho metric tests",
+    "gold_chunks": [
+      "One_Stop_Centre_SOP_English:p48:c1"
+    ],
+    "queries": {
+      "en": "How does the counsellor assess mental health during the case assessment?",
+      "hi": "केस के आकलन के समय परामर्शदाता मानसिक स्वास्थ्य की जाँच किस तरीके से करते हैं?",
+      "hinglish": "Case assessment mein counsellor mental health ko kis method se check karta hai?"
+    }
+  },
+  {
+    "file": "One_Stop_Centre_SOP_English.pdf",
+    "page": 50,
+    "anchor": "case management process is not linear",
+    "gold_chunks": [
+      "One_Stop_Centre_SOP_English:p50:c1"
+    ],
+    "queries": {
+      "en": "If there is no time for every case management step in a crisis, what should workers prioritise?",
+      "hi": "संकट में केस प्रबंधन के सारे चरण पूरे न हो पाएँ तो कर्मियों को क्या प्राथमिकता देनी चाहिए?",
+      "hinglish": "Emergency mein saare case steps follow na ho paayein toh worker pehle kis cheez par dhyan de?"
+    }
+  },
+  {
+    "file": "Women_Helpline_181_SOP_English.pdf",
+    "page": 14,
+    "anchor": "Call Operators - from 12 to 18",
+    "gold_chunks": [
+      "Women_Helpline_181_SOP_English:p14:c1"
+    ],
+    "queries": {
+      "en": "What staffing range does the helpline specify for telephone operators in the control room?",
+      "hi": "हेल्पलाइन के नियंत्रण कक्ष में कॉल ऑपरेटरों की संख्या किस सीमा में रखी जाती है?",
+      "hinglish": "Helpline control room mein kitne call operators rakhne ka provision hai?"
+    }
+  },
+  {
+    "file": "Women_Helpline_181_SOP_English.pdf",
+    "page": 18,
+    "anchor": "Tracing of family members with the help of Police",
+    "gold_chunks": [
+      "Women_Helpline_181_SOP_English:p18:c1"
+    ],
+    "queries": {
+      "en": "Which agency helps the helpline trace family members?",
+      "hi": "परिवार के सदस्यों का पता लगाने में कौन सी एजेंसी महिला हेल्पलाइन की सहायता करती है?",
+      "hinglish": "Family members ko trace karne mein women helpline kis agency ki help leti hai?"
+    }
+  },
+  {
+    "file": "Women_Helpline_181_SOP_English.pdf",
+    "page": 20,
+    "anchor": "Population size between 10-60 lakh",
+    "gold_chunks": [
+      "Women_Helpline_181_SOP_English:p20:c1"
+    ],
+    "queries": {
+      "en": "What population range puts a state in the middle helpline funding category?",
+      "hi": "कितनी आबादी वाले राज्य हेल्पलाइन की मध्यम वित्तीय श्रेणी में आते हैं?",
+      "hinglish": "WHL funding mein medium category ke states ki population range kya hai?"
+    }
+  },
+  {
+    "file": "Women_Helpline_181_SOP_English.pdf",
+    "page": 21,
+    "anchor": "preferably with at least 1-year experience of counselling",
+    "gold_chunks": [
+      "Women_Helpline_181_SOP_English:p21:c1"
+    ],
+    "queries": {
+      "en": "How much prior counselling experience is preferred for a helpline administrator?",
+      "hi": "महिला हेल्पलाइन प्रशासक के लिए परामर्श देने का कितना पूर्व अनुभव वांछनीय है?",
+      "hinglish": "Helpline administrator ke liye counselling ka kitna past experience preferred hai?"
+    }
+  },
+  {
+    "file": "Women_Helpline_181_SOP_English.pdf",
+    "page": 22,
+    "anchor": "communication skills in Hindi, English",
+    "gold_chunks": [
+      "Women_Helpline_181_SOP_English:p22:c1"
+    ],
+    "queries": {
+      "en": "What languages should a women’s helpline call operator be able to communicate in?",
+      "hi": "महिला हेल्पलाइन के कॉल ऑपरेटर को किन भाषाओं में बातचीत करने में सक्षम होना चाहिए?",
+      "hinglish": "Women helpline call operator ko kaunsi languages mein baat karni aani chahiye?"
+    }
+  },
+  {
+    "file": "Women_Helpline_181_SOP_English.pdf",
+    "page": 23,
+    "anchor": "experience in data management, process documentation",
+    "gold_chunks": [
+      "Women_Helpline_181_SOP_English:p23:c1"
+    ],
+    "queries": {
+      "en": "Which kinds of technical work experience are expected of the helpline IT supervisor?",
+      "hi": "हेल्पलाइन के आईटी पर्यवेक्षक से किन तकनीकी कामों का अनुभव अपेक्षित है?",
+      "hinglish": "WHL IT supervisor ko kis type ke technical kaam ka experience chahiye?"
+    }
+  },
+  {
+    "file": "Women_Helpline_181_SOP_English.pdf",
+    "page": 24,
+    "anchor": "preferably be retired military",
+    "gold_chunks": [
+      "Women_Helpline_181_SOP_English:p24:c1"
+    ],
+    "queries": {
+      "en": "Which previous service background is preferred for a helpline security guard?",
+      "hi": "महिला हेल्पलाइन के सुरक्षा गार्ड के लिए किस पिछली सेवा के अनुभव को वरीयता दी जाती है?",
+      "hinglish": "Helpline guard ke liye kis service se retired candidates ko preference milti hai?"
+    }
+  }
+]

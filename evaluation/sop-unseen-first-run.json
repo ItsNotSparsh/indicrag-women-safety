@@ -1,0 +1,253 @@
+[
+  {
+    "suite": "unseen",
+    "question": "Are a woman's children allowed to stay with her if she needs temporary shelter?",
+    "lang": "en",
+    "expected": "girls of all ages",
+    "ok": false,
+    "ms": 105.7,
+    "response": {
+      "kind": "unknown",
+      "answer": "I couldn’t verify an answer in the available sources."
+    }
+  },
+  {
+    "suite": "unseen",
+    "question": "Kya bina documents dikhaye bhi centre ki services milengi?",
+    "lang": "mix",
+    "expected": "no woman shall be denied",
+    "ok": false,
+    "ms": 52.9,
+    "response": {
+      "kind": "unknown",
+      "answer": "Available sources mein is sawaal ka verified jawab nahi mila."
+    }
+  },
+  {
+    "suite": "unseen",
+    "question": "केस का फॉर्म भरने से पहले महिला की सहमति लेना किसकी जिम्मेदारी है?",
+    "lang": "hi",
+    "expected": "Seek consent",
+    "ok": true,
+    "ms": 56.7,
+    "response": {
+      "kind": "answer",
+      "label": "आधिकारिक एसओपी",
+      "answer": "केस वर्कर सहमति लेकर केस प्रबंधन फॉर्म भरता है।",
+      "language": "hi",
+      "speech_text": "केस वर्कर सहमति लेकर केस प्रबंधन फॉर्म भरता है।",
+      "evidence": "No Position Primary responsibilities Secondary responsibilities 2 Case workers Case workers will have the follow- ing responsibilities: • Documentation of case history of survivor • Seek consent and fill out all case management forms • Assess needs of survivor (immediate safety needs, medical needs, psychosocial needs) and gather basic information • Inform survivor about available services (health, mental health, justice, safety) • Develop case action plan and work with survivor to identify interventions to address their needs • Connect survivor to relevant services and support in accessing services in collaboration with the Centre Administrator • Support survivor in preparing a safety plan to ensure their safety and security • Followup with survivor to assess status of survivor’s situa- tion • Ensure case closure in a safe and supportive environment Case worker will support the Centre Administrator in: · Coordinating with relevant services for survivors · Undertaking outreach activ- ities · She will seek support of the Centre Adminis - trator for review of the case action plan.",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 31",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=31"
+    }
+  },
+  {
+    "suite": "unseen",
+    "question": "Who is responsible for giving an injured survivor first aid on her way to hospital?",
+    "lang": "en",
+    "expected": "Provide first aid",
+    "ok": false,
+    "ms": 120.0,
+    "response": {
+      "kind": "unknown",
+      "answer": "I couldn’t verify an answer in the available sources."
+    }
+  },
+  {
+    "suite": "unseen",
+    "question": "Mujhe pata karna hai ki helpline ko emergency wali call mile toh kahan bhejte hain.",
+    "lang": "mix",
+    "expected": "forwarded by the WHL",
+    "ok": true,
+    "ms": 0.3,
+    "response": {
+      "kind": "answer",
+      "label": "Official SOP",
+      "answer": "Control room emergency call ERSS-112 ko forward karta hai aur relevant WHL unit ya OSC ko bhi inform karta hai.",
+      "language": "mix",
+      "speech_text": "कंट्रोल रूम आपात कॉल ईआरएसएस 112 को भेजता है और संबंधित हेल्पलाइन इकाई या केंद्र को सूचना देता है।",
+      "evidence": "shall be forwarded by the WHL Control Rooms to ERSS-112.",
+      "source": "Women_Helpline_181_SOP_English.pdf · PDF p. 8",
+      "url": "/source/Women_Helpline_181_SOP_English.pdf#page=8"
+    }
+  },
+  {
+    "suite": "unseen",
+    "question": "परामर्श के समय सुनने में दिक्कत हो तो सांकेतिक भाषा का दुभाषिया मिल सकता है?",
+    "lang": "hi",
+    "expected": "access to trained personnel",
+    "ok": true,
+    "ms": 69.0,
+    "response": {
+      "kind": "answer",
+      "label": "आधिकारिक एसओपी",
+      "answer": "परामर्श कक्ष में सुनने या देखने में कठिनाई वाले लोगों के लिए संचार उपकरण और ज़रूरत पड़ने पर प्रशिक्षित सांकेतिक भाषा दुभाषिए की सुविधा होनी चाहिए।",
+      "language": "hi",
+      "speech_text": "परामर्श कक्ष में सुनने या देखने में कठिनाई वाले लोगों के लिए संचार उपकरण और ज़रूरत पड़ने पर प्रशिक्षित सांकेतिक भाषा दुभाषिए की सुविधा होनी चाहिए।",
+      "evidence": "The counselling rooms should be equipped with comfortable seating and appropriate communication aids, including devices for survivors with hearing or visual impairments, as well as access to trained personnel for sign language interpretation where needed.",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 20",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=20"
+    }
+  },
+  {
+    "suite": "unseen",
+    "question": "Who is in charge of OSC policy for the whole country?",
+    "lang": "en",
+    "expected": "nodal ministry",
+    "ok": true,
+    "ms": 56.5,
+    "response": {
+      "kind": "answer",
+      "label": "Official SOP",
+      "answer": "The Ministry of Women and Child Development.",
+      "language": "en",
+      "speech_text": "The Ministry of Women and Child Development.",
+      "evidence": "National level The Ministry of Women and Child Development (MWCD) is the nodal ministry responsible for policy formulation, budgetary regulation, overall administration and monitoring of OSCs at the national level.",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 14",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=14"
+    }
+  },
+  {
+    "suite": "unseen",
+    "question": "மையத்தில் தற்காலிகமாகத் தங்க எத்தனை படுக்கைகள் இருக்க வேண்டும்?",
+    "lang": "ta",
+    "expected": "minimum of five beds",
+    "ok": true,
+    "ms": 52.4,
+    "response": {
+      "kind": "answer",
+      "label": "அதிகாரப்பூர்வ நடைமுறை",
+      "answer": "ஒவ்வொரு மையத்திலும் தற்காலிகத் தங்குமிடத்திற்குக் குறைந்தது ஐந்து படுக்கைகள் இருக்க வேண்டும்.",
+      "language": "ta",
+      "speech_text": "ஒவ்வொரு மையத்திலும் தற்காலிகத் தங்குமிடத்திற்குக் குறைந்தது ஐந்து படுக்கைகள் இருக்க வேண்டும்.",
+      "evidence": "Temporary shelter facilities OSCs should have a minimum of five beds to provide temporary shelter facilities to distressed women and their children, where required (girls of all ages, and boys till the age of 12 years) for up to five days.",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 20",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=20"
+    }
+  },
+  {
+    "suite": "unseen",
+    "question": "The OSC has a vacancy for a case worker. What would my salary be?",
+    "lang": "en",
+    "expected": "unknown",
+    "ok": true,
+    "ms": 58.0,
+    "response": {
+      "kind": "unknown",
+      "answer": "I couldn’t verify an answer in the available sources."
+    }
+  },
+  {
+    "suite": "unseen",
+    "question": "Aaj raat Sakhi centre pe bed available hai kya?",
+    "lang": "mix",
+    "expected": "unknown",
+    "ok": true,
+    "ms": 0.0,
+    "response": {
+      "kind": "unknown",
+      "answer": "Live availability ya personal case status in documents mein nahi hai. Service se directly contact karein.",
+      "url": "https://missionshakti.wcd.gov.in/",
+      "source": "Mission Shakti"
+    }
+  },
+  {
+    "suite": "unseen",
+    "question": "Who is going to win the next football World Cup?",
+    "lang": "en",
+    "expected": "unknown",
+    "ok": true,
+    "ms": 69.0,
+    "response": {
+      "kind": "unknown",
+      "answer": "I couldn’t verify an answer in the available sources."
+    }
+  },
+  {
+    "suite": "unseen",
+    "question": "Someone is chasing me and I need help now",
+    "lang": "en",
+    "expected": "emergency",
+    "ok": true,
+    "ms": 0.0,
+    "response": {
+      "kind": "emergency",
+      "buttons": [
+        [
+          "Emergency · 112",
+          "112",
+          "https://www.mha.gov.in/emergency-response-support-system-erss"
+        ],
+        [
+          "Women Helpline · 181 (except West Bengal)",
+          "181",
+          "https://www.wcd.gov.in/women/help"
+        ],
+        [
+          "Financial cyber fraud · 1930",
+          "1930",
+          "https://www.india.gov.in/directory/helpline"
+        ]
+      ],
+      "answer": "If you can safely call, use 112 for immediate help."
+    }
+  },
+  {
+    "suite": "unseen",
+    "question": "What hygiene supplies does an OSC provide for infants?",
+    "lang": "en",
+    "expected": "clean linen, hygiene kits",
+    "ok": false,
+    "ms": 100.5,
+    "response": {
+      "kind": "unknown",
+      "answer": "I couldn’t verify an answer in the available sources."
+    }
+  },
+  {
+    "suite": "unseen",
+    "question": "Should a centre have grab rails and non-slip floors?",
+    "lang": "en",
+    "expected": "@non-slip flooring",
+    "ok": true,
+    "ms": 115.5,
+    "response": {
+      "kind": "excerpt",
+      "label": "Related passage in English",
+      "language": "en",
+      "answer": "The premises must be easily accessible by public transport, and must be barrierfree, featuring ramps with handrails, wide doorways, non-slip flooring, grab rails and elevators where required, to accommodate the needs of survivors with disabilities (including disability friendly transport options).",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 19",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=19"
+    }
+  },
+  {
+    "suite": "unseen",
+    "question": "What basic items should child-friendly spaces have to keep accompanying children engaged?",
+    "lang": "en",
+    "expected": "@toys / books",
+    "ok": true,
+    "ms": 96.1,
+    "response": {
+      "kind": "excerpt",
+      "label": "Related passage in English",
+      "language": "en",
+      "answer": "Child-friendly spaces OSCs should include child-friendly spaces to accommodate children accompanying survivors. These spaces should be safe, engaging for children (equipped with toys / books / basic amenities) to ensure their comfort and security.",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 20",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=20"
+    }
+  },
+  {
+    "suite": "unseen",
+    "question": "Mere nazdeek kaun sa centre hai?",
+    "lang": "mix",
+    "expected": "directory",
+    "ok": true,
+    "ms": 0.0,
+    "response": {
+      "kind": "directory",
+      "answer": "Neeche state aur district chun kar local services dekhein.",
+      "source": "Ministry OSC directory",
+      "url": "https://spniwcd.wcd.gov.in/uploads/pdf/1719920005_9NAs3KlT9d%20%282%29.pdf"
+    }
+  }
+]

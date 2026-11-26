@@ -1,0 +1,541 @@
+[
+  {
+    "doc": "O",
+    "page": 19,
+    "anchor": "relocation to Shakti Sadan",
+    "questions": {
+      "en": "How long can I stay at an OSC?",
+      "hi": "वन स्टॉप सेंटर में अधिकतम कितने दिन रह सकती हूँ?",
+      "mix": "OSC mein maximum kitne din ruk sakte hain?"
+    },
+    "answers": {
+      "en": "Usually five days. If relocation to Shakti Sadan is infeasible, the administrator can extend the stay to ten days case by case. The DNO/DPO can authorize up to ten further days.",
+      "hi": "आम तौर पर पाँच दिन। यदि शक्ति सदन जाना संभव न हो तो केंद्र प्रशासक मामले के आधार पर कुल दस दिन तक ठहरने दे सकते हैं। उससे आगे जिला नोडल या कार्यक्रम अधिकारी दस अतिरिक्त दिन तक मंजूर कर सकते हैं।",
+      "mix": "Aam taur par 5 din. Agar Shakti Sadan shift karna mumkin na ho, Centre Administrator case ke hisaab se stay kul 10 din tak badha sakte hain. Uske baad DNO ya DPO 10 aur din tak manzoor kar sakte hain.",
+      "ta": "பொதுவாக ஐந்து நாட்கள். சக்தி சதனுக்கு மாற்றுவது சாத்தியமில்லாதபோது மைய நிர்வாகி வழக்கைப் பொறுத்து மொத்தம் பத்து நாட்கள் வரை அனுமதிக்கலாம். அதன் பிறகு மாவட்ட நியமன அதிகாரி அல்லது மாவட்டத் திட்ட அதிகாரி மேலும் பத்து நாட்கள் வரை அனுமதிக்கலாம்."
+    },
+    "quote_end": "continuous access to essential services as required.",
+    "alternatives": [
+      "How many nights can I sleep at a Sakhi shelter?",
+      "For how long does the centre allow overnight accommodation?"
+    ]
+  },
+  {
+    "doc": "O",
+    "page": 20,
+    "anchor": "girls of all ages",
+    "questions": {
+      "en": "Can my children stay with me?",
+      "hi": "क्या मेरे बच्चे मेरे साथ केंद्र में रह सकते हैं?",
+      "mix": "Mere bachche mere saath OSC mein ruk sakte hain?"
+    },
+    "answers": {
+      "en": "The SOP includes girls of all ages and boys up to age twelve when shelter is required.",
+      "hi": "ज़रूरत होने पर सभी आयु की लड़कियाँ और बारह वर्ष तक के लड़के माँ के साथ रह सकते हैं।",
+      "mix": "Zarurat par kisi bhi age ki ladki aur 12 saal tak ka ladka maa ke saath reh sakta hai.",
+      "ta": "தேவைப்பட்டால் எந்த வயதுடைய பெண் குழந்தைகளும் பன்னிரண்டு வயது வரையிலான ஆண் குழந்தைகளும் தாயுடன் தங்கலாம்."
+    }
+  },
+  {
+    "doc": "O",
+    "page": 20,
+    "anchor": "audio and visual privacy",
+    "questions": {
+      "en": "Can other people hear my counselling session?",
+      "hi": "क्या दूसरे लोग मेरी काउंसलिंग सुन सकते हैं?",
+      "mix": "Counselling room mein meri baat koi aur sun sakta hai?"
+    },
+    "answers": {
+      "en": "The SOP requires dedicated rooms with both audio and visual privacy.",
+      "hi": "परामर्श के लिए अलग कमरा होना चाहिए जहाँ बातचीत सुनी या देखी न जा सके।",
+      "mix": "Counselling alag room mein honi chahiye jahan baat suni ya dekhi na ja sake.",
+      "ta": "உரையாடலை மற்றவர்கள் பார்க்கவோ கேட்கவோ முடியாத தனி ஆலோசனை அறை தேவை."
+    }
+  },
+  {
+    "doc": "O",
+    "page": 19,
+    "anchor": "radius of 2 kms",
+    "questions": {
+      "en": "Where should an OSC be located relative to a hospital?",
+      "hi": "अस्पताल से केंद्र कितनी दूर होना चाहिए?",
+      "mix": "Hospital se centre kitna door ho sakta hai?"
+    },
+    "answers": {
+      "en": "Preferably within the district hospital or medical facility. If that is infeasible, a government or semi-government building within two kilometres is an option.",
+      "hi": "केंद्र जिला अस्पताल या चिकित्सा परिसर में होना चाहिए। यह संभव न हो तो दो किलोमीटर के भीतर सरकारी या अर्धसरकारी भवन हो सकता है।",
+      "mix": "Centre district hospital ya medical facility mein hona chahiye. Mumkin na ho toh do km ke andar government ya semi-government building mein ho sakta hai.",
+      "ta": "மாவட்ட மருத்துவமனை அல்லது மருத்துவ வளாகத்தில் மையம் அமைந்திருக்க வேண்டும். அது சாத்தியமில்லை என்றால் இரண்டு கிலோமீட்டருக்குள் அரசு அல்லது அரசு சார்ந்த கட்டடம் பயன்படுத்தப்படலாம்."
+    }
+  },
+  {
+    "doc": "O",
+    "page": 17,
+    "anchor": "extended shelter",
+    "questions": {
+      "en": "Who helps arrange longer-term housing?",
+      "hi": "लंबे समय के आश्रय की व्यवस्था किसके साथ होती है?",
+      "mix": "Long term shelter ke liye centre kisse coordinate karta hai?"
+    },
+    "answers": {
+      "en": "OSCs should coordinate with government or nongovernmental shelter homes.",
+      "hi": "केंद्र सरकारी या गैरसरकारी आश्रय गृहों से समन्वय करता है।",
+      "mix": "Centre government ya non-government shelter homes se coordinate karta hai.",
+      "ta": "நீண்ட கால தங்குமிடம் தேவைப்பட்டால் அரசு அல்லது அரசு சாரா காப்பகங்களுடன் மையம் இணைந்து செயல்படும்."
+    }
+  },
+  {
+    "doc": "O",
+    "page": 21,
+    "anchor": "rescue operations",
+    "questions": {
+      "en": "What can the centre vehicle be used for?",
+      "hi": "केंद्र की गाड़ी किन कामों के लिए होती है?",
+      "mix": "OSC ki gaadi kis kaam aati hai?"
+    },
+    "answers": {
+      "en": "Rescue, fact checks, family reintegration and transport for medical, legal and police assistance.",
+      "hi": "बचाव, तथ्य जाँच, परिवार से पुनर्मिलन और चिकित्सा, कानूनी या पुलिस सहायता के लिए परिवहन में।",
+      "mix": "Rescue, facts check karne, family se milane aur medical, legal ya police help ke liye transport mein.",
+      "ta": "மீட்பு, தகவல் சரிபார்ப்பு, குடும்பத்துடன் மீண்டும் சேர்த்தல் மற்றும் மருத்துவம், சட்டம், காவல் உதவிக்கான பயணங்களுக்கு வாகனம் பயன்படும்."
+    }
+  },
+  {
+    "doc": "O",
+    "page": 22,
+    "anchor": "braille",
+    "questions": {
+      "en": "In what formats should awareness materials be displayed?",
+      "hi": "जागरूकता सामग्री किन रूपों में उपलब्ध होनी चाहिए?",
+      "mix": "Information posters kaunse formats mein hote hain?"
+    },
+    "answers": {
+      "en": "Prominent locations, multiple languages and formats including Braille and pictures.",
+      "hi": "सामग्री प्रमुख जगहों पर कई भाषाओं और ब्रेल या चित्र जैसे प्रारूपों में होनी चाहिए।",
+      "mix": "Material aasani se dikhne wali jagah par kai languages mein, Braille aur pictures jaise formats mein hona chahiye.",
+      "ta": "முக்கிய இடங்களில் பல மொழிகளில் பிரெய்லி, படங்கள் உள்ளிட்ட வடிவங்களில் தகவல் இடம்பெற வேண்டும்."
+    }
+  },
+  {
+    "doc": "O",
+    "page": 31,
+    "anchor": "Seek consent",
+    "questions": {
+      "en": "Who seeks consent before completing case forms?",
+      "hi": "केस फॉर्म भरने के लिए सहमति कौन लेता है?",
+      "mix": "Case form ke liye consent kaun leta hai?"
+    },
+    "answers": {
+      "en": "The case worker seeks consent and completes case management forms.",
+      "hi": "केस वर्कर सहमति लेकर केस प्रबंधन फॉर्म भरता है।",
+      "mix": "Case worker consent lekar forms bharta hai.",
+      "ta": "வழக்குப் பணியாளர் ஒப்புதல் பெற்று படிவங்களை நிரப்புவார்."
+    }
+  },
+  {
+    "doc": "O",
+    "page": 32,
+    "anchor": "Public Prosecutor",
+    "questions": {
+      "en": "Who follows up legal support after filing?",
+      "hi": "मुकदमा दर्ज होने के बाद कानूनी मदद कौन जारी रखता है?",
+      "mix": "Case file hone ke baad legal follow up kaun karta hai?"
+    },
+    "answers": {
+      "en": "The para-legal officer or lawyer coordinates with the public prosecutor or legal services authority lawyers.",
+      "hi": "पैरा लीगल अधिकारी या वकील लोक अभियोजक या विधिक सेवा प्राधिकरण के वकीलों से समन्वय करता है।",
+      "mix": "Para-legal officer ya lawyer public prosecutor ya legal services authority ke lawyers se coordinate karta hai.",
+      "ta": "சட்ட உதவி அலுவலர் அல்லது வழக்கறிஞர் அரசு வழக்கறிஞருடனோ சட்டப் பணிகள் ஆணைக்குழு வழக்கறிஞர்களுடனோ ஒருங்கிணைப்பார்."
+    }
+  },
+  {
+    "doc": "O",
+    "page": 33,
+    "anchor": "Mission Shakti OSC dashboard",
+    "questions": {
+      "en": "Who enters cases in the OSC dashboard?",
+      "hi": "डैशबोर्ड में मामला कौन दर्ज करता है?",
+      "mix": "Dashboard par case entry kaun karta hai?"
+    },
+    "answers": {
+      "en": "IT staff register the case.",
+      "hi": "आईटी कर्मचारी मामला दर्ज करते हैं।",
+      "mix": "IT staff case register karta hai.",
+      "ta": "தகவல் தொழில்நுட்பப் பணியாளர்கள் வழக்கைப் பதிவு செய்வார்கள்."
+    }
+  },
+  {
+    "doc": "O",
+    "page": 16,
+    "anchor": "dedicated lawyers",
+    "questions": {
+      "en": "Who prepares the district list of lawyers?",
+      "hi": "जिले के वकीलों की सूची कौन बनाता है?",
+      "mix": "District ke lawyers ki list kaun banata hai?"
+    },
+    "answers": {
+      "en": "State and district legal services authorities.",
+      "hi": "राज्य और जिला विधिक सेवा प्राधिकरण।",
+      "mix": "State aur district legal services authorities.",
+      "ta": "மாநில மற்றும் மாவட்ட சட்டப் பணிகள் ஆணைக்குழுக்கள்."
+    }
+  },
+  {
+    "doc": "O",
+    "page": 30,
+    "anchor": "first point of contact",
+    "questions": {
+      "en": "Who is the first contact for a survivor at an OSC?",
+      "hi": "केंद्र पर सबसे पहले संपर्क किससे होता है?",
+      "mix": "OSC par sabse pehle kisse contact karein?"
+    },
+    "answers": {
+      "en": "The Centre Administrator.",
+      "hi": "केंद्र प्रशासक।",
+      "mix": "Centre Administrator.",
+      "ta": "மைய நிர்வாகி."
+    }
+  },
+  {
+    "doc": "W",
+    "page": 7,
+    "anchor": "Information calls",
+    "questions": {
+      "en": "What are the three categories of helpline calls?",
+      "hi": "हेल्पलाइन कॉल किन तीन श्रेणियों में आती हैं?",
+      "mix": "181 par calls ki teen categories kya hain?"
+    },
+    "answers": {
+      "en": "Emergency, non-emergency and information calls.",
+      "hi": "आपातकालीन, गैर आपातकालीन और सूचना संबंधी कॉल।",
+      "mix": "Emergency, non-emergency aur information calls.",
+      "ta": "அவசர அழைப்புகள், அவசரமற்ற அழைப்புகள், தகவல் கேட்கும் அழைப்புகள்."
+    }
+  },
+  {
+    "doc": "W",
+    "page": 8,
+    "anchor": "forwarded by the WHL",
+    "questions": {
+      "en": "Where does the helpline forward emergency calls?",
+      "hi": "आपातकालीन कॉल किस सेवा को भेजी जाती है?",
+      "mix": "Emergency call kahan forward hoti hai?"
+    },
+    "answers": {
+      "en": "The WHL control room forwards emergency calls to ERSS-112 and informs the relevant WHL unit or OSC.",
+      "hi": "कंट्रोल रूम आपात कॉल ईआरएसएस 112 को भेजता है और संबंधित हेल्पलाइन इकाई या केंद्र को सूचना देता है।",
+      "mix": "Control room emergency call ERSS-112 ko forward karta hai aur relevant WHL unit ya OSC ko bhi inform karta hai.",
+      "ta": "அவசர அழைப்பை கட்டுப்பாட்டு அறை 112 சேவைக்கு அனுப்பி, தொடர்புடைய மகளிர் உதவி அலகு அல்லது மையத்திற்கும் தகவல் அளிக்கும்."
+    }
+  },
+  {
+    "doc": "W",
+    "page": 10,
+    "anchor": "weekly shift",
+    "questions": {
+      "en": "Does the helpline answer at night?",
+      "hi": "क्या हेल्पलाइन रात में भी कॉल लेती है?",
+      "mix": "Raat mein bhi helpline call uthati hai?"
+    },
+    "answers": {
+      "en": "The SOP specifies 24 hours a day throughout the year, in shifts.",
+      "hi": "हाँ, कार्यविधि के अनुसार पूरे साल दिन और रात कॉल ली जाती हैं।",
+      "mix": "Haan, SOP ke mutabik saal bhar din aur raat calls li jaati hain.",
+      "ta": "ஆம். நடைமுறைப்படி ஆண்டு முழுவதும் இரவும் பகலும் அழைப்புகள் ஏற்கப்படுகின்றன."
+    }
+  },
+  {
+    "doc": "W",
+    "page": 16,
+    "anchor": "technical training",
+    "questions": {
+      "en": "Who provides hands-on training for helpline personnel?",
+      "hi": "हेल्पलाइन कर्मचारियों को तकनीकी प्रशिक्षण कौन देता है?",
+      "mix": "Helpline staff ko technical training kaun deta hai?"
+    },
+    "answers": {
+      "en": "C-DAC.",
+      "hi": "सी-डैक तकनीकी प्रशिक्षण देता है।",
+      "mix": "C-DAC technical training deta hai.",
+      "ta": "சி-டாக் தொழில்நுட்பப் பயிற்சி அளிக்கிறது."
+    }
+  },
+  {
+    "doc": "W",
+    "page": 17,
+    "anchor": "Average time",
+    "questions": {
+      "en": "Which time measure is included in reporting?",
+      "hi": "रिपोर्ट में समय का कौन सा माप शामिल है?",
+      "mix": "Helpline report mein time ka kaunsa metric hai?"
+    },
+    "answers": {
+      "en": "Average time taken to close the call.",
+      "hi": "कॉल को बंद करने में लगने वाला औसत समय।",
+      "mix": "Call close karne mein lagne wala average time.",
+      "ta": "அழைப்பை முடிக்க எடுக்கும் சராசரி நேரம்."
+    }
+  },
+  {
+    "doc": "O",
+    "page": 14,
+    "anchor": "nodal ministry",
+    "questions": {
+      "en": "Who oversees OSC policy nationally?",
+      "hi": "राष्ट्रीय स्तर पर केंद्र की नीति कौन देखता है?",
+      "mix": "National level par OSC policy kaun dekhta hai?"
+    },
+    "answers": {
+      "en": "The Ministry of Women and Child Development.",
+      "hi": "महिला एवं बाल विकास मंत्रालय।",
+      "mix": "Ministry of Women and Child Development.",
+      "ta": "மகளிர் மற்றும் குழந்தைகள் மேம்பாட்டு அமைச்சகம்."
+    }
+  },
+  {
+    "doc": "O",
+    "page": 3,
+    "anchor": "medical assistance, legal aid, police facilitation, psychosocial counselling, and temporary shelter",
+    "questions": {
+      "en": "What help is available at a Sakhi One Stop Centre?",
+      "hi": "वन स्टॉप सेंटर में क्या मदद मिलती है?",
+      "mix": "One Stop Centre pe kya madad milti hai?",
+      "ta": "ஒரு நிறுத்த மையத்தில் என்ன உதவி கிடைக்கும்?"
+    },
+    "answers": {
+      "en": "An OSC can help with medical care, legal aid, contacting police, counselling and temporary shelter.",
+      "hi": "वन स्टॉप सेंटर में चिकित्सा सहायता, कानूनी मदद, पुलिस से संपर्क, परामर्श और अस्थायी आश्रय मिल सकता है।",
+      "mix": "Haan. One Stop Centre mein medical aur kanooni madad, police se sampark, counselling aur temporary shelter mil sakta hai.",
+      "ta": "மையத்தில் மருத்துவ உதவி, சட்ட உதவி, காவல்துறையை அணுக உதவி, ஆலோசனை மற்றும் தற்காலிகத் தங்குமிடம் கிடைக்கலாம்."
+    }
+  },
+  {
+    "doc": "O",
+    "page": 20,
+    "anchor": "OSCs should have a minimum of five beds to provide temporary shelter",
+    "questions": {
+      "en": "What is the required bed capacity of a temporary shelter?",
+      "hi": "आश्रय केंद्र में कम से कम कितने बिस्तर होने चाहिए?",
+      "mix": "Shelter ke liye minimum kitne bistar zaroori hain?",
+      "ta": "மையத்தில் குறைந்தது எத்தனை படுக்கைகள் இருக்க வேண்டும்?"
+    },
+    "answers": {
+      "en": "The SOP calls for at least five shelter beds per OSC. This is a capacity standard.",
+      "hi": "एसओपी के अनुसार हर केंद्र में अस्थायी आश्रय के लिए कम से कम पाँच बिस्तर होने चाहिए।",
+      "mix": "SOP ke mutabik har OSC mein temporary shelter ke liye kam se kam 5 beds hone chahiye.",
+      "ta": "ஒவ்வொரு மையத்திலும் தற்காலிகத் தங்குமிடத்திற்குக் குறைந்தது ஐந்து படுக்கைகள் இருக்க வேண்டும்."
+    }
+  },
+  {
+    "doc": "O",
+    "page": 32,
+    "anchor": "Para medical officer will: · Provide first aid and immediate lifesaving medical assistance",
+    "questions": {
+      "en": "Which OSC staff member provides first aid en route to hospital?",
+      "hi": "अस्पताल जाने से पहले प्राथमिक चिकित्सा की ज़िम्मेदारी किसकी है?",
+      "mix": "Hospital le jaane se pehle first aid ki zimmedari kiski hai?",
+      "ta": "மருத்துவமனையை அடையும் முன் முதலுதவி அளிப்பவர் யார்?"
+    },
+    "answers": {
+      "en": "The para-medical officer provides first aid and immediate lifesaving medical assistance until the survivor reaches hospital.",
+      "hi": "अस्पताल पहुँचने तक पैरामेडिकल अधिकारी प्राथमिक उपचार और तत्काल जीवनरक्षक चिकित्सा सहायता देते हैं।",
+      "mix": "Hospital pahunchne tak para-medical officer first aid aur turant zaroori lifesaving medical help dete hain.",
+      "ta": "மருத்துவமனையை அடையும் வரை துணை மருத்துவ அலுவலர் முதலுதவியும் உடனடி உயிர்காக்கும் மருத்துவ உதவியும் அளிப்பார்."
+    }
+  },
+  {
+    "doc": "W",
+    "page": 8,
+    "anchor": "nature of the call shall be transferred to WHL Units of OSCs",
+    "questions": {
+      "en": "How does the helpline handle a non-urgent call for emotional support or counselling?",
+      "hi": "भावनात्मक सहायता की गैर-आपातकालीन कॉल कहाँ भेजते हैं?",
+      "mix": "Counselling ke liye non-emergency call kahan transfer hoti hai?",
+      "ta": "உடனடி ஆபத்து இல்லாத உளவியல் ஆதரவுக்கான அழைப்பை எங்கே அனுப்புவார்கள்?"
+    },
+    "answers": {
+      "en": "For a non-emergency request for emotional support, the helpline assesses the call and transfers it to the Women Helpline unit at a One Stop Centre for appropriate support.",
+      "hi": "आकलन के बाद कॉल वन स्टॉप सेंटर की महिला हेल्पलाइन इकाई को भेजी जाती है ताकि ज़रूरत के अनुसार सहायता दी जा सके।",
+      "mix": "Assessment ke baad call One Stop Centre ki Women Helpline unit ko transfer hoti hai, taaki caller ki zaroorat ke hisaab se madad mil sake.",
+      "ta": "தேவையை மதிப்பிட்ட பின், பொருத்தமான உதவி அளிக்க அழைப்பு ஒரு நிறுத்த மையத்தின் மகளிர் உதவி எண் பிரிவுக்கு மாற்றப்படும்."
+    }
+  },
+  {
+    "doc": "O",
+    "page": 27,
+    "anchor": "Minimum three years of experience of working on wom- en related relevant domains",
+    "questions": {
+      "en": "What work experience does an OSC case worker need?",
+      "hi": "केस वर्कर बनने के लिए कितने साल का अनुभव चाहिए?",
+      "mix": "Case worker banne ke liye kitne saal ka experience hona chahiye?",
+      "ta": "வழக்குப் பணியாளருக்கு எத்தனை ஆண்டுகள் பணி அனுபவம் வேண்டும்?"
+    },
+    "answers": {
+      "en": "A case worker needs at least three years of relevant experience in a government or nongovernmental project or programme working on women’s issues.",
+      "hi": "केस वर्कर को महिलाओं से जुड़े सरकारी या गैर-सरकारी प्रोजेक्ट या कार्यक्रम में कम से कम तीन साल का प्रासंगिक अनुभव चाहिए।",
+      "mix": "Case worker ko mahilaon se jude sarkari ya non-government project ya programme mein kam se kam 3 saal ka relevant experience chahiye.",
+      "ta": "பெண்கள் தொடர்பான அரசு அல்லது அரசு சாரா திட்டத்தில் வழக்குப் பணியாளருக்குக் குறைந்தது மூன்று ஆண்டுகள் பொருத்தமான பணி அனுபவம் வேண்டும்."
+    }
+  },
+  {
+    "doc": "O",
+    "page": 14,
+    "anchor": "committee led by the District Magistrate/Collector",
+    "questions": {
+      "en": "Who chairs the district-level OSC implementation committee?",
+      "hi": "जिले में वन स्टॉप सेंटर की कार्यान्वयन समिति के अध्यक्ष कौन हैं?",
+      "mix": "Zile ki OSC committee ka chairperson kaun hai?",
+      "ta": "மாவட்ட அளவில் மையத் திட்டத்தைச் செயல்படுத்தும் குழுவின் தலைவர் யார்?"
+    },
+    "answers": {
+      "en": "The District Magistrate or Collector leads the district implementation committee.",
+      "hi": "जिले की कार्यान्वयन समिति की अध्यक्षता ज़िलाधिकारी या कलेक्टर करते हैं।",
+      "mix": "District implementation committee ko District Magistrate ya Collector lead karte hain.",
+      "ta": "மாவட்டச் செயலாக்கக் குழுவுக்கு மாவட்ட மாஜிஸ்திரேட் அல்லது ஆட்சியர் தலைமை வகிப்பார்."
+    }
+  },
+  {
+    "doc": "O",
+    "page": 20,
+    "anchor": "access to trained personnel for sign language interpretation where needed",
+    "questions": {
+      "en": "What communication aids or interpreters are available in counselling rooms?",
+      "hi": "सुनने या देखने में कठिनाई हो तो परामर्श कक्ष में क्या सुविधा होनी चाहिए?",
+      "mix": "Sunne mein dikkat ho toh counselling room mein interpreter ya kya support milega?",
+      "ta": "கேட்க அல்லது பார்க்க சிரமமுள்ளவர்களுக்கு ஆலோசனை அறையில் என்ன உதவி இருக்க வேண்டும்?"
+    },
+    "answers": {
+      "en": "Counselling rooms should have communication aids for people with hearing or visual impairments and access to a trained sign-language interpreter when needed.",
+      "hi": "परामर्श कक्ष में सुनने या देखने में कठिनाई वाले लोगों के लिए संचार उपकरण और ज़रूरत पड़ने पर प्रशिक्षित सांकेतिक भाषा दुभाषिए की सुविधा होनी चाहिए।",
+      "mix": "Counselling room mein sunne ya dekhne mein dikkat wale logon ke liye communication aids aur zaroorat par trained sign-language interpreter ki suvidha honi chahiye.",
+      "ta": "ஆலோசனை அறையில் செவித்திறன் அல்லது பார்வைக் குறைபாடு உள்ளவர்களுக்குத் தகவல் தொடர்புச் சாதனங்களும் தேவைக்கேற்ப பயிற்சி பெற்ற சைகை மொழி உரைபெயர்ப்பாளரின் உதவியும் இருக்க வேண்டும்."
+    }
+  },
+  {
+    "doc": "O",
+    "page": 20,
+    "anchor": "clean linen, hygiene kits",
+    "questions": {
+      "en": "What personal hygiene supplies and basic amenities should the shelter provide?",
+      "hi": "अस्थायी आश्रय में सफाई के लिए क्या सामान मिलता है?",
+      "mix": "Shelter mein hygiene kit aur safai ka kya samaan milta hai?",
+      "ta": "தங்குமிடத்தில் என்ன சுகாதாரப் பொருட்கள் இருக்க வேண்டும்?"
+    },
+    "answers": {
+      "en": "The shelter should provide clean linen, hygiene kits and accessible restrooms. The SOP lists soap, toothbrushes, sanitary pads and diapers for infants among the supplies.",
+      "hi": "आश्रय में साफ़ चादरें, स्वच्छता किट और सुलभ शौचालय होने चाहिए। किट में साबुन, टूथब्रश, सैनिटरी पैड और शिशुओं के लिए डायपर जैसी चीज़ें शामिल हैं।",
+      "mix": "Shelter mein saaf linen, hygiene kits aur accessible toilets hone chahiye. Kit mein soap, toothbrush, sanitary pads aur infants ke liye diapers jaise items hain.",
+      "ta": "தங்குமிடத்தில் சுத்தமான விரிப்புகள், சுகாதாரப் பெட்டிகள், அணுக வசதியான கழிப்பறைகள் இருக்க வேண்டும். சோப்பு, பல் துலக்கி, மாதவிடாய்த் தாள்கள், குழந்தைகளுக்கான டயப்பர்கள் ஆகியவை பட்டியலில் உள்ளன."
+    }
+  },
+  {
+    "doc": "O",
+    "page": 21,
+    "anchor": "vehicle is to carry address details of the OSC and contact information of Centre Administrators",
+    "questions": {
+      "en": "What contact details must be displayed on the centre vehicle?",
+      "hi": "केंद्र की गाड़ी पर किसका पता और संपर्क विवरण लिखा होना चाहिए?",
+      "mix": "OSC ki gaadi par kiska address aur contact likha hona chahiye?",
+      "ta": "மையத்தின் வாகனத்தில் யாருடைய முகவரி மற்றும் தொடர்பு விவரம் இருக்க வேண்டும்?"
+    },
+    "answers": {
+      "en": "The vehicle should display the OSC’s address and the Centre Administrator’s contact information.",
+      "hi": "गाड़ी पर वन स्टॉप सेंटर का पता और केंद्र प्रशासक का संपर्क विवरण होना चाहिए।",
+      "mix": "Gaadi par OSC ka address aur Centre Administrator ki contact details honi chahiye.",
+      "ta": "வாகனத்தில் மையத்தின் முகவரியும் மைய நிர்வாகியின் தொடர்பு விவரங்களும் இருக்க வேண்டும்."
+    },
+    "alternatives": [
+      "OSC ki gaadi par kis centre ka pata aur number hona chahiye?",
+      "What address is printed on the Sakhi van?"
+    ]
+  },
+  {
+    "doc": "O",
+    "page": 3,
+    "anchor": "no woman shall be denied services due to lack of documentation",
+    "questions": {
+      "en": "Can I get help from an OSC without identity documents?",
+      "hi": "दस्तावेज़ या पहचान पत्र नहीं है तो क्या केंद्र मदद करेगा?",
+      "mix": "Mere paas ID proof ya documents nahi hain. Kya OSC madad karega?",
+      "ta": "அடையாள ஆவணங்கள் இல்லாவிட்டாலும் மையத்தில் உதவி கிடைக்குமா?"
+    },
+    "answers": {
+      "en": "Yes. The SOP says an OSC must not deny services because a woman lacks documents or hesitates to disclose her identity.",
+      "hi": "हाँ। दस्तावेज़ न होने या पहचान बताने में हिचकिचाहट के कारण केंद्र सहायता देने से इनकार नहीं कर सकता।",
+      "mix": "Haan. Documents na hone ya apni identity batane mein jhijhak ki wajah se OSC services dene se mana nahi kar sakta.",
+      "ta": "ஆம். ஆவணங்கள் இல்லை என்பதற்காகவோ அடையாளத்தைத் தெரிவிக்கத் தயங்குவதற்காகவோ மையம் உதவியை மறுக்கக் கூடாது."
+    },
+    "alternatives": [
+      "Will Sakhi refuse assistance if I do not have my papers or an ID?",
+      "Mere kagaz kho gaye hain. Kya Sakhi phir bhi madad karega?"
+    ]
+  },
+  {
+    "doc": "O",
+    "page": 22,
+    "anchor": "respectfully ask the survivor",
+    "questions": {
+      "en": "How do staff identify what accommodations a survivor with a disability needs?",
+      "hi": "दिव्यांग महिला को किस तरह की सहायता चाहिए यह स्टाफ कैसे पता लगाए?",
+      "mix": "Disability ke liye kaunsi accommodation chahiye, staff kaise pata kare?",
+      "ta": "மாற்றுத்திறனாளிக்கு என்ன வசதி தேவை என்பதை ஊழியர்கள் எப்படி அறிய வேண்டும்?"
+    },
+    "answers": {
+      "en": "Staff should ask the survivor respectfully what adjustments or support she needs.",
+      "hi": "स्टाफ को सम्मानपूर्वक महिला से पूछना चाहिए कि उन्हें किस तरह की सुविधा या सहायता चाहिए।",
+      "mix": "Staff ko survivor se izzat ke saath poochhna chahiye ki unhe kaunsi suvidha ya madad chahiye.",
+      "ta": "என்ன வசதி அல்லது உதவி தேவை என்பதைப் பணியாளர்கள் அவரிடமே மரியாதையுடன் கேட்க வேண்டும்."
+    }
+  },
+  {
+    "doc": "W",
+    "page": 10,
+    "anchor": "Send email to the specified address",
+    "questions": {
+      "en": "Can I send a message or email instead of calling the helpline?",
+      "hi": "बोलकर कॉल करने के अलावा महिला हेल्पलाइन से संपर्क के क्या तरीके हैं?",
+      "mix": "Phone par baat kiye bina Women Helpline ko message ya email kar sakti hoon?",
+      "ta": "தொலைபேசியில் பேசாமல் மகளிர் உதவி மையத்தைத் தொடர்புகொள்ளலாமா?"
+    },
+    "answers": {
+      "en": "The SOP lists SMS to the designated number and email to the designated address as alternatives to a voice call.",
+      "hi": "एसओपी के अनुसार निर्धारित नंबर पर एसएमएस या निर्धारित ईमेल पते पर संदेश भी भेजा जा सकता है।",
+      "mix": "SOP ke mutabik designated number par SMS ya designated email address par message bhi bhej sakti hain.",
+      "ta": "குறிப்பிட்ட எண்ணுக்குக் குறுஞ்செய்தி அனுப்பலாம் அல்லது குறிப்பிட்ட முகவரிக்கு மின்னஞ்சல் அனுப்பலாம் என்று நடைமுறை கூறுகிறது."
+    }
+  },
+  {
+    "doc": "O",
+    "page": 31,
+    "anchor": "Support survivor in preparing a safety plan",
+    "questions": {
+      "en": "Who works with the survivor to prepare her safety plan?",
+      "hi": "सुरक्षा योजना तैयार करने में कौन साथ देता है?",
+      "mix": "Safety plan taiyar karne mein survivor ki madad kaun karta hai?",
+      "ta": "பாதுகாப்புத் திட்டத்தை உருவாக்க யார் உதவுவார்?"
+    },
+    "answers": {
+      "en": "The case worker helps the survivor prepare her safety plan.",
+      "hi": "केस वर्कर महिला को अपनी सुरक्षा योजना तैयार करने में मदद करती हैं।",
+      "mix": "Case worker survivor ko apna safety plan banane mein madad karti hain.",
+      "ta": "பாதுகாப்புத் திட்டத்தை உருவாக்க வழக்குப் பணியாளர் உதவுவார்."
+    }
+  },
+  {
+    "doc": "O",
+    "page": 19,
+    "anchor": "OSCs should be open all days of the week, offering services 24x7",
+    "questions": {
+      "en": "What are the opening hours of a One Stop Centre?",
+      "hi": "वन स्टॉप सेंटर कितने बजे खुलता है?",
+      "mix": "One Stop Centre ka opening time kya hai?",
+      "ta": "ஒரு நிறுத்த மையம் எந்த நேரத்தில் திறந்திருக்கும்?"
+    },
+    "answers": {
+      "en": "The SOP says OSCs should offer services 24 hours a day, every day of the week.",
+      "hi": "एसओपी के अनुसार वन स्टॉप सेंटर को सप्ताह के सभी दिन चौबीसों घंटे सेवाएँ देनी चाहिए।",
+      "mix": "SOP ke mutabik OSC ko hafte ke saaton din, 24 ghante services deni chahiye.",
+      "ta": "நடைமுறையின்படி மையங்கள் வாரத்தின் ஏழு நாட்களும் 24 மணி நேரமும் சேவை வழங்க வேண்டும்."
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "fir",
+    "title": "Zero FIR · BNSS §173",
+    "url": "https://www.indiacode.nic.in/bitstream/123456789/20340/1/bnss%2C_2023.pdf",
+    "pattern": "zero fir|police complaint|file an fir|complaint at.*police|ज़ीरो एफआईआर|जीरो एफआईआर|पुलिस शिकायत|fir darj|fir kaise|ஜீரோ எஃப்",
+    "en": "1. For a cognizable offence, you can give information to the officer in charge of any police station, regardless of where it happened.\n2. An oral report is written down and read back to you. Check it before signing.\n3. If you report electronically, sign within three days for it to be taken on record.",
+    "hi": "1. संज्ञेय अपराध की सूचना किसी भी थाने के प्रभारी को दे सकती हैं, घटना कहीं भी हुई हो।\n2. मौखिक सूचना लिखकर आपको पढ़कर सुनाई जाती है। जाँचकर हस्ताक्षर करें।\n3. इलेक्ट्रॉनिक सूचना दर्ज कराने के लिए तीन दिन के भीतर हस्ताक्षर करें।",
+    "mix": "1. Cognizable offence ki report kisi bhi police station ke officer in charge ko de sakti hain.\n2. Oral report likhkar aapko padhkar sunayi jaati hai. Check karke sign karein.\n3. Electronic report ko record par lene ke liye teen din mein sign karein.",
+    "ta": "1. பிடியாணையின்றிக் கைது செய்யக்கூடிய குற்றம் பற்றிய தகவலை எந்தக் காவல் நிலையப் பொறுப்பு அதிகாரியிடமும் தெரிவிக்கலாம்.\n2. வாய்மொழித் தகவலை எழுதி உங்களுக்குப் படித்துக் காட்டுவார்கள். சரிபார்த்துக் கையொப்பமிடுங்கள்.\n3. மின்னணுத் தகவல் பதிவாக மூன்று நாட்களுக்குள் கையொப்பமிட வேண்டும்."
+  },
+  {
+    "id": "posh",
+    "title": "Workplace complaints · POSH Act §§6, 9",
+    "url": "https://www.indiacode.nic.in/bitstream/123456789/15239/1/sexual_harassment_act_2013.pdf",
+    "pattern": "posh|workplace|office.*harass|work.*sexual|कार्यस्थल|दफ्तर|பணியிட",
+    "en": "1. Submit a written complaint to the Internal Committee, or the Local Committee where an Internal Committee has not been constituted. Ask the committee for help writing it if needed.\n2. The usual limit is three months from the incident or the last in a series.\n3. The committee can allow up to three additional months for circumstances that prevented filing, with reasons recorded. A complaint against the employer goes to the Local Committee.",
+    "hi": "1. लिखित शिकायत आंतरिक समिति को दें। यदि उसका गठन नहीं हुआ है तो स्थानीय समिति को दें। लिखने में सहायता माँग सकती हैं।\n2. सामान्य समय घटना या आखिरी घटना से तीन महीने है।\n3. बाधा के कारण देर होने पर समिति कारण दर्ज करके तीन अतिरिक्त महीने तक दे सकती है। नियोक्ता के विरुद्ध शिकायत स्थानीय समिति को दी जाती है।",
+    "mix": "1. Internal Committee ko written complaint dein. Agar committee bani nahi hai toh Local Committee ko dein. Likhne mein help maang sakti hain.\n2. Aam taur par incident ya last incident se teen mahine milte hain.\n3. Filing mein rukawat thi toh committee reasons record karke teen aur mahine tak de sakti hai. Employer ke khilaaf complaint Local Committee ko dein.",
+    "ta": "1. உள் குழுவிடம் எழுத்துப்பூர்வமாகப் புகார் அளிக்கலாம். உள் குழு அமைக்கப்படவில்லை என்றால் உள்ளூர் குழுவை அணுகலாம். எழுத உதவி கேட்கலாம்.\n2. வழக்கமான காலம் சம்பவத்திலிருந்து அல்லது தொடரின் கடைசி சம்பவத்திலிருந்து மூன்று மாதங்கள்.\n3. புகார் அளிக்கத் தடையாக இருந்த சூழலைக் குழு ஏற்றால் காரணத்தைப் பதிவு செய்து மேலும் மூன்று மாதங்கள் வரை வழங்கலாம். முதலாளிக்கு எதிரான புகாரை உள்ளூர் குழுவிடம் அளிக்கலாம்."
+  },
+  {
+    "id": "dv",
+    "title": "Domestic violence · PWDVA §12",
+    "url": "https://www.indiacode.nic.in/bitstream/123456789/6845/1/domviolence.pdf",
+    "pattern": "domestic violence|ghar.*hinsa|protection officer|घरेलू हिंसा|குடும்ப வன்முறை",
+    "en": "The affected person, a Protection Officer, or someone acting on their behalf can apply to a Magistrate for relief under this Act. A Protection Officer or legal aid office can help you discuss what to request.",
+    "hi": "पीड़ित व्यक्ति, संरक्षण अधिकारी या उनकी ओर से कोई अन्य व्यक्ति राहत के लिए मजिस्ट्रेट को आवेदन दे सकता है। सहायता के लिए संरक्षण अधिकारी या विधिक सहायता कार्यालय से बात करें।",
+    "mix": "Affected person, Protection Officer ya unki taraf se koi aur Magistrate ko relief ke liye application de sakta hai. Legal aid office se options par baat kar sakti hain.",
+    "ta": "பாதிக்கப்பட்டவர், பாதுகாப்பு அலுவலர் அல்லது அவர் சார்பில் வேறொருவர் நிவாரணம் கோரி மாஜிஸ்திரேட்டிடம் விண்ணப்பிக்கலாம். சட்ட உதவி அலுவலகத்தை அணுகலாம்."
+  },
+  {
+    "id": "stalk",
+    "title": "Stalking · BNS §78",
+    "url": "https://www.indiacode.nic.in/bitstream/123456789/20062/1/a2023-45.pdf",
+    "pattern": "stalking|bns.*78|पीछा|பின்தொடர்|peecha|stalk",
+    "en": "Section 78 covers a man repeatedly following and contacting or trying to contact a woman despite clear disinterest, or monitoring her electronic communications. The section specifies exceptions, including certain lawful conduct. A legal aid lawyer can discuss how the facts fit.",
+    "hi": "धारा 78 में स्पष्ट अनिच्छा के बावजूद किसी पुरुष का बार-बार महिला का पीछा करके संपर्क करना या कोशिश करना, अथवा उसके इलेक्ट्रॉनिक संचार की निगरानी करना शामिल है। धारा में कुछ अपवाद हैं। अपने मामले पर विधिक सहायता लें।",
+    "mix": "Section 78 mein clear disinterest ke baad bhi kisi aadmi ka baar-baar follow karke contact karna ya try karna, ya mahila ke electronic communications monitor karna shamil hai. Kuch exceptions hain; apne case par legal aid le sakti hain.",
+    "ta": "விருப்பமில்லை என்று தெளிவுபடுத்திய பிறகும் ஒரு ஆண் மீண்டும் மீண்டும் ஒரு பெண்ணைப் பின்தொடர்ந்து தொடர்புகொள்வது அல்லது முயல்வது, அல்லது அவரது மின்னணுத் தொடர்புகளைக் கண்காணிப்பது பிரிவு 78இல் உள்ளது. சில விதிவிலக்குகள் உண்டு. சட்ட உதவி பெறலாம்."
+  },
+  {
+    "id": "digital",
+    "title": "Reporting online harassment · I4C",
+    "url": "https://cybercrime.gov.in/",
+    "pattern": "cyber|online harassment|screenshot|digital evidence|ऑनलाइन|साइबर|இணைய|டிஜிட்டல்",
+    "en": "1. If safe, keep the original messages, sender identifiers, dates, times and URLs. Save screenshots showing context.\n2. Open the National Cyber Crime Reporting Portal and select the complaint category that fits. Enter incident details and attach relevant evidence there.\n3. Keep the acknowledgement for follow-up. For financial cyber fraud, call 1930 promptly.",
+    "hi": "1. सुरक्षित हो तो मूल संदेश, भेजने वाले की पहचान, समय और लिंक रखें। संदर्भ सहित स्क्रीनशॉट लें।\n2. राष्ट्रीय साइबर अपराध पोर्टल पर सही शिकायत श्रेणी चुनें और विवरण व साक्ष्य दें।\n3. पावती सुरक्षित रखें। वित्तीय साइबर धोखाधड़ी में तुरंत 1930 पर संपर्क करें।",
+    "mix": "1. Safe ho toh original messages, sender ID, date, time aur links save karein. Context wala screenshot rakhein.\n2. Cybercrime portal par sahi category chun kar details aur evidence dein.\n3. Acknowledgement rakhein. Financial cyber fraud ho toh jaldi 1930 dial karein.",
+    "ta": "1. பாதுகாப்பாக இருந்தால் அசல் செய்திகள், அனுப்புநர் விவரம், நேரம், இணைப்புகள், திரைப்பிடிப்புகள் ஆகியவற்றைச் சேமிக்கவும்.\n2. தேசிய இணையக் குற்றப் புகார் தளத்தில் சரியான வகையைத் தேர்ந்து விவரங்களையும் ஆதாரங்களையும் அளிக்கவும்.\n3. ஒப்புகையை வைத்திருக்கவும். நிதி மோசடிக்கு உடனே 1930 அழைக்கவும்."
+  },
+  {
+    "id": "physical",
+    "title": "Physical evidence and medical care · MHA guidelines",
+    "url": "https://bprd.mha.gov.in/uploads/pdf/1792750541_0b81a842e81fcfceb1d2.pdf",
+    "pattern": "physical evidence|forensic|sexual assault evidence|भौतिक साक्ष्य|फोरेंसिक|தடய|physical saboot",
+    "en": "1. Seek medical care when you need it. Tell the clinician if you would like help documenting injuries or preserving evidence.\n2. Ask the trained clinician or investigating officer how to handle any items you have. A medical examination after sexual assault requires consent.",
+    "hi": "1. ज़रूरत हो तो चिकित्सा सहायता लें। चोट दर्ज करने या सबूत सुरक्षित रखने की इच्छा डॉक्टर को बताएँ।\n2. वस्तुओं को कैसे सँभालना है, प्रशिक्षित डॉक्टर या जाँच अधिकारी से पूछें। यौन हमले के बाद चिकित्सा परीक्षण के लिए सहमति आवश्यक है।",
+    "mix": "1. Medical care lein. Injuries document karne ya evidence preserve karne ke liye doctor se baat karein.\n2. Jo items hain unhe kaise sambhalna hai, trained clinician ya investigating officer se poochhein. Sexual assault ke baad medical examination ke liye consent chahiye.",
+    "ta": "1. தேவையான மருத்துவ உதவியைப் பெறுங்கள். காயங்களைப் பதிவு செய்யவும் தடயங்களைப் பாதுகாக்கவும் மருத்துவரிடம் உதவி கேளுங்கள்.\n2. பொருட்களை எப்படிக் கையாள்வது என்று பயிற்சிபெற்ற மருத்துவரிடம் அல்லது விசாரணை அதிகாரியிடம் கேளுங்கள். பாலியல் தாக்குதலுக்குப் பிறகான மருத்துவப் பரிசோதனைக்கு ஒப்புதல் தேவை."
+  },
+  {
+    "id": "legal-aid",
+    "title": "Free legal aid · NALSA FAQ",
+    "url": "https://nalsa.gov.in/faqs/",
+    "pattern": "free legal aid|legal aid clinic|nalsa|मुफ्त कानूनी|निःशुल्क विधिक|இலவச சட்ட",
+    "en": "Women are among the groups eligible for legal services under section 12. A District Legal Services Authority can discuss your application and the assistance available.",
+    "hi": "धारा 12 में महिलाएँ विधिक सेवाओं की पात्र श्रेणी में हैं। आवेदन और सहायता के लिए जिला विधिक सेवा प्राधिकरण से बात कर सकती हैं।",
+    "mix": "Section 12 ke tahat women legal services ke liye eligible category mein hain. Application aur help ke liye district legal services authority se baat karein.",
+    "ta": "பிரிவு 12இன் கீழ் சட்ட உதவி பெறத் தகுதியுள்ள பிரிவில் பெண்கள் உள்ளனர். விண்ணப்பம் பற்றி மாவட்ட சட்டப் பணிகள் ஆணைக்குழுவை அணுகலாம்."
+  },
+  {
+    "id": "ncw",
+    "title": "Complaint to the National Commission for Women",
+    "url": "https://cdn.ncw.gov.in/wp-content/uploads/2025/02/Procedure3_3_3.pdf",
+    "pattern": "national commission for women|ncw|महिला आयोग|மகளிர் ஆணைய",
+    "en": "Describe the matter clearly in your written complaint. The Commission may ask for further information. Its procedure lists matters it ordinarily does not take up, including matters already before a court or tribunal.",
+    "hi": "अपनी लिखित शिकायत में घटना स्पष्ट रूप से बताएँ। आयोग अतिरिक्त जानकारी माँग सकता है। अदालत या अधिकरण में लंबित मामले सामान्यतः स्वीकार नहीं किए जाते।",
+    "mix": "Written complaint mein matter clearly explain karein. Commission aur information maang sakta hai. Court ya tribunal mein pending matters aam taur par nahi liye jaate.",
+    "ta": "எழுத்துப்பூர்வப் புகாரில் நடந்ததைத் தெளிவாகக் குறிப்பிடுங்கள். ஆணையம் கூடுதல் தகவலைக் கேட்கலாம். நீதிமன்றத்தில் நிலுவையிலுள்ள விவகாரங்கள் பொதுவாக ஏற்கப்படுவதில்லை."
+  },
+  {
+    "id": "support",
+    "title": "Support after violence · Vikaspedia / NHRC advisory",
+    "url": "https://women.vikaspedia.in/viewcontent/women/women-safety/advisory-on-women-s-safety-at-work-and-public-spaces?lgn=en",
+    "pattern": "my fault|blame myself|meri galti|मेरी गलती|என் தவறா",
+    "en": "You deserve to be heard without blame. If you want support, you can speak to a One Stop Centre or a legal aid service about your options.",
+    "hi": "आपकी बात बिना दोष दिए सुनी जानी चाहिए। अगर आप चाहें तो सहायता और विकल्पों पर वन स्टॉप सेंटर या विधिक सहायता सेवा से बात कर सकती हैं।",
+    "mix": "Aapki baat bina blame kiye suni jaani chahiye. Agar aap chahein toh One Stop Centre ya legal aid service se options par baat kar sakti hain.",
+    "ta": "உங்களைக் குறைகூறாமல் உங்கள் பேச்சைக் கேட்க வேண்டும். விரும்பினால் உதவி வாய்ப்புகளைப் பற்றி ஒன் ஸ்டாப் மையம் அல்லது சட்ட உதவி சேவையிடம் பேசலாம்."
+  },
+  {
+    "id": "harassment",
+    "title": "Sexual harassment · BNS §75",
+    "url": "https://www.indiacode.nic.in/bitstream/123456789/20062/1/a2023-45.pdf",
+    "pattern": "bns.{0,12}75|धारा 75|பிரிவு 75",
+    "en": "Section 75 describes sexual harassment by a man, including unwelcome explicit sexual advances involving physical contact, demands for sexual favours, showing pornography against a woman’s will, or sexually coloured remarks.",
+    "hi": "धारा 75 में पुरुष द्वारा अवांछित स्पष्ट यौन पहल के साथ शारीरिक संपर्क, यौन अनुग्रह की माँग, महिला की इच्छा के विरुद्ध अश्लील सामग्री दिखाना या यौन टिप्पणी करना शामिल है।",
+    "mix": "Section 75 mein aadmi ka unwanted explicit sexual advance ke saath physical contact, sexual favour ki demand, mahila ki marzi ke khilaaf pornography dikhana, ya sexual remarks karna shamil hai.",
+    "ta": "பிரிவு 75இல் ஆண் ஒருவர் செய்யும் விரும்பத்தகாத வெளிப்படையான பாலியல் அணுகுமுறையுடன் உடல் தொடர்பு, பாலியல் சலுகை கோருதல், பெண்ணின் விருப்பத்துக்கு எதிராக ஆபாசப் படத்தைக் காட்டுதல், பாலியல் தன்மையுள்ள கருத்துகளைத் தெரிவித்தல் ஆகியவை அடங்கும்."
+  },
+  {
+    "id": "residence",
+    "title": "Shared household · PWDVA §17",
+    "url": "https://www.indiacode.nic.in/bitstream/123456789/6845/1/domviolence.pdf",
+    "pattern": "shared household|right to reside|साझा घर|साझी गृहस्थी|பகிர்ந்த வீட்டில்",
+    "en": "A woman in a domestic relationship has a right to reside in the shared household even without an ownership interest. The respondent may exclude or evict the aggrieved person only through the procedure established by law.",
+    "hi": "घरेलू संबंध में महिला को साझा घर में रहने का अधिकार है, भले ही उसके पास मालिकाना हक न हो। प्रतिवादी केवल कानून की निर्धारित प्रक्रिया के अनुसार ही पीड़ित व्यक्ति को बाहर कर सकता है।",
+    "mix": "Domestic relationship mein mahila ko shared household mein rehne ka adhikar hai, chahe ownership na ho. Respondent sirf kanoon ki tay procedure se hi eviction kar sakta hai.",
+    "ta": "குடும்ப உறவில் இருக்கும் பெண்ணுக்கு உரிமை பங்கு இல்லாவிட்டாலும் பகிர்ந்த வீட்டில் வசிக்கும் உரிமை உள்ளது. சட்டத்தில் கூறப்பட்ட நடைமுறையின் மூலமே எதிர்மனுதாரர் அவரை வெளியேற்ற முடியும்."
+  }
+]

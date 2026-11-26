@@ -1,0 +1,407 @@
+[
+  {
+    "intent": 0,
+    "lang": "en",
+    "q": "How many shelter beds should an OSC have at minimum?",
+    "answer": {
+      "kind": "guide",
+      "label": "How long can I stay at an OSC?",
+      "answer": "Usually five days. If relocation to Shakti Sadan is infeasible, the administrator can extend the stay to ten days case by case. The DNO/DPO can authorize up to ten further days.",
+      "language": "en",
+      "speech_text": "Usually five days. If relocation to Shakti Sadan is infeasible, the administrator can extend the stay to ten days case by case. The DNO/DPO can authorize up to ten further days.",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 19",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=19"
+    },
+    "ms": 2920.52,
+    "gold": "At least five beds.",
+    "retrieval_ms_0": 332.61,
+    "rank_0": 2,
+    "retrieval_ms_1": 30.18,
+    "rank_1": 2
+  },
+  {
+    "intent": 0,
+    "lang": "hi",
+    "q": "केंद्र में न्यूनतम कितने बिस्तर होने चाहिए?",
+    "answer": {
+      "kind": "guide",
+      "label": "Where should an OSC be located relative to a hospital?",
+      "answer": "केंद्र जिला अस्पताल या चिकित्सा परिसर में होना चाहिए। यह संभव न हो तो दो किलोमीटर के भीतर सरकारी या अर्धसरकारी भवन हो सकता है।",
+      "language": "hi",
+      "speech_text": "केंद्र जिला अस्पताल या चिकित्सा परिसर में होना चाहिए। यह संभव न हो तो दो किलोमीटर के भीतर सरकारी या अर्धसरकारी भवन हो सकता है।",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 19",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=19"
+    },
+    "ms": 12.93,
+    "gold": "At least five beds.",
+    "retrieval_ms_0": 66.78,
+    "rank_0": 2,
+    "retrieval_ms_1": 15.15,
+    "rank_1": 2
+  },
+  {
+    "intent": 0,
+    "lang": "hinglish",
+    "q": "Centre mein kam se kam kitne beds hone chahiye?",
+    "answer": {
+      "kind": "guide",
+      "label": "Where should an OSC be located relative to a hospital?",
+      "answer": "Centre district hospital ya medical facility mein hona chahiye. Mumkin na ho toh do km ke andar government ya semi-government building mein ho sakta hai.",
+      "language": "mix",
+      "speech_text": "केंद्र जिला अस्पताल या चिकित्सा परिसर में होना चाहिए। यह संभव न हो तो दो किलोमीटर के भीतर सरकारी या अर्धसरकारी भवन हो सकता है।",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 19",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=19"
+    },
+    "ms": 10.97,
+    "gold": "At least five beds.",
+    "retrieval_ms_0": 9.2,
+    "rank_0": 13,
+    "retrieval_ms_1": 10.07,
+    "rank_1": 1
+  },
+  {
+    "intent": 1,
+    "lang": "en",
+    "q": "Who gives first aid before hospital arrival?",
+    "answer": {
+      "kind": "unknown",
+      "answer": "The sources here do not settle that question. A legal aid clinic can discuss your circumstances.",
+      "source": "NALSA · Legal aid",
+      "url": "https://nalsa.gov.in/"
+    },
+    "ms": 9.9,
+    "gold": "The para-medical officer.",
+    "retrieval_ms_0": 8.71,
+    "rank_0": 8,
+    "retrieval_ms_1": 10.56,
+    "rank_1": 1
+  },
+  {
+    "intent": 1,
+    "lang": "hi",
+    "q": "अस्पताल पहुँचने से पहले प्राथमिक उपचार कौन देता है?",
+    "answer": {
+      "kind": "unknown",
+      "answer": "यहाँ उपलब्ध स्रोतों से इस सवाल का स्पष्ट जवाब नहीं मिलता। विधिक सहायता केंद्र से अपने मामले पर बात कर सकती हैं।",
+      "source": "NALSA · Legal aid",
+      "url": "https://nalsa.gov.in/"
+    },
+    "ms": 9.2,
+    "gold": "The para-medical officer.",
+    "retrieval_ms_0": 9.17,
+    "rank_0": 2,
+    "retrieval_ms_1": 10.23,
+    "rank_1": 2
+  },
+  {
+    "intent": 1,
+    "lang": "hinglish",
+    "q": "Hospital pahunchne se pehle first aid kaun deta hai?",
+    "answer": {
+      "kind": "unknown",
+      "answer": "Available sources mein iska clear jawab nahi mila. Legal aid clinic se apne case par baat kar sakti hain.",
+      "source": "NALSA · Legal aid",
+      "url": "https://nalsa.gov.in/"
+    },
+    "ms": 11.44,
+    "gold": "The para-medical officer.",
+    "retrieval_ms_0": 11.22,
+    "rank_0": 52,
+    "retrieval_ms_1": 12.62,
+    "rank_1": 47
+  },
+  {
+    "intent": 2,
+    "lang": "en",
+    "q": "What happens to a non-emergency request for emotional support?",
+    "answer": {
+      "kind": "unknown",
+      "answer": "The sources here do not settle that question. A legal aid clinic can discuss your circumstances.",
+      "source": "NALSA · Legal aid",
+      "url": "https://nalsa.gov.in/"
+    },
+    "ms": 11.67,
+    "gold": "Following assessment, it is transferred to the WHL unit of an OSC for the appropriate intervention.",
+    "retrieval_ms_0": 11.43,
+    "rank_0": 8,
+    "retrieval_ms_1": 11.46,
+    "rank_1": 4
+  },
+  {
+    "intent": 2,
+    "lang": "hi",
+    "q": "भावनात्मक सहायता की गैर आपात कॉल का क्या होता है?",
+    "answer": {
+      "kind": "unknown",
+      "answer": "यहाँ उपलब्ध स्रोतों से इस सवाल का स्पष्ट जवाब नहीं मिलता। विधिक सहायता केंद्र से अपने मामले पर बात कर सकती हैं।",
+      "source": "NALSA · Legal aid",
+      "url": "https://nalsa.gov.in/"
+    },
+    "ms": 12.17,
+    "gold": "Following assessment, it is transferred to the WHL unit of an OSC for the appropriate intervention.",
+    "retrieval_ms_0": 9.63,
+    "rank_0": 3,
+    "retrieval_ms_1": 11.03,
+    "rank_1": 1
+  },
+  {
+    "intent": 2,
+    "lang": "hinglish",
+    "q": "Emotional support wali non emergency call kahan jaati hai?",
+    "answer": {
+      "kind": "guide",
+      "label": "Where does the helpline forward emergency calls?",
+      "answer": "Control room emergency call ERSS-112 ko forward karta hai aur relevant WHL unit ya OSC ko bhi inform karta hai.",
+      "language": "mix",
+      "speech_text": "कंट्रोल रूम आपात कॉल ईआरएसएस 112 को भेजता है और संबंधित हेल्पलाइन इकाई या केंद्र को सूचना देता है।",
+      "source": "Women_Helpline_181_SOP_English.pdf · PDF p. 8",
+      "url": "/source/Women_Helpline_181_SOP_English.pdf#page=8"
+    },
+    "ms": 11.22,
+    "gold": "Following assessment, it is transferred to the WHL unit of an OSC for the appropriate intervention.",
+    "retrieval_ms_0": 11.47,
+    "rank_0": 6,
+    "retrieval_ms_1": 11.46,
+    "rank_1": 1
+  },
+  {
+    "intent": 3,
+    "lang": "en",
+    "q": "How much relevant experience should a case worker have?",
+    "answer": {
+      "kind": "unknown",
+      "answer": "The sources here do not settle that question. A legal aid clinic can discuss your circumstances.",
+      "source": "NALSA · Legal aid",
+      "url": "https://nalsa.gov.in/"
+    },
+    "ms": 11.24,
+    "gold": "At least three years of relevant experience.",
+    "retrieval_ms_0": 9.3,
+    "rank_0": 2,
+    "retrieval_ms_1": 13.16,
+    "rank_1": 3
+  },
+  {
+    "intent": 3,
+    "lang": "hi",
+    "q": "केस वर्कर को कितना अनुभव चाहिए?",
+    "answer": {
+      "kind": "unknown",
+      "answer": "यहाँ उपलब्ध स्रोतों से इस सवाल का स्पष्ट जवाब नहीं मिलता। विधिक सहायता केंद्र से अपने मामले पर बात कर सकती हैं।",
+      "source": "NALSA · Legal aid",
+      "url": "https://nalsa.gov.in/"
+    },
+    "ms": 11.76,
+    "gold": "At least three years of relevant experience.",
+    "retrieval_ms_0": 8.98,
+    "rank_0": 3,
+    "retrieval_ms_1": 12.42,
+    "rank_1": 4
+  },
+  {
+    "intent": 3,
+    "lang": "hinglish",
+    "q": "Case worker ko kitna experience chahiye?",
+    "answer": {
+      "kind": "unknown",
+      "answer": "Available sources mein iska clear jawab nahi mila. Legal aid clinic se apne case par baat kar sakti hain.",
+      "source": "NALSA · Legal aid",
+      "url": "https://nalsa.gov.in/"
+    },
+    "ms": 11.67,
+    "gold": "At least three years of relevant experience.",
+    "retrieval_ms_0": 10.22,
+    "rank_0": 1,
+    "retrieval_ms_1": 9.8,
+    "rank_1": 5
+  },
+  {
+    "intent": 4,
+    "lang": "en",
+    "q": "Who leads the district committee implementing the OSC scheme?",
+    "answer": {
+      "kind": "guide",
+      "label": "Who oversees OSC policy nationally?",
+      "answer": "The Ministry of Women and Child Development.",
+      "language": "en",
+      "speech_text": "The Ministry of Women and Child Development.",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 14",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=14"
+    },
+    "ms": 11.83,
+    "gold": "The District Magistrate or Collector.",
+    "retrieval_ms_0": 9.25,
+    "rank_0": 2,
+    "retrieval_ms_1": 11.92,
+    "rank_1": 1
+  },
+  {
+    "intent": 4,
+    "lang": "hi",
+    "q": "जिला स्तर पर कार्यान्वयन समिति की अगुवाई कौन करता है?",
+    "answer": {
+      "kind": "unknown",
+      "answer": "यहाँ उपलब्ध स्रोतों से इस सवाल का स्पष्ट जवाब नहीं मिलता। विधिक सहायता केंद्र से अपने मामले पर बात कर सकती हैं।",
+      "source": "NALSA · Legal aid",
+      "url": "https://nalsa.gov.in/"
+    },
+    "ms": 12.56,
+    "gold": "The District Magistrate or Collector.",
+    "retrieval_ms_0": 10.69,
+    "rank_0": 2,
+    "retrieval_ms_1": 10.45,
+    "rank_1": 1
+  },
+  {
+    "intent": 4,
+    "lang": "hinglish",
+    "q": "District ki OSC implementation committee ka head kaun hai?",
+    "answer": {
+      "kind": "guide",
+      "label": "Who oversees OSC policy nationally?",
+      "answer": "Ministry of Women and Child Development.",
+      "language": "mix",
+      "speech_text": "महिला एवं बाल विकास मंत्रालय।",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 14",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=14"
+    },
+    "ms": 11.19,
+    "gold": "The District Magistrate or Collector.",
+    "retrieval_ms_0": 10.36,
+    "rank_0": 2,
+    "retrieval_ms_1": 12.62,
+    "rank_1": 1
+  },
+  {
+    "intent": 5,
+    "lang": "en",
+    "q": "What communication support should counselling rooms offer?",
+    "answer": {
+      "kind": "unknown",
+      "answer": "The sources here do not settle that question. A legal aid clinic can discuss your circumstances.",
+      "source": "NALSA · Legal aid",
+      "url": "https://nalsa.gov.in/"
+    },
+    "ms": 12.12,
+    "gold": "Appropriate communication aids and access to trained sign language interpreters where needed.",
+    "retrieval_ms_0": 10.25,
+    "rank_0": 3,
+    "retrieval_ms_1": 9.67,
+    "rank_1": 1
+  },
+  {
+    "intent": 5,
+    "lang": "hi",
+    "q": "परामर्श कक्ष में सुनने में कठिनाई वालों के लिए क्या व्यवस्था है?",
+    "answer": {
+      "kind": "unknown",
+      "answer": "यहाँ उपलब्ध स्रोतों से इस सवाल का स्पष्ट जवाब नहीं मिलता। विधिक सहायता केंद्र से अपने मामले पर बात कर सकती हैं।",
+      "source": "NALSA · Legal aid",
+      "url": "https://nalsa.gov.in/"
+    },
+    "ms": 12.29,
+    "gold": "Appropriate communication aids and access to trained sign language interpreters where needed.",
+    "retrieval_ms_0": 11.26,
+    "rank_0": 1,
+    "retrieval_ms_1": 13.92,
+    "rank_1": 1
+  },
+  {
+    "intent": 5,
+    "lang": "hinglish",
+    "q": "Hearing difficulty ho toh counselling room mein kya support hai?",
+    "answer": {
+      "kind": "guide",
+      "label": "Can other people hear my counselling session?",
+      "answer": "Counselling alag room mein honi chahiye jahan baat suni ya dekhi na ja sake.",
+      "language": "mix",
+      "speech_text": "परामर्श के लिए अलग कमरा होना चाहिए जहाँ बातचीत सुनी या देखी न जा सके।",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 20",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=20"
+    },
+    "ms": 12.9,
+    "gold": "Appropriate communication aids and access to trained sign language interpreters where needed.",
+    "retrieval_ms_0": 9.8,
+    "rank_0": 3,
+    "retrieval_ms_1": 11.48,
+    "rank_1": 1
+  },
+  {
+    "intent": 6,
+    "lang": "en",
+    "q": "Is there an empty bed at my nearest centre tonight?",
+    "answer": {
+      "kind": "directory",
+      "answer": "Select your state and district below to see published local services.",
+      "source": "Ministry OSC directory",
+      "url": "https://spniwcd.wcd.gov.in/uploads/pdf/1719920005_9NAs3KlT9d%20%282%29.pdf"
+    },
+    "ms": 0.03,
+    "gold": "Current occupancy is unavailable in the static documents."
+  },
+  {
+    "intent": 6,
+    "lang": "hi",
+    "q": "क्या पास के केंद्र में आज रात जगह खाली है?",
+    "answer": {
+      "kind": "unknown",
+      "answer": "इन दस्तावेज़ों में वर्तमान उपलब्धता या व्यक्तिगत केस की स्थिति नहीं है। संबंधित सेवा से संपर्क करें।",
+      "source": "Mission Shakti",
+      "url": "https://missionshakti.wcd.gov.in/"
+    },
+    "ms": 0.02,
+    "gold": "Current occupancy is unavailable in the static documents."
+  },
+  {
+    "intent": 6,
+    "lang": "hinglish",
+    "q": "Aaj raat nearest OSC mein bed khaali hai?",
+    "answer": {
+      "kind": "unknown",
+      "answer": "Live availability ya personal case status in documents mein nahi hai. Service se directly contact karein.",
+      "source": "Mission Shakti",
+      "url": "https://missionshakti.wcd.gov.in/"
+    },
+    "ms": 0.01,
+    "gold": "Current occupancy is unavailable in the static documents."
+  },
+  {
+    "intent": 7,
+    "lang": "en",
+    "q": "Has my complaint been closed today?",
+    "answer": {
+      "kind": "unknown",
+      "answer": "The sources here do not settle that question. A legal aid clinic can discuss your circumstances.",
+      "source": "NALSA · Legal aid",
+      "url": "https://nalsa.gov.in/"
+    },
+    "ms": 13.01,
+    "gold": "Individual live case status is unavailable."
+  },
+  {
+    "intent": 7,
+    "lang": "hi",
+    "q": "क्या आज मेरी शिकायत बंद हो गई?",
+    "answer": {
+      "kind": "unknown",
+      "answer": "यहाँ उपलब्ध स्रोतों से इस सवाल का स्पष्ट जवाब नहीं मिलता। विधिक सहायता केंद्र से अपने मामले पर बात कर सकती हैं।",
+      "source": "NALSA · Legal aid",
+      "url": "https://nalsa.gov.in/"
+    },
+    "ms": 13.18,
+    "gold": "Individual live case status is unavailable."
+  },
+  {
+    "intent": 7,
+    "lang": "hinglish",
+    "q": "Meri complaint aaj close ho gayi kya?",
+    "answer": {
+      "kind": "unknown",
+      "answer": "Available sources mein iska clear jawab nahi mila. Legal aid clinic se apne case par baat kar sakti hain.",
+      "source": "NALSA · Legal aid",
+      "url": "https://nalsa.gov.in/"
+    },
+    "ms": 10.39,
+    "gold": "Individual live case status is unavailable."
+  }
+]

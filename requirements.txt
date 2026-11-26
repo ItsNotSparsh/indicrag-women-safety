@@ -8,6 +8,12 @@ sentence-transformers>=3.4,<6
 transformers>=4.48,<6
 ipykernel>=6.29,<7
 easyocr>=1.7,<2
+numpy>=2,<3
+Pillow>=11,<14
+huggingface-hub>=1,<2
+
 --extra-index-url https://download.pytorch.org/whl/cu132
-torch==2.14.1+cu132
-torchvision==0.29.1+cu132
+torch==2.14.1+cu132 ; sys_platform == "win32"
+torch==2.14.1 ; sys_platform != "win32"
+torchvision==0.29.1+cu132 ; sys_platform == "win32"
+torchvision==0.29.1 ; sys_platform != "win32"

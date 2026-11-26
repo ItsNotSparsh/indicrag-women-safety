@@ -1,0 +1,458 @@
+[
+  {
+    "intent": 0,
+    "lang": "en",
+    "q": "How many shelter beds should an OSC have at minimum?",
+    "answer": {
+      "kind": "answer",
+      "label": "Official SOP",
+      "answer": "The SOP calls for at least five shelter beds per OSC. This is a capacity standard.",
+      "language": "en",
+      "speech_text": "The SOP calls for at least five shelter beds per OSC. This is a capacity standard.",
+      "evidence": "Temporary shelter facilities OSCs should have a minimum of five beds to provide temporary shelter facilities to distressed women and their children, where required (girls of all ages, and boys till the age of 12 years) for up to five days.",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 20",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=20"
+    },
+    "ms": 4371.17,
+    "gold": "At least five beds.",
+    "retrieval_ms_0": 9.36,
+    "rank_0": 2,
+    "retrieval_ms_1": 11.97,
+    "rank_1": 2
+  },
+  {
+    "intent": 0,
+    "lang": "hi",
+    "q": "केंद्र में न्यूनतम कितने बिस्तर होने चाहिए?",
+    "answer": {
+      "kind": "answer",
+      "label": "आधिकारिक एसओपी",
+      "answer": "एसओपी के अनुसार हर केंद्र में अस्थायी आश्रय के लिए कम से कम पाँच बिस्तर होने चाहिए।",
+      "language": "hi",
+      "speech_text": "एसओपी के अनुसार हर केंद्र में अस्थायी आश्रय के लिए कम से कम पाँच बिस्तर होने चाहिए।",
+      "evidence": "Temporary shelter facilities OSCs should have a minimum of five beds to provide temporary shelter facilities to distressed women and their children, where required (girls of all ages, and boys till the age of 12 years) for up to five days.",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 20",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=20"
+    },
+    "ms": 92.96,
+    "gold": "At least five beds.",
+    "retrieval_ms_0": 9.85,
+    "rank_0": 2,
+    "retrieval_ms_1": 12.64,
+    "rank_1": 2
+  },
+  {
+    "intent": 0,
+    "lang": "hinglish",
+    "q": "Centre mein kam se kam kitne beds hone chahiye?",
+    "answer": {
+      "kind": "answer",
+      "label": "Official SOP",
+      "answer": "SOP ke mutabik har OSC mein temporary shelter ke liye kam se kam 5 beds hone chahiye.",
+      "language": "mix",
+      "speech_text": "एसओपी के अनुसार हर केंद्र में अस्थायी आश्रय के लिए कम से कम पाँच बिस्तर होने चाहिए।",
+      "evidence": "Temporary shelter facilities OSCs should have a minimum of five beds to provide temporary shelter facilities to distressed women and their children, where required (girls of all ages, and boys till the age of 12 years) for up to five days.",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 20",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=20"
+    },
+    "ms": 57.45,
+    "gold": "At least five beds.",
+    "retrieval_ms_0": 9.74,
+    "rank_0": 13,
+    "retrieval_ms_1": 12.52,
+    "rank_1": 1
+  },
+  {
+    "intent": 1,
+    "lang": "en",
+    "q": "Who gives first aid before hospital arrival?",
+    "answer": {
+      "kind": "answer",
+      "label": "Official SOP",
+      "answer": "The para-medical officer provides first aid and immediate lifesaving medical assistance until the survivor reaches hospital.",
+      "language": "en",
+      "speech_text": "The para-medical officer provides first aid and immediate lifesaving medical assistance until the survivor reaches hospital.",
+      "evidence": "No Position Primary responsibilities Secondary responsibilities 3 Para Legal officer/ Lawyer Para Legal officer will: · Orient the survivor about their legal rights · Support/guide the survivor to initiate legal proceedings against the abuse/violence suffered, if they would like to · Coordinate with the Public Prosecutor or the SLSA/DLSA Lawyers, to support the survivor even after the case has been filed in court as well as to ensure the case is followed up to its logical conclusion · Simplify legal procedures for the survivor · Facilitate speedy and hassle free police and court proceedings through the use of video conferencing facilities for recording the statement of the survivor Para legal officer will assist the centre administrator and case worker for: · Understanding the legal nuances involved during case assessment · Coordinating with the police and other institutions under the law 4 Para Medical Officer Para medical officer will: · Provide first aid and immediate lifesaving medical assistance to the survivor until they reach the hospital.",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 32",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=32"
+    },
+    "ms": 48.37,
+    "gold": "The para-medical officer.",
+    "retrieval_ms_0": 11.31,
+    "rank_0": 8,
+    "retrieval_ms_1": 11.81,
+    "rank_1": 1
+  },
+  {
+    "intent": 1,
+    "lang": "hi",
+    "q": "अस्पताल पहुँचने से पहले प्राथमिक उपचार कौन देता है?",
+    "answer": {
+      "kind": "answer",
+      "label": "आधिकारिक एसओपी",
+      "answer": "अस्पताल पहुँचने तक पैरामेडिकल अधिकारी प्राथमिक उपचार और तत्काल जीवनरक्षक चिकित्सा सहायता देते हैं।",
+      "language": "hi",
+      "speech_text": "अस्पताल पहुँचने तक पैरामेडिकल अधिकारी प्राथमिक उपचार और तत्काल जीवनरक्षक चिकित्सा सहायता देते हैं।",
+      "evidence": "No Position Primary responsibilities Secondary responsibilities 3 Para Legal officer/ Lawyer Para Legal officer will: · Orient the survivor about their legal rights · Support/guide the survivor to initiate legal proceedings against the abuse/violence suffered, if they would like to · Coordinate with the Public Prosecutor or the SLSA/DLSA Lawyers, to support the survivor even after the case has been filed in court as well as to ensure the case is followed up to its logical conclusion · Simplify legal procedures for the survivor · Facilitate speedy and hassle free police and court proceedings through the use of video conferencing facilities for recording the statement of the survivor Para legal officer will assist the centre administrator and case worker for: · Understanding the legal nuances involved during case assessment · Coordinating with the police and other institutions under the law 4 Para Medical Officer Para medical officer will: · Provide first aid and immediate lifesaving medical assistance to the survivor until they reach the hospital.",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 32",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=32"
+    },
+    "ms": 59.28,
+    "gold": "The para-medical officer.",
+    "retrieval_ms_0": 8.62,
+    "rank_0": 2,
+    "retrieval_ms_1": 10.3,
+    "rank_1": 2
+  },
+  {
+    "intent": 1,
+    "lang": "hinglish",
+    "q": "Hospital pahunchne se pehle first aid kaun deta hai?",
+    "answer": {
+      "kind": "answer",
+      "label": "Official SOP",
+      "answer": "Hospital pahunchne tak para-medical officer first aid aur turant zaroori lifesaving medical help dete hain.",
+      "language": "mix",
+      "speech_text": "अस्पताल पहुँचने तक पैरामेडिकल अधिकारी प्राथमिक उपचार और तत्काल जीवनरक्षक चिकित्सा सहायता देते हैं।",
+      "evidence": "No Position Primary responsibilities Secondary responsibilities 3 Para Legal officer/ Lawyer Para Legal officer will: · Orient the survivor about their legal rights · Support/guide the survivor to initiate legal proceedings against the abuse/violence suffered, if they would like to · Coordinate with the Public Prosecutor or the SLSA/DLSA Lawyers, to support the survivor even after the case has been filed in court as well as to ensure the case is followed up to its logical conclusion · Simplify legal procedures for the survivor · Facilitate speedy and hassle free police and court proceedings through the use of video conferencing facilities for recording the statement of the survivor Para legal officer will assist the centre administrator and case worker for: · Understanding the legal nuances involved during case assessment · Coordinating with the police and other institutions under the law 4 Para Medical Officer Para medical officer will: · Provide first aid and immediate lifesaving medical assistance to the survivor until they reach the hospital.",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 32",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=32"
+    },
+    "ms": 53.31,
+    "gold": "The para-medical officer.",
+    "retrieval_ms_0": 10.78,
+    "rank_0": 52,
+    "retrieval_ms_1": 12.58,
+    "rank_1": 47
+  },
+  {
+    "intent": 2,
+    "lang": "en",
+    "q": "What happens to a non-emergency request for emotional support?",
+    "answer": {
+      "kind": "answer",
+      "label": "Official SOP",
+      "answer": "For a non-emergency request for emotional support, the helpline assesses the call and transfers it to the Women Helpline unit at a One Stop Centre for appropriate support.",
+      "language": "en",
+      "speech_text": "For a non-emergency request for emotional support, the helpline assesses the call and transfers it to the Women Helpline unit at a One Stop Centre for appropriate support.",
+      "evidence": "on post assessment and nature of the call shall be transferred to WHL Units of OSCs for providing necessar5r support ald intervention as per the case.",
+      "source": "Women_Helpline_181_SOP_English.pdf · PDF p. 8",
+      "url": "/source/Women_Helpline_181_SOP_English.pdf#page=8"
+    },
+    "ms": 65.0,
+    "gold": "Following assessment, it is transferred to the WHL unit of an OSC for the appropriate intervention.",
+    "retrieval_ms_0": 8.98,
+    "rank_0": 8,
+    "retrieval_ms_1": 12.93,
+    "rank_1": 4
+  },
+  {
+    "intent": 2,
+    "lang": "hi",
+    "q": "भावनात्मक सहायता की गैर आपात कॉल का क्या होता है?",
+    "answer": {
+      "kind": "answer",
+      "label": "आधिकारिक एसओपी",
+      "answer": "आकलन के बाद कॉल वन स्टॉप सेंटर की महिला हेल्पलाइन इकाई को भेजी जाती है ताकि ज़रूरत के अनुसार सहायता दी जा सके।",
+      "language": "hi",
+      "speech_text": "आकलन के बाद कॉल वन स्टॉप सेंटर की महिला हेल्पलाइन इकाई को भेजी जाती है ताकि ज़रूरत के अनुसार सहायता दी जा सके।",
+      "evidence": "on post assessment and nature of the call shall be transferred to WHL Units of OSCs for providing necessar5r support ald intervention as per the case.",
+      "source": "Women_Helpline_181_SOP_English.pdf · PDF p. 8",
+      "url": "/source/Women_Helpline_181_SOP_English.pdf#page=8"
+    },
+    "ms": 67.08,
+    "gold": "Following assessment, it is transferred to the WHL unit of an OSC for the appropriate intervention.",
+    "retrieval_ms_0": 14.1,
+    "rank_0": 3,
+    "retrieval_ms_1": 11.89,
+    "rank_1": 1
+  },
+  {
+    "intent": 2,
+    "lang": "hinglish",
+    "q": "Emotional support wali non emergency call kahan jaati hai?",
+    "answer": {
+      "kind": "answer",
+      "label": "Official SOP",
+      "answer": "Assessment ke baad call One Stop Centre ki Women Helpline unit ko transfer hoti hai, taaki caller ki zaroorat ke hisaab se madad mil sake.",
+      "language": "mix",
+      "speech_text": "आकलन के बाद कॉल वन स्टॉप सेंटर की महिला हेल्पलाइन इकाई को भेजी जाती है ताकि ज़रूरत के अनुसार सहायता दी जा सके।",
+      "evidence": "on post assessment and nature of the call shall be transferred to WHL Units of OSCs for providing necessar5r support ald intervention as per the case.",
+      "source": "Women_Helpline_181_SOP_English.pdf · PDF p. 8",
+      "url": "/source/Women_Helpline_181_SOP_English.pdf#page=8"
+    },
+    "ms": 0.71,
+    "gold": "Following assessment, it is transferred to the WHL unit of an OSC for the appropriate intervention.",
+    "retrieval_ms_0": 12.27,
+    "rank_0": 6,
+    "retrieval_ms_1": 12.44,
+    "rank_1": 1
+  },
+  {
+    "intent": 3,
+    "lang": "en",
+    "q": "How much relevant experience should a case worker have?",
+    "answer": {
+      "kind": "answer",
+      "label": "Official SOP",
+      "answer": "A case worker needs at least three years of relevant experience in a government or nongovernmental project or programme working on women’s issues.",
+      "language": "en",
+      "speech_text": "A case worker needs at least three years of relevant experience in a government or nongovernmental project or programme working on women’s issues.",
+      "evidence": "No Position Basic Qualifications 2 Case Workers (2) The Case worker should be a woman, a resident of the local community (so that local human resource and expertise is utilised for effective functioning of the centre) and possess the following basic qualifications: · A Bachelor’s degree in law/ social work/ sociology/ social science/ psychology · Minimum three years of experience of working on wom- en related relevant domains in a Government or Non- Government project/programme CA may assign any other work related to OSC to any of the staff from time to time.",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 27",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=27"
+    },
+    "ms": 50.01,
+    "gold": "At least three years of relevant experience.",
+    "retrieval_ms_0": 11.05,
+    "rank_0": 2,
+    "retrieval_ms_1": 10.06,
+    "rank_1": 3
+  },
+  {
+    "intent": 3,
+    "lang": "hi",
+    "q": "केस वर्कर को कितना अनुभव चाहिए?",
+    "answer": {
+      "kind": "answer",
+      "label": "आधिकारिक एसओपी",
+      "answer": "केस वर्कर को महिलाओं से जुड़े सरकारी या गैर-सरकारी प्रोजेक्ट या कार्यक्रम में कम से कम तीन साल का प्रासंगिक अनुभव चाहिए।",
+      "language": "hi",
+      "speech_text": "केस वर्कर को महिलाओं से जुड़े सरकारी या गैर-सरकारी प्रोजेक्ट या कार्यक्रम में कम से कम तीन साल का प्रासंगिक अनुभव चाहिए।",
+      "evidence": "No Position Basic Qualifications 2 Case Workers (2) The Case worker should be a woman, a resident of the local community (so that local human resource and expertise is utilised for effective functioning of the centre) and possess the following basic qualifications: · A Bachelor’s degree in law/ social work/ sociology/ social science/ psychology · Minimum three years of experience of working on wom- en related relevant domains in a Government or Non- Government project/programme CA may assign any other work related to OSC to any of the staff from time to time.",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 27",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=27"
+    },
+    "ms": 53.46,
+    "gold": "At least three years of relevant experience.",
+    "retrieval_ms_0": 8.11,
+    "rank_0": 3,
+    "retrieval_ms_1": 9.25,
+    "rank_1": 4
+  },
+  {
+    "intent": 3,
+    "lang": "hinglish",
+    "q": "Case worker ko kitna experience chahiye?",
+    "answer": {
+      "kind": "answer",
+      "label": "Official SOP",
+      "answer": "Case worker ko mahilaon se jude sarkari ya non-government project ya programme mein kam se kam 3 saal ka relevant experience chahiye.",
+      "language": "mix",
+      "speech_text": "केस वर्कर को महिलाओं से जुड़े सरकारी या गैर-सरकारी प्रोजेक्ट या कार्यक्रम में कम से कम तीन साल का प्रासंगिक अनुभव चाहिए।",
+      "evidence": "No Position Basic Qualifications 2 Case Workers (2) The Case worker should be a woman, a resident of the local community (so that local human resource and expertise is utilised for effective functioning of the centre) and possess the following basic qualifications: · A Bachelor’s degree in law/ social work/ sociology/ social science/ psychology · Minimum three years of experience of working on wom- en related relevant domains in a Government or Non- Government project/programme CA may assign any other work related to OSC to any of the staff from time to time.",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 27",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=27"
+    },
+    "ms": 49.99,
+    "gold": "At least three years of relevant experience.",
+    "retrieval_ms_0": 7.54,
+    "rank_0": 1,
+    "retrieval_ms_1": 9.7,
+    "rank_1": 5
+  },
+  {
+    "intent": 4,
+    "lang": "en",
+    "q": "Who leads the district committee implementing the OSC scheme?",
+    "answer": {
+      "kind": "answer",
+      "label": "Official SOP",
+      "answer": "The District Magistrate or Collector leads the district implementation committee.",
+      "language": "en",
+      "speech_text": "The District Magistrate or Collector leads the district implementation committee.",
+      "evidence": "District level At the district level, the scheme is implemented by a committee led by the District Magistrate/Collector and supported by Women and Child Development officers.",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 14",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=14"
+    },
+    "ms": 45.76,
+    "gold": "The District Magistrate or Collector.",
+    "retrieval_ms_0": 10.58,
+    "rank_0": 2,
+    "retrieval_ms_1": 10.23,
+    "rank_1": 1
+  },
+  {
+    "intent": 4,
+    "lang": "hi",
+    "q": "जिला स्तर पर कार्यान्वयन समिति की अगुवाई कौन करता है?",
+    "answer": {
+      "kind": "answer",
+      "label": "आधिकारिक एसओपी",
+      "answer": "जिले की कार्यान्वयन समिति की अध्यक्षता ज़िलाधिकारी या कलेक्टर करते हैं।",
+      "language": "hi",
+      "speech_text": "जिले की कार्यान्वयन समिति की अध्यक्षता ज़िलाधिकारी या कलेक्टर करते हैं।",
+      "evidence": "District level At the district level, the scheme is implemented by a committee led by the District Magistrate/Collector and supported by Women and Child Development officers.",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 14",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=14"
+    },
+    "ms": 46.69,
+    "gold": "The District Magistrate or Collector.",
+    "retrieval_ms_0": 8.97,
+    "rank_0": 2,
+    "retrieval_ms_1": 11.03,
+    "rank_1": 1
+  },
+  {
+    "intent": 4,
+    "lang": "hinglish",
+    "q": "District ki OSC implementation committee ka head kaun hai?",
+    "answer": {
+      "kind": "answer",
+      "label": "Official SOP",
+      "answer": "District implementation committee ko District Magistrate ya Collector lead karte hain.",
+      "language": "mix",
+      "speech_text": "जिले की कार्यान्वयन समिति की अध्यक्षता ज़िलाधिकारी या कलेक्टर करते हैं।",
+      "evidence": "District level At the district level, the scheme is implemented by a committee led by the District Magistrate/Collector and supported by Women and Child Development officers.",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 14",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=14"
+    },
+    "ms": 48.37,
+    "gold": "The District Magistrate or Collector.",
+    "retrieval_ms_0": 8.69,
+    "rank_0": 2,
+    "retrieval_ms_1": 9.69,
+    "rank_1": 1
+  },
+  {
+    "intent": 5,
+    "lang": "en",
+    "q": "What communication support should counselling rooms offer?",
+    "answer": {
+      "kind": "answer",
+      "label": "Official SOP",
+      "answer": "Counselling rooms should have communication aids for people with hearing or visual impairments and access to a trained sign-language interpreter when needed.",
+      "language": "en",
+      "speech_text": "Counselling rooms should have communication aids for people with hearing or visual impairments and access to a trained sign-language interpreter when needed.",
+      "evidence": "The counselling rooms should be equipped with comfortable seating and appropriate communication aids, including devices for survivors with hearing or visual impairments, as well as access to trained personnel for sign language interpretation where needed.",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 20",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=20"
+    },
+    "ms": 52.61,
+    "gold": "Appropriate communication aids and access to trained sign language interpreters where needed.",
+    "retrieval_ms_0": 8.26,
+    "rank_0": 3,
+    "retrieval_ms_1": 10.57,
+    "rank_1": 1
+  },
+  {
+    "intent": 5,
+    "lang": "hi",
+    "q": "परामर्श कक्ष में सुनने में कठिनाई वालों के लिए क्या व्यवस्था है?",
+    "answer": {
+      "kind": "answer",
+      "label": "आधिकारिक एसओपी",
+      "answer": "परामर्श कक्ष में सुनने या देखने में कठिनाई वाले लोगों के लिए संचार उपकरण और ज़रूरत पड़ने पर प्रशिक्षित सांकेतिक भाषा दुभाषिए की सुविधा होनी चाहिए।",
+      "language": "hi",
+      "speech_text": "परामर्श कक्ष में सुनने या देखने में कठिनाई वाले लोगों के लिए संचार उपकरण और ज़रूरत पड़ने पर प्रशिक्षित सांकेतिक भाषा दुभाषिए की सुविधा होनी चाहिए।",
+      "evidence": "The counselling rooms should be equipped with comfortable seating and appropriate communication aids, including devices for survivors with hearing or visual impairments, as well as access to trained personnel for sign language interpretation where needed.",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 20",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=20"
+    },
+    "ms": 58.49,
+    "gold": "Appropriate communication aids and access to trained sign language interpreters where needed.",
+    "retrieval_ms_0": 9.34,
+    "rank_0": 1,
+    "retrieval_ms_1": 15.23,
+    "rank_1": 1
+  },
+  {
+    "intent": 5,
+    "lang": "hinglish",
+    "q": "Hearing difficulty ho toh counselling room mein kya support hai?",
+    "answer": {
+      "kind": "answer",
+      "label": "Official SOP",
+      "answer": "Counselling room mein sunne ya dekhne mein dikkat wale logon ke liye communication aids aur zaroorat par trained sign-language interpreter ki suvidha honi chahiye.",
+      "language": "mix",
+      "speech_text": "परामर्श कक्ष में सुनने या देखने में कठिनाई वाले लोगों के लिए संचार उपकरण और ज़रूरत पड़ने पर प्रशिक्षित सांकेतिक भाषा दुभाषिए की सुविधा होनी चाहिए।",
+      "evidence": "The counselling rooms should be equipped with comfortable seating and appropriate communication aids, including devices for survivors with hearing or visual impairments, as well as access to trained personnel for sign language interpretation where needed.",
+      "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 20",
+      "url": "/source/One_Stop_Centre_SOP_English.pdf#page=20"
+    },
+    "ms": 51.92,
+    "gold": "Appropriate communication aids and access to trained sign language interpreters where needed.",
+    "retrieval_ms_0": 14.86,
+    "rank_0": 3,
+    "retrieval_ms_1": 11.92,
+    "rank_1": 1
+  },
+  {
+    "intent": 6,
+    "lang": "en",
+    "q": "Is there an empty bed at my nearest centre tonight?",
+    "answer": {
+      "kind": "unknown",
+      "answer": "These documents contain no live availability or personal case records. Contact the service directly.",
+      "url": "https://missionshakti.wcd.gov.in/",
+      "source": "Mission Shakti"
+    },
+    "ms": 0.02,
+    "gold": "Current occupancy is unavailable in the static documents."
+  },
+  {
+    "intent": 6,
+    "lang": "hi",
+    "q": "क्या पास के केंद्र में आज रात जगह खाली है?",
+    "answer": {
+      "kind": "unknown",
+      "answer": "इन दस्तावेज़ों में वर्तमान उपलब्धता या व्यक्तिगत केस की स्थिति नहीं है। संबंधित सेवा से संपर्क करें।",
+      "url": "https://missionshakti.wcd.gov.in/",
+      "source": "Mission Shakti"
+    },
+    "ms": 0.02,
+    "gold": "Current occupancy is unavailable in the static documents."
+  },
+  {
+    "intent": 6,
+    "lang": "hinglish",
+    "q": "Aaj raat nearest OSC mein bed khaali hai?",
+    "answer": {
+      "kind": "unknown",
+      "answer": "Live availability ya personal case status in documents mein nahi hai. Service se directly contact karein.",
+      "url": "https://missionshakti.wcd.gov.in/",
+      "source": "Mission Shakti"
+    },
+    "ms": 0.01,
+    "gold": "Current occupancy is unavailable in the static documents."
+  },
+  {
+    "intent": 7,
+    "lang": "en",
+    "q": "Has my complaint been closed today?",
+    "answer": {
+      "kind": "unknown",
+      "answer": "These documents contain no live availability or personal case records. Contact the service directly.",
+      "url": "https://missionshakti.wcd.gov.in/",
+      "source": "Mission Shakti"
+    },
+    "ms": 0.01,
+    "gold": "Individual live case status is unavailable."
+  },
+  {
+    "intent": 7,
+    "lang": "hi",
+    "q": "क्या आज मेरी शिकायत बंद हो गई?",
+    "answer": {
+      "kind": "unknown",
+      "answer": "इन दस्तावेज़ों में वर्तमान उपलब्धता या व्यक्तिगत केस की स्थिति नहीं है। संबंधित सेवा से संपर्क करें।",
+      "url": "https://missionshakti.wcd.gov.in/",
+      "source": "Mission Shakti"
+    },
+    "ms": 0.01,
+    "gold": "Individual live case status is unavailable."
+  },
+  {
+    "intent": 7,
+    "lang": "hinglish",
+    "q": "Meri complaint aaj close ho gayi kya?",
+    "answer": {
+      "kind": "unknown",
+      "answer": "Live availability ya personal case status in documents mein nahi hai. Service se directly contact karein.",
+      "url": "https://missionshakti.wcd.gov.in/",
+      "source": "Mission Shakti"
+    },
+    "ms": 0.01,
+    "gold": "Individual live case status is unavailable."
+  }
+]
