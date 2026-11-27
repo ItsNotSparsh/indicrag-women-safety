@@ -1,0 +1,20 @@
+Module 4 paired Qwen comparison
+Use the same reference for all three translations. Judge the meaning of the answer, ignoring citation formatting. Full = answers the question with the key fact(s) and no material unsupported addition. Partial = correct relevant substance but incomplete. Incorrect = misses the key fact, answers another question or contradicts the reference. Abstain = explicitly declines to answer. On the three live/personal intents, abstaining is the expected outcome.
+Separately flag a material factual assertion that cannot be verified against the labeled SOP evidence. This is a reference-based assessment, not proof the claim is false in the world. Measure citation match separately using the retrieved passage numbers and gold chunk IDs.
+Reference facts (zero-based intent IDs in the frozen retrieval set):
+0. District, block, and village/ward.
+1. Psychology, psychiatry, or neuroscience.
+2. Security guard/night guard.
+3. Interpersonal qualities include warmth, respect, gentle speech, empathy and acceptance. Multiple supported qualities suffice.
+4. District Collector/District Magistrate.
+5. Psychological and emotional safety.
+6. Psychometric tests.
+7. Immediate needs and choices, especially safety/security and access to health and psychosocial support.
+8. 12 to 18 operators.
+9. Police.
+10. 10 to 60 lakh.
+11. At least one year of counselling experience preferred.
+12. Hindi, English and/or regional languages.
+13. Data management, process documentation, web reporting, video conferencing.
+14. Retired military or paramilitary.
+15–17. Static SOPs cannot establish current bed counts, a local shift roster or a person's complaint status.

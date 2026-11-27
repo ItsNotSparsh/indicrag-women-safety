@@ -1,0 +1,326 @@
+[
+  {
+    "question": "Which levels of administration do the district committee’s annual plans cover?",
+    "score": 1.7208282947540283,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "जिला समिति की वार्षिक योजनाएँ प्रशासन के किन स्तरों को कवर करती हैं?",
+    "score": 1.1656287908554077,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "District committee ka yearly action plan kin levels ke liye banta hai?",
+    "score": 2.573424816131592,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "Which subjects can qualify someone to be the centre’s psychosocial counsellor?",
+    "score": 0.44369661808013916,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "केंद्र में मनोसामाजिक परामर्शदाता बनने के लिए किन विषयों में पढ़ाई मान्य है?",
+    "score": 1.947064757347107,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "OSC counsellor banne ke liye degree ya diploma kis subject mein chahiye?",
+    "score": 1.0000134706497192,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "Who checks that only authorised visitors enter the centre?",
+    "score": -4.179969310760498,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "कौन सुनिश्चित करता है कि केंद्र में सिर्फ अधिकृत आगंतुक प्रवेश करें?",
+    "score": -1.9636201858520508,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "Centre mein entry ke waqt authorised visitors ko check karna kiski duty hai?",
+    "score": -2.874478340148926,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "What personal qualities help staff earn a survivor’s trust?",
+    "score": 8.341192245483398,
+    "grade": "full",
+    "unsupported": false
+  },
+  {
+    "question": "महिला का भरोसा जीतने में कर्मचारियों के कौन से व्यक्तिगत गुण मदद करते हैं?",
+    "score": 0.6792564392089844,
+    "grade": "full",
+    "unsupported": false
+  },
+  {
+    "question": "Survivor ka trust jeetne ke liye staff ke behaviour mein kya qualities honi chahiye?",
+    "score": 6.996440410614014,
+    "grade": "full",
+    "unsupported": false
+  },
+  {
+    "question": "Who is responsible at district level for making sure all OSC personnel get induction training?",
+    "score": 10.620744705200195,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "जिले में केंद्र के सभी कर्मियों का शुरुआती प्रशिक्षण सुनिश्चित करने की जिम्मेदारी किसकी है?",
+    "score": -1.5412428379058838,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "Zile mein OSC ke saare staff ki induction training kaun ensure karta hai?",
+    "score": 6.1270833015441895,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "In survivor-centred care, what does safety include beyond protection from physical harm?",
+    "score": 7.044708728790283,
+    "grade": "partial",
+    "unsupported": false
+  },
+  {
+    "question": "महिला-केंद्रित देखभाल में शारीरिक सुरक्षा के अलावा किन पहलुओं को सुरक्षित रखना ज़रूरी है?",
+    "score": 1.7620502710342407,
+    "grade": "full",
+    "unsupported": false
+  },
+  {
+    "question": "Survivor-centred care mein physical safety ke alawa aur kis tarah ki safety matter karti hai?",
+    "score": 3.9051148891448975,
+    "grade": "incorrect",
+    "unsupported": false
+  },
+  {
+    "question": "How does the counsellor assess mental health during the case assessment?",
+    "score": 6.405170917510986,
+    "grade": "full",
+    "unsupported": false
+  },
+  {
+    "question": "केस के आकलन के समय परामर्शदाता मानसिक स्वास्थ्य की जाँच किस तरीके से करते हैं?",
+    "score": 3.0437004566192627,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "Case assessment mein counsellor mental health ko kis method se check karta hai?",
+    "score": 0.6075175404548645,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "If there is no time for every case management step in a crisis, what should workers prioritise?",
+    "score": 5.792346000671387,
+    "grade": "partial",
+    "unsupported": false
+  },
+  {
+    "question": "संकट में केस प्रबंधन के सारे चरण पूरे न हो पाएँ तो कर्मियों को क्या प्राथमिकता देनी चाहिए?",
+    "score": -1.666095495223999,
+    "grade": "invalid",
+    "unsupported": false
+  },
+  {
+    "question": "Emergency mein saare case steps follow na ho paayein toh worker pehle kis cheez par dhyan de?",
+    "score": 0.806509792804718,
+    "grade": "incorrect",
+    "unsupported": false
+  },
+  {
+    "question": "What staffing range does the helpline specify for telephone operators in the control room?",
+    "score": 1.235600471496582,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "हेल्पलाइन के नियंत्रण कक्ष में कॉल ऑपरेटरों की संख्या किस सीमा में रखी जाती है?",
+    "score": 0.6134942770004272,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "Helpline control room mein kitne call operators rakhne ka provision hai?",
+    "score": 1.4837720394134521,
+    "grade": "incorrect",
+    "unsupported": true
+  },
+  {
+    "question": "Which agency helps the helpline trace family members?",
+    "score": 2.9280025959014893,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "परिवार के सदस्यों का पता लगाने में कौन सी एजेंसी महिला हेल्पलाइन की सहायता करती है?",
+    "score": -1.1111130714416504,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "Family members ko trace karne mein women helpline kis agency ki help leti hai?",
+    "score": -1.71950364112854,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "What population range puts a state in the middle helpline funding category?",
+    "score": 1.0762178897857666,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "कितनी आबादी वाले राज्य हेल्पलाइन की मध्यम वित्तीय श्रेणी में आते हैं?",
+    "score": 0.1682834029197693,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "WHL funding mein medium category ke states ki population range kya hai?",
+    "score": 1.963188648223877,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "How much prior counselling experience is preferred for a helpline administrator?",
+    "score": 4.028401851654053,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "महिला हेल्पलाइन प्रशासक के लिए परामर्श देने का कितना पूर्व अनुभव वांछनीय है?",
+    "score": 4.810661792755127,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "Helpline administrator ke liye counselling ka kitna past experience preferred hai?",
+    "score": 3.4239609241485596,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "What languages should a women’s helpline call operator be able to communicate in?",
+    "score": 6.930941104888916,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "महिला हेल्पलाइन के कॉल ऑपरेटर को किन भाषाओं में बातचीत करने में सक्षम होना चाहिए?",
+    "score": 6.004591941833496,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "Women helpline call operator ko kaunsi languages mein baat karni aani chahiye?",
+    "score": 3.4535012245178223,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "Which kinds of technical work experience are expected of the helpline IT supervisor?",
+    "score": 2.446636438369751,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "हेल्पलाइन के आईटी पर्यवेक्षक से किन तकनीकी कामों का अनुभव अपेक्षित है?",
+    "score": 3.7311313152313232,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "WHL IT supervisor ko kis type ke technical kaam ka experience chahiye?",
+    "score": 2.3498551845550537,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "Which previous service background is preferred for a helpline security guard?",
+    "score": 0.4638228416442871,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "महिला हेल्पलाइन के सुरक्षा गार्ड के लिए किस पिछली सेवा के अनुभव को वरीयता दी जाती है?",
+    "score": -0.7324908971786499,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "Helpline guard ke liye kis service se retired candidates ko preference milti hai?",
+    "score": 0.9586721658706665,
+    "grade": "abstain",
+    "unsupported": false
+  },
+  {
+    "question": "How many beds are empty at my nearest OSC right now?",
+    "score": -8.067530632019043,
+    "grade": "correct refusal",
+    "unsupported": false
+  },
+  {
+    "question": "अभी मेरे सबसे पास वाले केंद्र में कितने बिस्तर खाली हैं?",
+    "score": -2.402238607406616,
+    "grade": "correct refusal",
+    "unsupported": false
+  },
+  {
+    "question": "Mere nearest OSC mein abhi kitne beds khali hain?",
+    "score": -0.8252784609794617,
+    "grade": "correct refusal",
+    "unsupported": false
+  },
+  {
+    "question": "Who is on duty at my local helpline desk this morning?",
+    "score": -4.67473840713501,
+    "grade": "correct refusal",
+    "unsupported": false
+  },
+  {
+    "question": "आज सुबह मेरी स्थानीय हेल्पलाइन डेस्क पर किसकी ड्यूटी है?",
+    "score": -4.469493389129639,
+    "grade": "correct refusal",
+    "unsupported": false
+  },
+  {
+    "question": "Aaj subah meri local helpline desk par kiski duty hai?",
+    "score": -3.187260866165161,
+    "grade": "correct refusal",
+    "unsupported": false
+  },
+  {
+    "question": "Has my complaint from yesterday been closed yet?",
+    "score": -2.453108549118042,
+    "grade": "correct refusal",
+    "unsupported": false
+  },
+  {
+    "question": "क्या मेरी कल की शिकायत अब बंद हो चुकी है?",
+    "score": -0.6826746463775635,
+    "grade": "correct refusal",
+    "unsupported": false
+  },
+  {
+    "question": "Meri kal wali complaint ab tak close ho gayi hai kya?",
+    "score": -2.0625674724578857,
+    "grade": "correct refusal",
+    "unsupported": false
+  }
+]

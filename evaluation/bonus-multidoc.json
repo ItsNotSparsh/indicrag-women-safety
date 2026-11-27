@@ -1,0 +1,314 @@
+[
+  {
+    "question": "How long can I stay at an OSC?; What are the three categories of helpline calls?",
+    "reply": {
+      "kind": "answer",
+      "answer": "Usually five days. If relocation to Shakti Sadan is infeasible, the administrator can extend the stay to ten days case by case. The DNO/DPO can authorize up to ten further days.\n\nEmergency, non-emergency and information calls.",
+      "language": "en",
+      "query_type": "English",
+      "answerability": "ANSWERABLE",
+      "confidence": null,
+      "confidence_basis": "Two source matches",
+      "explanation": "Each part is supported by its separately cited SOP passage.",
+      "supporting_passages": [
+        {
+          "text": "While OSCs currently provide temporary shelter for a maximum of 5 days, a longer stay may be required in specific cases where relocation to Shakti Sadan is not feasible. In such cases, Centre Administrators have the discretion to extend the stay up to 10 days on a case by case basis. For any further extension beyond 10 days, the District Nodal Officer (DNO)/District Program Officer (DPO) is authorized to allow an additional stay of up to 10 more days, ensuring victims have continuous access to essential services as required.",
+          "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 19",
+          "url": "/source/One_Stop_Centre_SOP_English.pdf#page=19"
+        },
+        {
+          "text": "3.5 Call Classlfication: A11 incoming calls to 181 may be classified into following categories: i) Emergency calls, ii) Non-emergency calls and iii) Information calls The data centre facility envisaged is common for WHL and CHL operations and there shall be no separate sanction for physical infrastructurer building, machines etc.",
+          "source": "Women_Helpline_181_SOP_English.pdf · PDF p. 7",
+          "url": "/source/Women_Helpline_181_SOP_English.pdf#page=7"
+        }
+      ],
+      "multiple_sources": true
+    }
+  },
+  {
+    "question": "वन स्टॉप सेंटर में अधिकतम कितने दिन रह सकती हूँ?; हेल्पलाइन कॉल किन तीन श्रेणियों में आती हैं?",
+    "reply": {
+      "kind": "answer",
+      "answer": "आम तौर पर पाँच दिन। यदि शक्ति सदन जाना संभव न हो तो केंद्र प्रशासक मामले के आधार पर कुल दस दिन तक ठहरने दे सकते हैं। उससे आगे जिला नोडल या कार्यक्रम अधिकारी दस अतिरिक्त दिन तक मंजूर कर सकते हैं।\n\nआपातकालीन, गैर आपातकालीन और सूचना संबंधी कॉल।",
+      "language": "hi",
+      "query_type": "Indic (Hindi)",
+      "answerability": "ANSWERABLE",
+      "confidence": null,
+      "confidence_basis": "Two source matches",
+      "explanation": "Each part is supported by its separately cited SOP passage.",
+      "supporting_passages": [
+        {
+          "text": "While OSCs currently provide temporary shelter for a maximum of 5 days, a longer stay may be required in specific cases where relocation to Shakti Sadan is not feasible. In such cases, Centre Administrators have the discretion to extend the stay up to 10 days on a case by case basis. For any further extension beyond 10 days, the District Nodal Officer (DNO)/District Program Officer (DPO) is authorized to allow an additional stay of up to 10 more days, ensuring victims have continuous access to essential services as required.",
+          "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 19",
+          "url": "/source/One_Stop_Centre_SOP_English.pdf#page=19"
+        },
+        {
+          "text": "3.5 Call Classlfication: A11 incoming calls to 181 may be classified into following categories: i) Emergency calls, ii) Non-emergency calls and iii) Information calls The data centre facility envisaged is common for WHL and CHL operations and there shall be no separate sanction for physical infrastructurer building, machines etc.",
+          "source": "Women_Helpline_181_SOP_English.pdf · PDF p. 7",
+          "url": "/source/Women_Helpline_181_SOP_English.pdf#page=7"
+        }
+      ],
+      "multiple_sources": true
+    }
+  },
+  {
+    "question": "OSC mein maximum kitne din ruk sakte hain?; 181 par calls ki teen categories kya hain?",
+    "reply": {
+      "kind": "answer",
+      "answer": "Aam taur par 5 din. Agar Shakti Sadan shift karna mumkin na ho, Centre Administrator case ke hisaab se stay kul 10 din tak badha sakte hain. Uske baad DNO ya DPO 10 aur din tak manzoor kar sakte hain.\n\nEmergency, non-emergency aur information calls.",
+      "language": "mix",
+      "query_type": "Indic / code-mixed (Roman Hindi)",
+      "answerability": "ANSWERABLE",
+      "confidence": null,
+      "confidence_basis": "Two source matches",
+      "explanation": "Each part is supported by its separately cited SOP passage.",
+      "supporting_passages": [
+        {
+          "text": "While OSCs currently provide temporary shelter for a maximum of 5 days, a longer stay may be required in specific cases where relocation to Shakti Sadan is not feasible. In such cases, Centre Administrators have the discretion to extend the stay up to 10 days on a case by case basis. For any further extension beyond 10 days, the District Nodal Officer (DNO)/District Program Officer (DPO) is authorized to allow an additional stay of up to 10 more days, ensuring victims have continuous access to essential services as required.",
+          "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 19",
+          "url": "/source/One_Stop_Centre_SOP_English.pdf#page=19"
+        },
+        {
+          "text": "3.5 Call Classlfication: A11 incoming calls to 181 may be classified into following categories: i) Emergency calls, ii) Non-emergency calls and iii) Information calls The data centre facility envisaged is common for WHL and CHL operations and there shall be no separate sanction for physical infrastructurer building, machines etc.",
+          "source": "Women_Helpline_181_SOP_English.pdf · PDF p. 7",
+          "url": "/source/Women_Helpline_181_SOP_English.pdf#page=7"
+        }
+      ],
+      "multiple_sources": true
+    }
+  },
+  {
+    "question": "Can my children stay with me?; Where does the helpline forward emergency calls?",
+    "reply": {
+      "kind": "answer",
+      "answer": "The SOP includes girls of all ages and boys up to age twelve when shelter is required.\n\nThe WHL control room forwards emergency calls to ERSS-112 and informs the relevant WHL unit or OSC.",
+      "language": "en",
+      "query_type": "English",
+      "answerability": "ANSWERABLE",
+      "confidence": null,
+      "confidence_basis": "Two source matches",
+      "explanation": "Each part is supported by its separately cited SOP passage.",
+      "supporting_passages": [
+        {
+          "text": "Temporary shelter facilities OSCs should have a minimum of five beds to provide temporary shelter facilities to distressed women and their children, where required (girls of all ages, and boys till the age of 12 years) for up to five days.",
+          "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 20",
+          "url": "/source/One_Stop_Centre_SOP_English.pdf#page=20"
+        },
+        {
+          "text": "shall be forwarded by the WHL Control Rooms to ERSS-112.",
+          "source": "Women_Helpline_181_SOP_English.pdf · PDF p. 8",
+          "url": "/source/Women_Helpline_181_SOP_English.pdf#page=8"
+        }
+      ],
+      "multiple_sources": true
+    }
+  },
+  {
+    "question": "क्या मेरे बच्चे मेरे साथ केंद्र में रह सकते हैं?; आपातकालीन कॉल किस सेवा को भेजी जाती है?",
+    "reply": {
+      "kind": "answer",
+      "answer": "ज़रूरत होने पर सभी आयु की लड़कियाँ और बारह वर्ष तक के लड़के माँ के साथ रह सकते हैं।\n\nकंट्रोल रूम आपात कॉल ईआरएसएस 112 को भेजता है और संबंधित हेल्पलाइन इकाई या केंद्र को सूचना देता है।",
+      "language": "hi",
+      "query_type": "Indic (Hindi)",
+      "answerability": "ANSWERABLE",
+      "confidence": null,
+      "confidence_basis": "Two source matches",
+      "explanation": "Each part is supported by its separately cited SOP passage.",
+      "supporting_passages": [
+        {
+          "text": "Temporary shelter facilities OSCs should have a minimum of five beds to provide temporary shelter facilities to distressed women and their children, where required (girls of all ages, and boys till the age of 12 years) for up to five days.",
+          "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 20",
+          "url": "/source/One_Stop_Centre_SOP_English.pdf#page=20"
+        },
+        {
+          "text": "shall be forwarded by the WHL Control Rooms to ERSS-112.",
+          "source": "Women_Helpline_181_SOP_English.pdf · PDF p. 8",
+          "url": "/source/Women_Helpline_181_SOP_English.pdf#page=8"
+        }
+      ],
+      "multiple_sources": true
+    }
+  },
+  {
+    "question": "Mere bachche mere saath OSC mein ruk sakte hain?; Emergency call kahan forward hoti hai?",
+    "reply": {
+      "kind": "answer",
+      "answer": "Zarurat par kisi bhi age ki ladki aur 12 saal tak ka ladka maa ke saath reh sakta hai.\n\nControl room emergency call ERSS-112 ko forward karta hai aur relevant WHL unit ya OSC ko bhi inform karta hai.",
+      "language": "mix",
+      "query_type": "Indic / code-mixed (Roman Hindi)",
+      "answerability": "ANSWERABLE",
+      "confidence": null,
+      "confidence_basis": "Two source matches",
+      "explanation": "Each part is supported by its separately cited SOP passage.",
+      "supporting_passages": [
+        {
+          "text": "Temporary shelter facilities OSCs should have a minimum of five beds to provide temporary shelter facilities to distressed women and their children, where required (girls of all ages, and boys till the age of 12 years) for up to five days.",
+          "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 20",
+          "url": "/source/One_Stop_Centre_SOP_English.pdf#page=20"
+        },
+        {
+          "text": "shall be forwarded by the WHL Control Rooms to ERSS-112.",
+          "source": "Women_Helpline_181_SOP_English.pdf · PDF p. 8",
+          "url": "/source/Women_Helpline_181_SOP_English.pdf#page=8"
+        }
+      ],
+      "multiple_sources": true
+    }
+  },
+  {
+    "question": "Can other people hear my counselling session?; Does the helpline answer at night?",
+    "reply": {
+      "kind": "answer",
+      "answer": "The SOP requires dedicated rooms with both audio and visual privacy.\n\nThe SOP specifies 24 hours a day throughout the year, in shifts.",
+      "language": "en",
+      "query_type": "English",
+      "answerability": "ANSWERABLE",
+      "confidence": null,
+      "confidence_basis": "Two source matches",
+      "explanation": "Each part is supported by its separately cited SOP passage.",
+      "supporting_passages": [
+        {
+          "text": "Private counseling rooms OSCs must have dedicated private counseling rooms, with both audio and visual privacy, to provide survivors with a confidential and safe space for emotional, psychological, and legal consultations.",
+          "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 20",
+          "url": "/source/One_Stop_Centre_SOP_English.pdf#page=20"
+        },
+        {
+          "text": "WHL Control Room shall answer the caJls 24x7,365 days in a weekly shift pattern.",
+          "source": "Women_Helpline_181_SOP_English.pdf · PDF p. 10",
+          "url": "/source/Women_Helpline_181_SOP_English.pdf#page=10"
+        }
+      ],
+      "multiple_sources": true
+    }
+  },
+  {
+    "question": "क्या दूसरे लोग मेरी काउंसलिंग सुन सकते हैं?; क्या हेल्पलाइन रात में भी कॉल लेती है?",
+    "reply": {
+      "kind": "answer",
+      "answer": "परामर्श के लिए अलग कमरा होना चाहिए जहाँ बातचीत सुनी या देखी न जा सके।\n\nहाँ, कार्यविधि के अनुसार पूरे साल दिन और रात कॉल ली जाती हैं।",
+      "language": "hi",
+      "query_type": "Indic (Hindi)",
+      "answerability": "ANSWERABLE",
+      "confidence": null,
+      "confidence_basis": "Two source matches",
+      "explanation": "Each part is supported by its separately cited SOP passage.",
+      "supporting_passages": [
+        {
+          "text": "Private counseling rooms OSCs must have dedicated private counseling rooms, with both audio and visual privacy, to provide survivors with a confidential and safe space for emotional, psychological, and legal consultations.",
+          "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 20",
+          "url": "/source/One_Stop_Centre_SOP_English.pdf#page=20"
+        },
+        {
+          "text": "WHL Control Room shall answer the caJls 24x7,365 days in a weekly shift pattern.",
+          "source": "Women_Helpline_181_SOP_English.pdf · PDF p. 10",
+          "url": "/source/Women_Helpline_181_SOP_English.pdf#page=10"
+        }
+      ],
+      "multiple_sources": true
+    }
+  },
+  {
+    "question": "Counselling room mein meri baat koi aur sun sakta hai?; Raat mein bhi helpline call uthati hai?",
+    "reply": {
+      "kind": "answer",
+      "answer": "Counselling alag room mein honi chahiye jahan baat suni ya dekhi na ja sake.\n\nHaan, SOP ke mutabik saal bhar din aur raat calls li jaati hain.",
+      "language": "mix",
+      "query_type": "Indic / code-mixed (Roman Hindi)",
+      "answerability": "ANSWERABLE",
+      "confidence": null,
+      "confidence_basis": "Two source matches",
+      "explanation": "Each part is supported by its separately cited SOP passage.",
+      "supporting_passages": [
+        {
+          "text": "Private counseling rooms OSCs must have dedicated private counseling rooms, with both audio and visual privacy, to provide survivors with a confidential and safe space for emotional, psychological, and legal consultations.",
+          "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 20",
+          "url": "/source/One_Stop_Centre_SOP_English.pdf#page=20"
+        },
+        {
+          "text": "WHL Control Room shall answer the caJls 24x7,365 days in a weekly shift pattern.",
+          "source": "Women_Helpline_181_SOP_English.pdf · PDF p. 10",
+          "url": "/source/Women_Helpline_181_SOP_English.pdf#page=10"
+        }
+      ],
+      "multiple_sources": true
+    }
+  },
+  {
+    "question": "Where should an OSC be located relative to a hospital?; Who provides hands-on training for helpline personnel?",
+    "reply": {
+      "kind": "answer",
+      "answer": "Preferably within the district hospital or medical facility. If that is infeasible, a government or semi-government building within two kilometres is an option.\n\nC-DAC.",
+      "language": "en",
+      "query_type": "English",
+      "answerability": "ANSWERABLE",
+      "confidence": null,
+      "confidence_basis": "Two source matches",
+      "explanation": "Each part is supported by its separately cited SOP passage.",
+      "supporting_passages": [
+        {
+          "text": "If it is not possible to locate them within the hospital, they may be located in a government/semi government building within a radius of 2 kms from the district hospital.",
+          "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 19",
+          "url": "/source/One_Stop_Centre_SOP_English.pdf#page=19"
+        },
+        {
+          "text": "C-DAC will provide technical training including halds-on training at the WHL Control Room/SHEW/DHEW where WHL/CHL/OSC personnel to work on the system and to familiarize the operations of the system.",
+          "source": "Women_Helpline_181_SOP_English.pdf · PDF p. 16",
+          "url": "/source/Women_Helpline_181_SOP_English.pdf#page=16"
+        }
+      ],
+      "multiple_sources": true
+    }
+  },
+  {
+    "question": "अस्पताल से केंद्र कितनी दूर होना चाहिए?; हेल्पलाइन कर्मचारियों को तकनीकी प्रशिक्षण कौन देता है?",
+    "reply": {
+      "kind": "answer",
+      "answer": "केंद्र जिला अस्पताल या चिकित्सा परिसर में होना चाहिए। यह संभव न हो तो दो किलोमीटर के भीतर सरकारी या अर्धसरकारी भवन हो सकता है।\n\nसी-डैक तकनीकी प्रशिक्षण देता है।",
+      "language": "hi",
+      "query_type": "Indic (Hindi)",
+      "answerability": "ANSWERABLE",
+      "confidence": null,
+      "confidence_basis": "Two source matches",
+      "explanation": "Each part is supported by its separately cited SOP passage.",
+      "supporting_passages": [
+        {
+          "text": "If it is not possible to locate them within the hospital, they may be located in a government/semi government building within a radius of 2 kms from the district hospital.",
+          "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 19",
+          "url": "/source/One_Stop_Centre_SOP_English.pdf#page=19"
+        },
+        {
+          "text": "C-DAC will provide technical training including halds-on training at the WHL Control Room/SHEW/DHEW where WHL/CHL/OSC personnel to work on the system and to familiarize the operations of the system.",
+          "source": "Women_Helpline_181_SOP_English.pdf · PDF p. 16",
+          "url": "/source/Women_Helpline_181_SOP_English.pdf#page=16"
+        }
+      ],
+      "multiple_sources": true
+    }
+  },
+  {
+    "question": "Hospital se centre kitna door ho sakta hai?; Helpline staff ko technical training kaun deta hai?",
+    "reply": {
+      "kind": "answer",
+      "answer": "Centre district hospital ya medical facility mein hona chahiye. Mumkin na ho toh do km ke andar government ya semi-government building mein ho sakta hai.\n\nC-DAC technical training deta hai.",
+      "language": "mix",
+      "query_type": "Indic / code-mixed (Roman Hindi)",
+      "answerability": "ANSWERABLE",
+      "confidence": null,
+      "confidence_basis": "Two source matches",
+      "explanation": "Each part is supported by its separately cited SOP passage.",
+      "supporting_passages": [
+        {
+          "text": "If it is not possible to locate them within the hospital, they may be located in a government/semi government building within a radius of 2 kms from the district hospital.",
+          "source": "One_Stop_Centre_SOP_English.pdf · PDF p. 19",
+          "url": "/source/One_Stop_Centre_SOP_English.pdf#page=19"
+        },
+        {
+          "text": "C-DAC will provide technical training including halds-on training at the WHL Control Room/SHEW/DHEW where WHL/CHL/OSC personnel to work on the system and to familiarize the operations of the system.",
+          "source": "Women_Helpline_181_SOP_English.pdf · PDF p. 16",
+          "url": "/source/Women_Helpline_181_SOP_English.pdf#page=16"
+        }
+      ],
+      "multiple_sources": true
+    }
+  }
+]

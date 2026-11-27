@@ -1,0 +1,870 @@
+{
+  "outputs_sha256": "2dc85f898285e82cfcf3d2378772b75c7d297fa77f37c71027daae0b11b840e9",
+  "reviewer": "assistant, single rubric-based review",
+  "grades": [
+    {
+      "intent": 0,
+      "language": "en",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 0,
+      "language": "en",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 0,
+      "language": "hi",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 0,
+      "language": "hi",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 0,
+      "language": "hinglish",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 0,
+      "language": "hinglish",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 1,
+      "language": "en",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 1,
+      "language": "en",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 1,
+      "language": "hi",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 1,
+      "language": "hi",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 1,
+      "language": "hinglish",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 1,
+      "language": "hinglish",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 2,
+      "language": "en",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 2,
+      "language": "en",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 2,
+      "language": "hi",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 2,
+      "language": "hi",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 2,
+      "language": "hinglish",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 2,
+      "language": "hinglish",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 3,
+      "language": "en",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 3,
+      "language": "en",
+      "mode": "rag",
+      "grade": "full",
+      "note": "Lists four supported qualities.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 3,
+      "language": "hi",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 3,
+      "language": "hi",
+      "mode": "rag",
+      "grade": "full",
+      "note": "Identifies warmth and empathy.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 3,
+      "language": "hinglish",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 3,
+      "language": "hinglish",
+      "mode": "rag",
+      "grade": "full",
+      "note": "Lists several supported qualities.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 4,
+      "language": "en",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 4,
+      "language": "en",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 4,
+      "language": "hi",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 4,
+      "language": "hi",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 4,
+      "language": "hinglish",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 4,
+      "language": "hinglish",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 5,
+      "language": "en",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 5,
+      "language": "en",
+      "mode": "rag",
+      "grade": "partial",
+      "note": "Mentions psychological well-being but omits explicit emotional safety.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 5,
+      "language": "hi",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 5,
+      "language": "hi",
+      "mode": "rag",
+      "grade": "full",
+      "note": "Includes both psychological and emotional safety.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 5,
+      "language": "hinglish",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 5,
+      "language": "hinglish",
+      "mode": "rag",
+      "grade": "incorrect",
+      "note": "Focuses on physical safety; misses the requested nonphysical dimensions.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 6,
+      "language": "en",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 6,
+      "language": "en",
+      "mode": "rag",
+      "grade": "full",
+      "note": "Identifies psychometric testing.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 6,
+      "language": "hi",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 6,
+      "language": "hi",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 6,
+      "language": "hinglish",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 6,
+      "language": "hinglish",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 7,
+      "language": "en",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 7,
+      "language": "en",
+      "mode": "rag",
+      "grade": "partial",
+      "note": "Identifies immediate safety and healthcare but omits survivor choice and drifts into general planning.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 7,
+      "language": "hi",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 7,
+      "language": "hi",
+      "mode": "rag",
+      "grade": "invalid",
+      "note": "Echoes an instruction.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 7,
+      "language": "hinglish",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 7,
+      "language": "hinglish",
+      "mode": "rag",
+      "grade": "incorrect",
+      "note": "Copies a related passage about closure rather than crisis priorities.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 8,
+      "language": "en",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 8,
+      "language": "en",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 8,
+      "language": "hi",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 8,
+      "language": "hi",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 8,
+      "language": "hinglish",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 8,
+      "language": "hinglish",
+      "mode": "rag",
+      "grade": "incorrect",
+      "note": "Claims there are no operators; the reference specifies 12 to 18.",
+      "material_unsupported_fact": true
+    },
+    {
+      "intent": 9,
+      "language": "en",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 9,
+      "language": "en",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 9,
+      "language": "hi",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 9,
+      "language": "hi",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 9,
+      "language": "hinglish",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 9,
+      "language": "hinglish",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 10,
+      "language": "en",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 10,
+      "language": "en",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 10,
+      "language": "hi",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 10,
+      "language": "hi",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 10,
+      "language": "hinglish",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 10,
+      "language": "hinglish",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 11,
+      "language": "en",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 11,
+      "language": "en",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 11,
+      "language": "hi",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 11,
+      "language": "hi",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 11,
+      "language": "hinglish",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 11,
+      "language": "hinglish",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 12,
+      "language": "en",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 12,
+      "language": "en",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 12,
+      "language": "hi",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 12,
+      "language": "hi",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 12,
+      "language": "hinglish",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 12,
+      "language": "hinglish",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 13,
+      "language": "en",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 13,
+      "language": "en",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 13,
+      "language": "hi",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 13,
+      "language": "hi",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 13,
+      "language": "hinglish",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 13,
+      "language": "hinglish",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 14,
+      "language": "en",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 14,
+      "language": "en",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 14,
+      "language": "hi",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 14,
+      "language": "hi",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 14,
+      "language": "hinglish",
+      "mode": "direct",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 14,
+      "language": "hinglish",
+      "mode": "rag",
+      "grade": "abstain",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 15,
+      "language": "en",
+      "mode": "direct",
+      "grade": "correct refusal",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 15,
+      "language": "en",
+      "mode": "rag",
+      "grade": "correct refusal",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 15,
+      "language": "hi",
+      "mode": "direct",
+      "grade": "correct refusal",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 15,
+      "language": "hi",
+      "mode": "rag",
+      "grade": "correct refusal",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 15,
+      "language": "hinglish",
+      "mode": "direct",
+      "grade": "correct refusal",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 15,
+      "language": "hinglish",
+      "mode": "rag",
+      "grade": "correct refusal",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 16,
+      "language": "en",
+      "mode": "direct",
+      "grade": "correct refusal",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 16,
+      "language": "en",
+      "mode": "rag",
+      "grade": "correct refusal",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 16,
+      "language": "hi",
+      "mode": "direct",
+      "grade": "correct refusal",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 16,
+      "language": "hi",
+      "mode": "rag",
+      "grade": "correct refusal",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 16,
+      "language": "hinglish",
+      "mode": "direct",
+      "grade": "correct refusal",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 16,
+      "language": "hinglish",
+      "mode": "rag",
+      "grade": "correct refusal",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 17,
+      "language": "en",
+      "mode": "direct",
+      "grade": "correct refusal",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 17,
+      "language": "en",
+      "mode": "rag",
+      "grade": "correct refusal",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 17,
+      "language": "hi",
+      "mode": "direct",
+      "grade": "correct refusal",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 17,
+      "language": "hi",
+      "mode": "rag",
+      "grade": "correct refusal",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 17,
+      "language": "hinglish",
+      "mode": "direct",
+      "grade": "correct refusal",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    },
+    {
+      "intent": 17,
+      "language": "hinglish",
+      "mode": "rag",
+      "grade": "correct refusal",
+      "note": "Explicit UNKNOWN.",
+      "material_unsupported_fact": false
+    }
+  ]
+}

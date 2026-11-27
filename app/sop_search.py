@@ -57,9 +57,9 @@ def citation(filename, page):
     return {"source": f"{filename} · PDF p. {page}", "url": f"/source/{filename}#page={page}"}
 
 
-def render(card, lang):
+def render(card, lang, confidence=None, basis="Verified rule match"):
     answers = card["answers"]
-    return dict(kind="answer", label=LABEL[lang], answer=answers[lang], language=lang,
+    return dict(kind="answer", confidence=confidence, confidence_basis=basis, label=LABEL[lang], answer=answers[lang], language=lang,
                 speech_text=answers["hi" if lang == "mix" else lang], evidence=card["quote"],
                 **citation(SOURCES[card["doc"]]+".pdf", card["page"]))
 
@@ -212,7 +212,7 @@ def source_excerpt(question, lang, passages):
         return None
     snippet = snippets[best]
     row = windows[snippet]
-    return dict(kind="excerpt", label=EXCERPT[lang], language="en", answer=snippet,
+    return dict(kind="excerpt", confidence=round(float(scores[best]),3), confidence_basis="Reranker relevance logit", label=EXCERPT[lang], language="en", answer=snippet,
                 **citation(row["source_file"], row["page_start"]))
 
 
@@ -226,7 +226,7 @@ def evidence(question, lang):
         if routing_anchor and card["anchor"] == routing_anchor:
             return render(card,lang)
         if any(normalize(question) == normalize(q) for q in card["questions"].values()):
-            return render(card, lang)
+            return render(card, lang, 1.0, "Exact question match")
     if routing_anchor:
         return None
     ranked, passages = candidates(question)
@@ -254,7 +254,7 @@ def evidence(question, lang):
             if extract:
                 return extract
         if confident or separated or confirmed or agreement:
-            return render(cards()[i], lang)
+            return render(cards()[i], lang, round(float(similarity), 3), "Question embedding cosine similarity")
     if passages and passages[0][0] >= -1.0:
         return source_excerpt(question, lang, passages)
     return None

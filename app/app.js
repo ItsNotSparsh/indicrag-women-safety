@@ -28,6 +28,11 @@ async function ask(question,guide){
  if(guide)a.focus();if(x.label)a.append(el('strong',x.label));a.append(el('p',x.answer));
  if(x.buttons)for(const [n,p,u] of x.buttons){const b=link(n,'tel:'+p);b.className='call';a.append(b,link(ui[lang()][10],u),el('br',''))}
  if(x.evidence){const details=el('details','');const caption={en:'View original English passage',hi:'मूल अंग्रेज़ी अंश देखें',mix:'Original English passage dekhein',ta:'மூல ஆங்கிலப் பகுதியைக் காண்க'};details.append(el('summary',caption[lang()]),el('blockquote',x.evidence));a.append(details)}
+ if(x.query_type){const info=el('details','');info.append(el('summary',({en:'Answer details',hi:'उत्तर का विवरण',mix:'Jawab ki details',ta:'பதில் விவரங்கள்'})[lang()]));
+ info.append(el('p',x.query_type+' · '+x.answerability),el('p',x.explanation));
+ if(x.confidence!=null)info.append(el('small',x.confidence_basis+' · '+x.confidence+' (match score)'));
+ a.append(info)}
+ if(x.multiple_sources)for(const proof of x.supporting_passages){const detail=el('details','');detail.append(el('summary',proof.source),el('blockquote',proof.text),link(proof.source,proof.url));a.append(detail)}
  if(x.url)a.append(link(x.source,x.url));
  if(x.kind==='directory'){const go=el('button',ui[lang()][6]);go.type='button';go.onclick=()=>{$('directoryPanel').open=true;$('state').focus()};a.append(go)}if(x.kind==='guide'){a.append(document.createTextNode(' · '),link('Legal aid / विधिक सहायता','https://nalsa.gov.in/faqs/'))}$('listen').hidden=false;$('status').textContent='';
  }catch(e){if(id===version)$('status').textContent=e.message}
@@ -52,7 +57,45 @@ $('mic').onclick=async()=>{try{await toggleMic()}catch(e){cleanMic();$('status')
 $('listen').onclick=async()=>{if(!reply)return;stopAudio();const id=version;try{const r=await fetch('/speak',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({text:reply.speech_text||reply.answer,language:reply.speech_text&&lang()==='mix'?'hi':(reply.language||lang())})});if(!r.ok)throw Error('Playback unavailable.');const b=await r.blob();if(exited||id!==version)return;objectURL=URL.createObjectURL(b);player=new Audio(objectURL);await player.play()}catch(e){$('status').textContent=e.message}};
 async function resources(){const id=++dirEpoch;try{const rows=await post('/directory',{language:lang(),state:$('state').value,district:$('district').value});if(id!==dirEpoch||exited)return;const box=$('resources');box.replaceChildren();const shown=rows.filter(r=>!$('languageFilter').checked||r.language_confirmed);if(!shown.length){box.append(el('p',{en:'No published listing matches these filters.',hi:'इन फ़िल्टर से मेल खाती कोई प्रकाशित सेवा नहीं मिली।',mix:'In filters se koi published listing nahi mili.',ta:'இந்தத் தேர்வுகளுக்குப் பொருந்தும் சேவைப் பதிவு இல்லை.'}[lang()]))}for(const r of shown){const div=el('div','');div.className='resource';div.append(el('strong',r.name),el('small',r.place+(r.languages?' · '+r.languages:'')));if(r.phone)div.append(link(r.phone,'tel:'+r.phone),document.createTextNode(' · '));div.append(link(ui[lang()][10],r.url));box.append(div)}}catch(e){if(id===dirEpoch&&!exited)$('resources').textContent=e.message}}
 function districts(){const s=$('district');s.replaceChildren(new Option(ui[lang()][13],''));for(const d of cfg.locations[$('state').value]||[])s.add(new Option(d,d));resources()}
-function render(){const labels=ui[lang()];document.documentElement.lang={mix:'hi-Latn',hi:'hi',ta:'ta',en:'en'}[lang()];
+const exampleQuestions = [
+  {
+    "en": "What help is available at a Sakhi One Stop Centre?",
+    "hi": "वन स्टॉप सेंटर में क्या मदद मिलती है?",
+    "mix": "One Stop Centre pe kya madad milti hai?",
+    "ta": "ஒரு நிறுத்த மையத்தில் என்ன உதவி கிடைக்கும்?"
+  },
+  {
+    "en": "Can I send a message or email instead of calling the helpline?",
+    "hi": "बोलकर कॉल करने के अलावा महिला हेल्पलाइन से संपर्क के क्या तरीके हैं?",
+    "mix": "Phone par baat kiye bina Women Helpline ko message ya email kar sakti hoon?",
+    "ta": "தொலைபேசியில் பேசாமல் மகளிர் உதவி மையத்தைத் தொடர்புகொள்ளலாமா?"
+  },
+  {
+    "en": "Can I get help from an OSC without identity documents?",
+    "hi": "दस्तावेज़ या पहचान पत्र नहीं है तो क्या केंद्र मदद करेगा?",
+    "mix": "Mere paas ID proof ya documents nahi hain. Kya OSC madad karega?",
+    "ta": "அடையாள ஆவணங்கள் இல்லாவிட்டாலும் மையத்தில் உதவி கிடைக்குமா?"
+  }
+];
+const introduction = {
+ en:['Try a question','Ask about women’s support services in India and read the official source behind an answer.'],
+ hi:['एक सवाल चुनें','भारत में महिलाओं के लिए उपलब्ध सेवाओं के बारे में पूछें और उत्तर का आधिकारिक स्रोत पढ़ें।'],
+ mix:['Ek sawaal chunein','India mein women’s support services ke baare mein poochhein aur jawaab ka official source dekhein.'],
+ ta:['ஒரு கேள்வியைத் தேர்ந்தெடுக்கவும்','இந்தியாவில் பெண்களுக்கான உதவி சேவைகளைப் பற்றிக் கேட்டு, பதிலுக்கான அதிகாரப்பூர்வ ஆதாரத்தைப் படிக்கலாம்.']
+};
+function renderExamples(){
+ const language=lang();
+ $('examplesTitle').textContent=introduction[language][0];
+ $('introText').textContent=introduction[language][1];
+ $('examples').replaceChildren(...exampleQuestions.map(versions=>{
+   const question=versions[language];
+   const button=el('button',question);
+   button.type='button';
+   button.onclick=()=>{clearReply();$('q').value=question;$('q').focus()};
+   return button;
+ }));
+}
+function render(){renderExamples();const labels=ui[lang()];document.documentElement.lang={mix:'hi-Latn',hi:'hi',ta:'ta',en:'en'}[lang()];
  ['heading','askTitle','submit','mic','urgent','guidesTitle','directoryTitle','listen'].forEach((id,i)=>$(id).textContent=labels[i]);$('exit').textContent=labels[11];$('guides').replaceChildren();
  for(const [i,g] of cfg.guides.entries()){const b=el('button',guideLabels[lang()]?.[i]||g.title);b.onclick=()=>ask(g.title,g.id);$('guides').append(b)}
  const chosen=$('state').value;$('state').replaceChildren(new Option(labels[12],''));for(const s of Object.keys(cfg.locations).sort())$('state').add(new Option(s,s));$('state').value=chosen;districts()}

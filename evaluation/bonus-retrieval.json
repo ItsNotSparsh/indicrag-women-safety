@@ -1,0 +1,1934 @@
+[
+  {
+    "question": "Which levels of administration do the district committee’s annual plans cover?",
+    "lang": "en",
+    "translation": "Which levels of administration do the district committee’s annual plans cover?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p15:c1",
+      "One_Stop_Centre_SOP_English:p60:c2"
+    ],
+    "score": 1.7208278179168701,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p15:c1",
+        "One_Stop_Centre_SOP_English:p60:c2",
+        "One_Stop_Centre_SOP_English:p14:c2"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p15:c1",
+        "One_Stop_Centre_SOP_English:p60:c2",
+        "One_Stop_Centre_SOP_English:p14:c2"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p60:c2",
+        "One_Stop_Centre_SOP_English:p15:c1",
+        "One_Stop_Centre_SOP_English:p14:c2"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p15:c1",
+        "One_Stop_Centre_SOP_English:p60:c2",
+        "One_Stop_Centre_SOP_English:p14:c1"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p15:c1",
+        "One_Stop_Centre_SOP_English:p60:c2",
+        "One_Stop_Centre_SOP_English:p14:c2"
+      ]
+    }
+  },
+  {
+    "question": "जिला समिति की वार्षिक योजनाएँ प्रशासन के किन स्तरों को कवर करती हैं?",
+    "lang": "hi",
+    "translation": "Which annual plans of the municipal council are kept under control by the government at which levels?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p15:c1",
+      "One_Stop_Centre_SOP_English:p60:c2"
+    ],
+    "score": 1.1656264066696167,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p15:c1",
+        "One_Stop_Centre_SOP_English:p60:c2",
+        "One_Stop_Centre_SOP_English:p14:c2"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p15:c1",
+        "One_Stop_Centre_SOP_English:p60:c2",
+        "One_Stop_Centre_SOP_English:p14:c1"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p15:c1",
+        "One_Stop_Centre_SOP_English:p60:c2",
+        "One_Stop_Centre_SOP_English:p14:c2"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p15:c1",
+        "One_Stop_Centre_SOP_English:p60:c2",
+        "One_Stop_Centre_SOP_English:p14:c2"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p15:c1",
+        "One_Stop_Centre_SOP_English:p60:c2",
+        "One_Stop_Centre_SOP_English:p14:c1"
+      ]
+    }
+  },
+  {
+    "question": "District committee ka yearly action plan kin levels ke liye banta hai?",
+    "lang": "hinglish",
+    "translation": "What is the District Committee's annual action plan for managing levels?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p15:c1",
+      "One_Stop_Centre_SOP_English:p60:c2"
+    ],
+    "score": 2.573423147201538,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p14:c2",
+        "One_Stop_Centre_SOP_English:p60:c2",
+        "One_Stop_Centre_SOP_English:p15:c1"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p15:c1",
+        "One_Stop_Centre_SOP_English:p60:c2",
+        "One_Stop_Centre_SOP_English:p14:c2"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p14:c2",
+        "One_Stop_Centre_SOP_English:p60:c2",
+        "One_Stop_Centre_SOP_English:p14:c1"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p15:c1",
+        "One_Stop_Centre_SOP_English:p60:c2",
+        "One_Stop_Centre_SOP_English:p60:c1"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p15:c1",
+        "One_Stop_Centre_SOP_English:p60:c2",
+        "One_Stop_Centre_SOP_English:p60:c1"
+      ]
+    }
+  },
+  {
+    "question": "Which subjects can qualify someone to be the centre’s psychosocial counsellor?",
+    "lang": "en",
+    "translation": "Which subjects can qualify someone to be the centre’s psychosocial counsellor?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p28:c1"
+    ],
+    "score": 2.3673207759857178,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p39:c2",
+        "One_Stop_Centre_SOP_English:p28:c1",
+        "One_Stop_Centre_SOP_English:p22:c2"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p39:c2",
+        "One_Stop_Centre_SOP_English:p28:c1",
+        "One_Stop_Centre_SOP_English:p22:c2"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p28:c1",
+        "One_Stop_Centre_SOP_English:p39:c2",
+        "One_Stop_Centre_SOP_English:p26:c1"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p22:c2",
+        "One_Stop_Centre_SOP_English:p33:c1",
+        "One_Stop_Centre_SOP_English:p39:c2"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p26:c1",
+        "One_Stop_Centre_SOP_English:p28:c1",
+        "One_Stop_Centre_SOP_English:p22:c2"
+      ]
+    }
+  },
+  {
+    "question": "केंद्र में मनोसामाजिक परामर्शदाता बनने के लिए किन विषयों में पढ़ाई मान्य है?",
+    "lang": "hi",
+    "translation": "What subjects are required for admission to become a mental health counselor in the center?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p28:c1"
+    ],
+    "score": 1.9470633268356323,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p39:c1",
+        "One_Stop_Centre_SOP_English:p39:c2",
+        "One_Stop_Centre_SOP_English:p28:c1"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p39:c2",
+        "One_Stop_Centre_SOP_English:p39:c1",
+        "One_Stop_Centre_SOP_English:p20:c1"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p39:c1",
+        "One_Stop_Centre_SOP_English:p39:c2",
+        "One_Stop_Centre_SOP_English:p28:c1"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p39:c1",
+        "One_Stop_Centre_SOP_English:p39:c2",
+        "One_Stop_Centre_SOP_English:p28:c1"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p39:c1",
+        "One_Stop_Centre_SOP_English:p39:c2",
+        "One_Stop_Centre_SOP_English:p28:c1"
+      ]
+    }
+  },
+  {
+    "question": "OSC counsellor banne ke liye degree ya diploma kis subject mein chahiye?",
+    "lang": "hinglish",
+    "translation": "What subjects should I study for an OSC counselor's degree or diploma?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p28:c1"
+    ],
+    "score": 1.000015377998352,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p28:c1",
+        "One_Stop_Centre_SOP_English:p76:c1",
+        "One_Stop_Centre_SOP_English:p73:c1"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p28:c1",
+        "One_Stop_Centre_SOP_English:p76:c1",
+        "One_Stop_Centre_SOP_English:p39:c1"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p28:c1",
+        "One_Stop_Centre_SOP_English:p72:c1",
+        "One_Stop_Centre_SOP_English:p33:c1"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p28:c1",
+        "One_Stop_Centre_SOP_English:p28:c2",
+        "One_Stop_Centre_SOP_English:p27:c3"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p28:c1",
+        "One_Stop_Centre_SOP_English:p27:c3",
+        "One_Stop_Centre_SOP_English:p27:c2"
+      ]
+    }
+  },
+  {
+    "question": "Who checks that only authorised visitors enter the centre?",
+    "lang": "en",
+    "translation": "Who checks that only authorised visitors enter the centre?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p34:c1"
+    ],
+    "score": -0.8436590433120728,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p40:c3",
+        "One_Stop_Centre_SOP_English:p19:c2",
+        "One_Stop_Centre_SOP_English:p78:c1"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p40:c3",
+        "One_Stop_Centre_SOP_English:p19:c2",
+        "One_Stop_Centre_SOP_English:p78:c1"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p78:c1",
+        "One_Stop_Centre_SOP_English:p40:c3",
+        "One_Stop_Centre_SOP_English:p11:c3"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p78:c1",
+        "One_Stop_Centre_SOP_English:p63:c1",
+        "One_Stop_Centre_SOP_English:p33:c2"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p34:c1",
+        "One_Stop_Centre_SOP_English:p78:c1",
+        "One_Stop_Centre_SOP_English:p19:c2"
+      ]
+    }
+  },
+  {
+    "question": "कौन सुनिश्चित करता है कि केंद्र में सिर्फ अधिकृत आगंतुक प्रवेश करें?",
+    "lang": "hi",
+    "translation": "Who is allowed to enter only through designated entry points in the center?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p34:c1"
+    ],
+    "score": -1.963621735572815,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p19:c2",
+        "One_Stop_Centre_SOP_English:p20:c1",
+        "One_Stop_Centre_SOP_English:p2:c2"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p19:c2",
+        "One_Stop_Centre_SOP_English:p78:c1",
+        "One_Stop_Centre_SOP_English:p22:c3"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p19:c2",
+        "One_Stop_Centre_SOP_English:p20:c1",
+        "One_Stop_Centre_SOP_English:p2:c2"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p19:c2",
+        "One_Stop_Centre_SOP_English:p20:c1",
+        "One_Stop_Centre_SOP_English:p2:c2"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p19:c2",
+        "One_Stop_Centre_SOP_English:p20:c1",
+        "One_Stop_Centre_SOP_English:p2:c2"
+      ]
+    }
+  },
+  {
+    "question": "Centre mein entry ke waqt authorised visitors ko check karna kiski duty hai?",
+    "lang": "hinglish",
+    "translation": "Who has the duty to allow entry based on authorized visitors' time in the center?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p34:c1"
+    ],
+    "score": -2.8744776248931885,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p78:c1",
+        "One_Stop_Centre_SOP_English:p19:c2",
+        "One_Stop_Centre_SOP_English:p22:c3"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p19:c2",
+        "One_Stop_Centre_SOP_English:p20:c1",
+        "One_Stop_Centre_SOP_English:p22:c3"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p78:c1",
+        "One_Stop_Centre_SOP_English:p22:c3",
+        "One_Stop_Centre_SOP_English:p19:c2"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p78:c1",
+        "One_Stop_Centre_SOP_English:p19:c2",
+        "One_Stop_Centre_SOP_English:p33:c2"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p19:c2",
+        "One_Stop_Centre_SOP_English:p22:c3",
+        "One_Stop_Centre_SOP_English:p78:c1"
+      ]
+    }
+  },
+  {
+    "question": "What personal qualities help staff earn a survivor’s trust?",
+    "lang": "en",
+    "translation": "What personal qualities help staff earn a survivor’s trust?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p35:c1",
+      "One_Stop_Centre_SOP_English:p35:c3"
+    ],
+    "score": 8.341191291809082,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p35:c1",
+        "One_Stop_Centre_SOP_English:p35:c3",
+        "One_Stop_Centre_SOP_English:p35:c2"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p35:c1",
+        "One_Stop_Centre_SOP_English:p35:c3",
+        "One_Stop_Centre_SOP_English:p35:c2"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p35:c1",
+        "One_Stop_Centre_SOP_English:p35:c3",
+        "One_Stop_Centre_SOP_English:p35:c2"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p35:c1",
+        "One_Stop_Centre_SOP_English:p35:c3",
+        "One_Stop_Centre_SOP_English:p35:c2"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p35:c1",
+        "One_Stop_Centre_SOP_English:p35:c3",
+        "One_Stop_Centre_SOP_English:p35:c2"
+      ]
+    }
+  },
+  {
+    "question": "महिला का भरोसा जीतने में कर्मचारियों के कौन से व्यक्तिगत गुण मदद करते हैं?",
+    "lang": "hi",
+    "translation": "What innate qualities do employees help women achieve success in their work?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p35:c1",
+      "One_Stop_Centre_SOP_English:p35:c3"
+    ],
+    "score": 0.679259181022644,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p2:c1",
+        "One_Stop_Centre_SOP_English:p35:c3",
+        "One_Stop_Centre_SOP_English:p35:c1"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p35:c3",
+        "One_Stop_Centre_SOP_English:p35:c1",
+        "One_Stop_Centre_SOP_English:p2:c1"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p2:c1",
+        "One_Stop_Centre_SOP_English:p35:c3",
+        "One_Stop_Centre_SOP_English:p35:c1"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p2:c1",
+        "One_Stop_Centre_SOP_English:p35:c3",
+        "One_Stop_Centre_SOP_English:p35:c1"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p35:c3",
+        "One_Stop_Centre_SOP_English:p35:c1",
+        "One_Stop_Centre_SOP_English:p4:c2"
+      ]
+    }
+  },
+  {
+    "question": "Survivor ka trust jeetne ke liye staff ke behaviour mein kya qualities honi chahiye?",
+    "lang": "hinglish",
+    "translation": "What qualities should staff exhibit to ensure successful completion of the Survivor challenge?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p35:c1",
+      "One_Stop_Centre_SOP_English:p35:c3"
+    ],
+    "score": 6.996443271636963,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p35:c3",
+        "One_Stop_Centre_SOP_English:p35:c1",
+        "One_Stop_Centre_SOP_English:p35:c2"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p35:c1",
+        "One_Stop_Centre_SOP_English:p62:c2",
+        "One_Stop_Centre_SOP_English:p35:c2"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p35:c3",
+        "One_Stop_Centre_SOP_English:p35:c1",
+        "One_Stop_Centre_SOP_English:p35:c2"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p35:c1",
+        "One_Stop_Centre_SOP_English:p35:c3",
+        "One_Stop_Centre_SOP_English:p35:c2"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p35:c1",
+        "One_Stop_Centre_SOP_English:p35:c3",
+        "One_Stop_Centre_SOP_English:p35:c2"
+      ]
+    }
+  },
+  {
+    "question": "Who is responsible at district level for making sure all OSC personnel get induction training?",
+    "lang": "en",
+    "translation": "Who is responsible at district level for making sure all OSC personnel get induction training?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p40:c1"
+    ],
+    "score": 10.620744705200195,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p40:c1",
+        "One_Stop_Centre_SOP_English:p37:c2",
+        "One_Stop_Centre_SOP_English:p5:c2"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p40:c1",
+        "One_Stop_Centre_SOP_English:p37:c2",
+        "One_Stop_Centre_SOP_English:p5:c2"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p40:c1",
+        "One_Stop_Centre_SOP_English:p14:c2",
+        "One_Stop_Centre_SOP_English:p5:c2"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p40:c1",
+        "One_Stop_Centre_SOP_English:p78:c2",
+        "One_Stop_Centre_SOP_English:p37:c2"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p40:c1",
+        "One_Stop_Centre_SOP_English:p78:c2",
+        "One_Stop_Centre_SOP_English:p37:c2"
+      ]
+    }
+  },
+  {
+    "question": "जिले में केंद्र के सभी कर्मियों का शुरुआती प्रशिक्षण सुनिश्चित करने की जिम्मेदारी किसकी है?",
+    "lang": "hi",
+    "translation": "The responsibility for ensuring the initial training of all staff in the center lies with whom?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p40:c1"
+    ],
+    "score": 1.9604333639144897,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p5:c2",
+        "One_Stop_Centre_SOP_English:p73:c1",
+        "One_Stop_Centre_SOP_English:p37:c2"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p5:c2",
+        "One_Stop_Centre_SOP_English:p37:c1",
+        "One_Stop_Centre_SOP_English:p37:c2"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p5:c2",
+        "One_Stop_Centre_SOP_English:p73:c1",
+        "One_Stop_Centre_SOP_English:p37:c2"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p5:c2",
+        "One_Stop_Centre_SOP_English:p73:c1",
+        "One_Stop_Centre_SOP_English:p37:c2"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p40:c1",
+        "One_Stop_Centre_SOP_English:p37:c1",
+        "One_Stop_Centre_SOP_English:p37:c2"
+      ]
+    }
+  },
+  {
+    "question": "Zile mein OSC ke saare staff ki induction training kaun ensure karta hai?",
+    "lang": "hinglish",
+    "translation": "How many members of the OSC's entire staff are undergoing induction training?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p40:c1"
+    ],
+    "score": 6.1270833015441895,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p37:c1",
+        "One_Stop_Centre_SOP_English:p37:c2",
+        "One_Stop_Centre_SOP_English:p37:c3"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p37:c3",
+        "One_Stop_Centre_SOP_English:p37:c2",
+        "One_Stop_Centre_SOP_English:p37:c1"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p37:c2",
+        "One_Stop_Centre_SOP_English:p37:c1",
+        "One_Stop_Centre_SOP_English:p37:c3"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p37:c1",
+        "One_Stop_Centre_SOP_English:p37:c3",
+        "One_Stop_Centre_SOP_English:p37:c2"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p37:c2",
+        "One_Stop_Centre_SOP_English:p37:c1",
+        "One_Stop_Centre_SOP_English:p37:c3"
+      ]
+    }
+  },
+  {
+    "question": "In survivor-centred care, what does safety include beyond protection from physical harm?",
+    "lang": "en",
+    "translation": "In survivor-centred care, what does safety include beyond protection from physical harm?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p44:c1"
+    ],
+    "score": 7.044712543487549,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p44:c1",
+        "One_Stop_Centre_SOP_English:p38:c3",
+        "One_Stop_Centre_SOP_English:p43:c4"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p44:c1",
+        "One_Stop_Centre_SOP_English:p38:c3",
+        "One_Stop_Centre_SOP_English:p43:c4"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p44:c1",
+        "One_Stop_Centre_SOP_English:p38:c3",
+        "One_Stop_Centre_SOP_English:p11:c1"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p43:c1",
+        "One_Stop_Centre_SOP_English:p44:c1",
+        "One_Stop_Centre_SOP_English:p11:c1"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p44:c1",
+        "One_Stop_Centre_SOP_English:p11:c1",
+        "One_Stop_Centre_SOP_English:p43:c1"
+      ]
+    }
+  },
+  {
+    "question": "महिला-केंद्रित देखभाल में शारीरिक सुरक्षा के अलावा किन पहलुओं को सुरक्षित रखना ज़रूरी है?",
+    "lang": "hi",
+    "translation": "In women's central planning, besides physical security, what measures are necessary to ensure safety?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p44:c1"
+    ],
+    "score": 1.7620503902435303,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p44:c1",
+        "One_Stop_Centre_SOP_English:p38:c2",
+        "One_Stop_Centre_SOP_English:p45:c1"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p4:c2",
+        "One_Stop_Centre_SOP_English:p11:c1",
+        "One_Stop_Centre_SOP_English:p44:c1"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p44:c1",
+        "One_Stop_Centre_SOP_English:p38:c2",
+        "One_Stop_Centre_SOP_English:p45:c1"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p44:c1",
+        "One_Stop_Centre_SOP_English:p38:c2",
+        "One_Stop_Centre_SOP_English:p45:c1"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p44:c1",
+        "One_Stop_Centre_SOP_English:p11:c1",
+        "One_Stop_Centre_SOP_English:p11:c2"
+      ]
+    }
+  },
+  {
+    "question": "Survivor-centred care mein physical safety ke alawa aur kis tarah ki safety matter karti hai?",
+    "lang": "hinglish",
+    "translation": "In survivor-centered care, what is the minimum level of physical safety, and how does it relate to overall safety?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p44:c1"
+    ],
+    "score": 3.9051148891448975,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p45:c1",
+        "One_Stop_Centre_SOP_English:p43:c1",
+        "One_Stop_Centre_SOP_English:p51:c3"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p44:c1",
+        "One_Stop_Centre_SOP_English:p11:c1",
+        "One_Stop_Centre_SOP_English:p38:c3"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p45:c1",
+        "One_Stop_Centre_SOP_English:p51:c3",
+        "One_Stop_Centre_SOP_English:p11:c3"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p11:c1",
+        "One_Stop_Centre_SOP_English:p45:c1",
+        "One_Stop_Centre_SOP_English:p44:c1"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p44:c1",
+        "One_Stop_Centre_SOP_English:p11:c1",
+        "One_Stop_Centre_SOP_English:p45:c1"
+      ]
+    }
+  },
+  {
+    "question": "How does the counsellor assess mental health during the case assessment?",
+    "lang": "en",
+    "translation": "How does the counsellor assess mental health during the case assessment?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p48:c1"
+    ],
+    "score": 6.405167579650879,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p48:c1",
+        "One_Stop_Centre_SOP_English:p47:c2",
+        "One_Stop_Centre_SOP_English:p47:c1"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p48:c1",
+        "One_Stop_Centre_SOP_English:p47:c2",
+        "One_Stop_Centre_SOP_English:p47:c1"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p48:c1",
+        "One_Stop_Centre_SOP_English:p47:c2",
+        "One_Stop_Centre_SOP_English:p47:c1"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p48:c1",
+        "One_Stop_Centre_SOP_English:p47:c2",
+        "One_Stop_Centre_SOP_English:p53:c2"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p48:c1",
+        "One_Stop_Centre_SOP_English:p47:c2",
+        "One_Stop_Centre_SOP_English:p33:c1"
+      ]
+    }
+  },
+  {
+    "question": "केस के आकलन के समय परामर्शदाता मानसिक स्वास्थ्य की जाँच किस तरीके से करते हैं?",
+    "lang": "hi",
+    "translation": "The healthcare provider assesses mental health during the consultation for a case evaluation.",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p48:c1"
+    ],
+    "score": 3.0436995029449463,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p48:c1",
+        "One_Stop_Centre_SOP_English:p47:c2",
+        "One_Stop_Centre_SOP_English:p56:c2"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p48:c1",
+        "One_Stop_Centre_SOP_English:p52:c1",
+        "One_Stop_Centre_SOP_English:p47:c1"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p48:c1",
+        "One_Stop_Centre_SOP_English:p47:c2",
+        "One_Stop_Centre_SOP_English:p56:c2"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p48:c1",
+        "One_Stop_Centre_SOP_English:p47:c2",
+        "One_Stop_Centre_SOP_English:p56:c2"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p48:c1",
+        "One_Stop_Centre_SOP_English:p33:c1",
+        "One_Stop_Centre_SOP_English:p47:c2"
+      ]
+    }
+  },
+  {
+    "question": "Case assessment mein counsellor mental health ko kis method se check karta hai?",
+    "lang": "hinglish",
+    "translation": "In case assessment, the counselor checks the mental health using which method?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p48:c1"
+    ],
+    "score": 0.6075152158737183,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p48:c1",
+        "One_Stop_Centre_SOP_English:p6:c2",
+        "One_Stop_Centre_SOP_English:p47:c2"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p48:c1",
+        "One_Stop_Centre_SOP_English:p47:c1",
+        "One_Stop_Centre_SOP_English:p47:c2"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p48:c1",
+        "One_Stop_Centre_SOP_English:p6:c2",
+        "One_Stop_Centre_SOP_English:p47:c2"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p48:c1",
+        "One_Stop_Centre_SOP_English:p47:c2",
+        "One_Stop_Centre_SOP_English:p47:c1"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p48:c1",
+        "One_Stop_Centre_SOP_English:p47:c2",
+        "One_Stop_Centre_SOP_English:p52:c1"
+      ]
+    }
+  },
+  {
+    "question": "If there is no time for every case management step in a crisis, what should workers prioritise?",
+    "lang": "en",
+    "translation": "If there is no time for every case management step in a crisis, what should workers prioritise?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p50:c1"
+    ],
+    "score": 5.792346477508545,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p50:c1",
+        "One_Stop_Centre_SOP_English:p47:c1",
+        "One_Stop_Centre_SOP_English:p47:c2"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p50:c1",
+        "One_Stop_Centre_SOP_English:p47:c1",
+        "One_Stop_Centre_SOP_English:p47:c2"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p50:c1",
+        "One_Stop_Centre_SOP_English:p71:c1",
+        "One_Stop_Centre_SOP_English:p73:c1"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p50:c1",
+        "One_Stop_Centre_SOP_English:p70:c1",
+        "One_Stop_Centre_SOP_English:p53:c2"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p50:c1",
+        "One_Stop_Centre_SOP_English:p47:c2",
+        "One_Stop_Centre_SOP_English:p53:c1"
+      ]
+    }
+  },
+  {
+    "question": "संकट में केस प्रबंधन के सारे चरण पूरे न हो पाएँ तो कर्मियों को क्या प्राथमिकता देनी चाहिए?",
+    "lang": "hi",
+    "translation": "If cases in an outbreak are not managed properly, what priority should be given to workers?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p50:c1"
+    ],
+    "score": 6.030219078063965,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p73:c1",
+        "One_Stop_Centre_SOP_English:p71:c1",
+        "One_Stop_Centre_SOP_English:p57:c1"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p73:c1",
+        "One_Stop_Centre_SOP_English:p71:c1",
+        "One_Stop_Centre_SOP_English:p31:c1"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p73:c1",
+        "One_Stop_Centre_SOP_English:p71:c1",
+        "One_Stop_Centre_SOP_English:p57:c1"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p73:c1",
+        "One_Stop_Centre_SOP_English:p71:c1",
+        "One_Stop_Centre_SOP_English:p57:c1"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p50:c1",
+        "One_Stop_Centre_SOP_English:p70:c1",
+        "One_Stop_Centre_SOP_English:p6:c1"
+      ]
+    }
+  },
+  {
+    "question": "Emergency mein saare case steps follow na ho paayein toh worker pehle kis cheez par dhyan de?",
+    "lang": "hinglish",
+    "translation": "If emergency cases do not follow all the necessary procedures, then the worker should first concentrate on which of the following tasks?",
+    "gold": [
+      "One_Stop_Centre_SOP_English:p50:c1"
+    ],
+    "score": 0.8065091967582703,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p69:c1",
+        "One_Stop_Centre_SOP_English:p49:c2",
+        "One_Stop_Centre_SOP_English:p70:c1"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p49:c2",
+        "One_Stop_Centre_SOP_English:p70:c1",
+        "One_Stop_Centre_SOP_English:p54:c2"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p69:c1",
+        "One_Stop_Centre_SOP_English:p70:c1",
+        "One_Stop_Centre_SOP_English:p49:c2"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p49:c2",
+        "Women_Helpline_181_SOP_English:p12:c1",
+        "One_Stop_Centre_SOP_English:p49:c1"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p49:c2",
+        "One_Stop_Centre_SOP_English:p54:c2",
+        "One_Stop_Centre_SOP_English:p49:c1"
+      ]
+    }
+  },
+  {
+    "question": "What staffing range does the helpline specify for telephone operators in the control room?",
+    "lang": "en",
+    "translation": "What staffing range does the helpline specify for telephone operators in the control room?",
+    "gold": [
+      "Women_Helpline_181_SOP_English:p14:c1"
+    ],
+    "score": 1.2356027364730835,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p10:c1",
+        "Women_Helpline_181_SOP_English:p10:c2",
+        "Women_Helpline_181_SOP_English:p6:c1"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p10:c1",
+        "Women_Helpline_181_SOP_English:p10:c2",
+        "Women_Helpline_181_SOP_English:p6:c1"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p10:c1",
+        "Women_Helpline_181_SOP_English:p10:c2",
+        "Women_Helpline_181_SOP_English:p14:c1"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p10:c2",
+        "Women_Helpline_181_SOP_English:p14:c1",
+        "Women_Helpline_181_SOP_English:p10:c1"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p14:c1",
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p10:c1"
+      ]
+    }
+  },
+  {
+    "question": "हेल्पलाइन के नियंत्रण कक्ष में कॉल ऑपरेटरों की संख्या किस सीमा में रखी जाती है?",
+    "lang": "hi",
+    "translation": "The number of call operators in the helpdesk is determined within what limit?",
+    "gold": [
+      "Women_Helpline_181_SOP_English:p14:c1"
+    ],
+    "score": 2.360628843307495,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p10:c2",
+        "Women_Helpline_181_SOP_English:p7:c1",
+        "Women_Helpline_181_SOP_English:p10:c1"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p10:c1",
+        "Women_Helpline_181_SOP_English:p10:c2",
+        "Women_Helpline_181_SOP_English:p9:c1"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p10:c2",
+        "Women_Helpline_181_SOP_English:p7:c1",
+        "Women_Helpline_181_SOP_English:p10:c1"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p10:c2",
+        "Women_Helpline_181_SOP_English:p7:c1",
+        "Women_Helpline_181_SOP_English:p10:c1"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p14:c1",
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p10:c2"
+      ]
+    }
+  },
+  {
+    "question": "Helpline control room mein kitne call operators rakhne ka provision hai?",
+    "lang": "hinglish",
+    "translation": "How many call operators are provided in the helpline control room?",
+    "gold": [
+      "Women_Helpline_181_SOP_English:p14:c1"
+    ],
+    "score": 1.483773946762085,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p6:c1",
+        "Women_Helpline_181_SOP_English:p5:c1",
+        "Women_Helpline_181_SOP_English:p10:c1"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p10:c1",
+        "Women_Helpline_181_SOP_English:p10:c2",
+        "Women_Helpline_181_SOP_English:p6:c1"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p6:c1",
+        "Women_Helpline_181_SOP_English:p5:c1",
+        "Women_Helpline_181_SOP_English:p10:c1"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p6:c1",
+        "Women_Helpline_181_SOP_English:p10:c1",
+        "Women_Helpline_181_SOP_English:p10:c2"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p6:c1",
+        "Women_Helpline_181_SOP_English:p10:c1",
+        "Women_Helpline_181_SOP_English:p14:c1"
+      ]
+    }
+  },
+  {
+    "question": "Which agency helps the helpline trace family members?",
+    "lang": "en",
+    "translation": "Which agency helps the helpline trace family members?",
+    "gold": [
+      "Women_Helpline_181_SOP_English:p18:c1"
+    ],
+    "score": 2.9280037879943848,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "Women_Helpline_181_SOP_English:p23:c2",
+        "Women_Helpline_181_SOP_English:p23:c1"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "Women_Helpline_181_SOP_English:p23:c2",
+        "Women_Helpline_181_SOP_English:p23:c1"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "Women_Helpline_181_SOP_English:p23:c2",
+        "Women_Helpline_181_SOP_English:p21:c1"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p18:c1",
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "Women_Helpline_181_SOP_English:p5:c1"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p18:c1",
+        "Women_Helpline_181_SOP_English:p5:c1",
+        "Women_Helpline_181_SOP_English:p11:c1"
+      ]
+    }
+  },
+  {
+    "question": "परिवार के सदस्यों का पता लगाने में कौन सी एजेंसी महिला हेल्पलाइन की सहायता करती है?",
+    "lang": "hi",
+    "translation": "Which company provides help for finding family members?",
+    "gold": [
+      "Women_Helpline_181_SOP_English:p18:c1"
+    ],
+    "score": 2.808861017227173,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "Women_Helpline_181_SOP_English:p4:c1",
+        "Women_Helpline_181_SOP_English:p21:c1"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "One_Stop_Centre_SOP_English:p65:c2",
+        "One_Stop_Centre_SOP_English:p72:c1"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "Women_Helpline_181_SOP_English:p4:c1",
+        "Women_Helpline_181_SOP_English:p21:c1"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "Women_Helpline_181_SOP_English:p4:c1",
+        "Women_Helpline_181_SOP_English:p21:c1"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p18:c1",
+        "Women_Helpline_181_SOP_English:p11:c1",
+        "Women_Helpline_181_SOP_English:p5:c1"
+      ]
+    }
+  },
+  {
+    "question": "Family members ko trace karne mein women helpline kis agency ki help leti hai?",
+    "lang": "hinglish",
+    "translation": "Which women's helpline agency helps in tracing family members during this process?",
+    "gold": [
+      "Women_Helpline_181_SOP_English:p18:c1"
+    ],
+    "score": 3.0327651500701904,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "Women_Helpline_181_SOP_English:p1:c1",
+        "Women_Helpline_181_SOP_English:p3:c1"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "Women_Helpline_181_SOP_English:p18:c1",
+        "Women_Helpline_181_SOP_English:p23:c2"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "Women_Helpline_181_SOP_English:p1:c1",
+        "Women_Helpline_181_SOP_English:p12:c1"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p5:c1",
+        "Women_Helpline_181_SOP_English:p23:c2",
+        "Women_Helpline_181_SOP_English:p3:c4"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p18:c1",
+        "Women_Helpline_181_SOP_English:p11:c1",
+        "Women_Helpline_181_SOP_English:p5:c1"
+      ]
+    }
+  },
+  {
+    "question": "What population range puts a state in the middle helpline funding category?",
+    "lang": "en",
+    "translation": "What population range puts a state in the middle helpline funding category?",
+    "gold": [
+      "Women_Helpline_181_SOP_English:p20:c1"
+    ],
+    "score": 1.0762176513671875,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "Women_Helpline_181_SOP_English:p25:c1",
+        "Women_Helpline_181_SOP_English:p4:c1"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "Women_Helpline_181_SOP_English:p25:c1",
+        "Women_Helpline_181_SOP_English:p4:c1"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p25:c1",
+        "Women_Helpline_181_SOP_English:p20:c1",
+        "Women_Helpline_181_SOP_English:p3:c4"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p20:c1",
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "Women_Helpline_181_SOP_English:p4:c1"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p20:c1",
+        "Women_Helpline_181_SOP_English:p14:c1",
+        "Women_Helpline_181_SOP_English:p4:c1"
+      ]
+    }
+  },
+  {
+    "question": "कितनी आबादी वाले राज्य हेल्पलाइन की मध्यम वित्तीय श्रेणी में आते हैं?",
+    "lang": "hi",
+    "translation": "How many countries are in the middle-income group of HELPLINE economies?",
+    "gold": [
+      "Women_Helpline_181_SOP_English:p20:c1"
+    ],
+    "score": 0.1682823896408081,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p20:c1",
+        "Women_Helpline_181_SOP_English:p25:c1",
+        "Women_Helpline_181_SOP_English:p4:c1"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p3:c2",
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "Women_Helpline_181_SOP_English:p4:c1"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p20:c1",
+        "Women_Helpline_181_SOP_English:p25:c1",
+        "Women_Helpline_181_SOP_English:p4:c1"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p20:c1",
+        "Women_Helpline_181_SOP_English:p25:c1",
+        "Women_Helpline_181_SOP_English:p4:c1"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p20:c1",
+        "Women_Helpline_181_SOP_English:p25:c1",
+        "Women_Helpline_181_SOP_English:p4:c1"
+      ]
+    }
+  },
+  {
+    "question": "WHL funding mein medium category ke states ki population range kya hai?",
+    "lang": "hinglish",
+    "translation": "What is the population range for medium category states in the WHL funding?",
+    "gold": [
+      "Women_Helpline_181_SOP_English:p20:c1"
+    ],
+    "score": 1.9631861448287964,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p20:c1",
+        "Women_Helpline_181_SOP_English:p25:c1",
+        "Women_Helpline_181_SOP_English:p14:c1"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p14:c1",
+        "Women_Helpline_181_SOP_English:p10:c1",
+        "Women_Helpline_181_SOP_English:p18:c1"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p20:c1",
+        "Women_Helpline_181_SOP_English:p25:c1",
+        "Women_Helpline_181_SOP_English:p14:c1"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p20:c1",
+        "Women_Helpline_181_SOP_English:p14:c1",
+        "Women_Helpline_181_SOP_English:p25:c1"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p14:c1",
+        "Women_Helpline_181_SOP_English:p20:c1",
+        "Women_Helpline_181_SOP_English:p25:c1"
+      ]
+    }
+  },
+  {
+    "question": "How much prior counselling experience is preferred for a helpline administrator?",
+    "lang": "en",
+    "translation": "How much prior counselling experience is preferred for a helpline administrator?",
+    "gold": [
+      "Women_Helpline_181_SOP_English:p21:c1"
+    ],
+    "score": 4.028402805328369,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p22:c2"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p22:c2"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p22:c2"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p23:c2"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p22:c1",
+        "Women_Helpline_181_SOP_English:p22:c2"
+      ]
+    }
+  },
+  {
+    "question": "महिला हेल्पलाइन प्रशासक के लिए परामर्श देने का कितना पूर्व अनुभव वांछनीय है?",
+    "lang": "hi",
+    "translation": "What prior experience do you have in providing support to a female helpline operator?",
+    "gold": [
+      "Women_Helpline_181_SOP_English:p21:c1"
+    ],
+    "score": 4.8106608390808105,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p22:c2",
+        "Women_Helpline_181_SOP_English:p22:c1"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "Women_Helpline_181_SOP_English:p22:c2",
+        "One_Stop_Centre_SOP_English:p22:c2"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p22:c2",
+        "Women_Helpline_181_SOP_English:p22:c1"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p22:c2",
+        "Women_Helpline_181_SOP_English:p22:c1"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p22:c1",
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p22:c2"
+      ]
+    }
+  },
+  {
+    "question": "Helpline administrator ke liye counselling ka kitna past experience preferred hai?",
+    "lang": "hinglish",
+    "translation": "What is the desired previous counseling experience for a helpline administrator position?",
+    "gold": [
+      "Women_Helpline_181_SOP_English:p21:c1"
+    ],
+    "score": 3.4239583015441895,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p22:c2",
+        "Women_Helpline_181_SOP_English:p23:c1"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p22:c2"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p22:c2",
+        "Women_Helpline_181_SOP_English:p23:c1"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p22:c2"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p22:c1",
+        "Women_Helpline_181_SOP_English:p23:c1"
+      ]
+    }
+  },
+  {
+    "question": "What languages should a women’s helpline call operator be able to communicate in?",
+    "lang": "en",
+    "translation": "What languages should a women’s helpline call operator be able to communicate in?",
+    "gold": [
+      "Women_Helpline_181_SOP_English:p22:c1"
+    ],
+    "score": 6.930941581726074,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p22:c1",
+        "One_Stop_Centre_SOP_English:p22:c2",
+        "Women_Helpline_181_SOP_English:p10:c1"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p22:c1",
+        "One_Stop_Centre_SOP_English:p22:c2",
+        "Women_Helpline_181_SOP_English:p10:c1"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p22:c1",
+        "Women_Helpline_181_SOP_English:p10:c1",
+        "Women_Helpline_181_SOP_English:p11:c2"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p10:c1",
+        "Women_Helpline_181_SOP_English:p10:c2",
+        "Women_Helpline_181_SOP_English:p22:c1"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p22:c1",
+        "One_Stop_Centre_SOP_English:p22:c3",
+        "Women_Helpline_181_SOP_English:p10:c1"
+      ]
+    }
+  },
+  {
+    "question": "महिला हेल्पलाइन के कॉल ऑपरेटर को किन भाषाओं में बातचीत करने में सक्षम होना चाहिए?",
+    "lang": "hi",
+    "translation": "The call operators of the female helpline should be able to communicate in any language.",
+    "gold": [
+      "Women_Helpline_181_SOP_English:p22:c1"
+    ],
+    "score": 6.004593372344971,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p22:c1",
+        "Women_Helpline_181_SOP_English:p22:c2",
+        "Women_Helpline_181_SOP_English:p11:c2"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p11:c2",
+        "Women_Helpline_181_SOP_English:p22:c1",
+        "Women_Helpline_181_SOP_English:p10:c3"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p22:c1",
+        "Women_Helpline_181_SOP_English:p22:c2",
+        "Women_Helpline_181_SOP_English:p11:c2"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p22:c1",
+        "Women_Helpline_181_SOP_English:p22:c2",
+        "Women_Helpline_181_SOP_English:p11:c2"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p22:c1",
+        "Women_Helpline_181_SOP_English:p10:c1",
+        "Women_Helpline_181_SOP_English:p21:c1"
+      ]
+    }
+  },
+  {
+    "question": "Women helpline call operator ko kaunsi languages mein baat karni aani chahiye?",
+    "lang": "hinglish",
+    "translation": "Which languages can women's helpline operators take calls in so that callers can speak their language?",
+    "gold": [
+      "Women_Helpline_181_SOP_English:p22:c1"
+    ],
+    "score": 3.453502893447876,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p22:c1",
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "One_Stop_Centre_SOP_English:p22:c2"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p22:c2",
+        "Women_Helpline_181_SOP_English:p10:c1",
+        "Women_Helpline_181_SOP_English:p22:c1"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p22:c1",
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "Women_Helpline_181_SOP_English:p5:c1"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p22:c1",
+        "Women_Helpline_181_SOP_English:p10:c1",
+        "Women_Helpline_181_SOP_English:p10:c2"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p22:c1",
+        "Women_Helpline_181_SOP_English:p10:c1",
+        "One_Stop_Centre_SOP_English:p22:c3"
+      ]
+    }
+  },
+  {
+    "question": "Which kinds of technical work experience are expected of the helpline IT supervisor?",
+    "lang": "en",
+    "translation": "Which kinds of technical work experience are expected of the helpline IT supervisor?",
+    "gold": [
+      "Women_Helpline_181_SOP_English:p23:c1"
+    ],
+    "score": 2.446638345718384,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p23:c2",
+        "One_Stop_Centre_SOP_English:p33:c2"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p23:c2",
+        "One_Stop_Centre_SOP_English:p33:c2"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p23:c2"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "One_Stop_Centre_SOP_English:p28:c2"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p23:c2"
+      ]
+    }
+  },
+  {
+    "question": "हेल्पलाइन के आईटी पर्यवेक्षक से किन तकनीकी कामों का अनुभव अपेक्षित है?",
+    "lang": "hi",
+    "translation": "What technical tasks can you have experience with from working with an IT auditor at HELPLINE?",
+    "gold": [
+      "Women_Helpline_181_SOP_English:p23:c1"
+    ],
+    "score": 3.7311313152313232,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "One_Stop_Centre_SOP_English:p71:c1",
+        "One_Stop_Centre_SOP_English:p22:c2"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p22:c2",
+        "Women_Helpline_181_SOP_English:p5:c1"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "One_Stop_Centre_SOP_English:p71:c1",
+        "One_Stop_Centre_SOP_English:p22:c2"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "One_Stop_Centre_SOP_English:p71:c1",
+        "One_Stop_Centre_SOP_English:p22:c2"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p22:c1",
+        "Women_Helpline_181_SOP_English:p23:c2"
+      ]
+    }
+  },
+  {
+    "question": "WHL IT supervisor ko kis type ke technical kaam ka experience chahiye?",
+    "lang": "hinglish",
+    "translation": "What type of technical work does the WHL IT supervisor require experience in?",
+    "gold": [
+      "Women_Helpline_181_SOP_English:p23:c1"
+    ],
+    "score": 2.3498570919036865,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p22:c1",
+        "Women_Helpline_181_SOP_English:p5:c1"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p6:c2",
+        "Women_Helpline_181_SOP_English:p10:c1"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p5:c1",
+        "Women_Helpline_181_SOP_English:p22:c1"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p6:c1",
+        "Women_Helpline_181_SOP_English:p5:c1"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p5:c1"
+      ]
+    }
+  },
+  {
+    "question": "Which previous service background is preferred for a helpline security guard?",
+    "lang": "en",
+    "translation": "Which previous service background is preferred for a helpline security guard?",
+    "gold": [
+      "Women_Helpline_181_SOP_English:p24:c1"
+    ],
+    "score": 0.4638221263885498,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p24:c1",
+        "Women_Helpline_181_SOP_English:p23:c2",
+        "One_Stop_Centre_SOP_English:p29:c1"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p24:c1",
+        "Women_Helpline_181_SOP_English:p23:c2",
+        "One_Stop_Centre_SOP_English:p29:c1"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p24:c1",
+        "One_Stop_Centre_SOP_English:p29:c1",
+        "One_Stop_Centre_SOP_English:p34:c1"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p23:c2",
+        "Women_Helpline_181_SOP_English:p24:c1",
+        "One_Stop_Centre_SOP_English:p29:c1"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p24:c1",
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "One_Stop_Centre_SOP_English:p29:c1"
+      ]
+    }
+  },
+  {
+    "question": "महिला हेल्पलाइन के सुरक्षा गार्ड के लिए किस पिछली सेवा के अनुभव को वरीयता दी जाती है?",
+    "lang": "hi",
+    "translation": "What previous service has been recognized for eligibility as a Security Guard with the Women's Helpline organization?",
+    "gold": [
+      "Women_Helpline_181_SOP_English:p24:c1"
+    ],
+    "score": 0.30127713084220886,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p24:c1",
+        "Women_Helpline_181_SOP_English:p11:c2",
+        "Women_Helpline_181_SOP_English:p23:c2"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "Women_Helpline_181_SOP_English:p11:c1",
+        "Women_Helpline_181_SOP_English:p11:c2"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p24:c1",
+        "Women_Helpline_181_SOP_English:p11:c2",
+        "Women_Helpline_181_SOP_English:p23:c2"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p24:c1",
+        "Women_Helpline_181_SOP_English:p11:c2",
+        "Women_Helpline_181_SOP_English:p23:c2"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p29:c1",
+        "Women_Helpline_181_SOP_English:p22:c2",
+        "Women_Helpline_181_SOP_English:p11:c3"
+      ]
+    }
+  },
+  {
+    "question": "Helpline guard ke liye kis service se retired candidates ko preference milti hai?",
+    "lang": "hinglish",
+    "translation": "Which service provides preference to retired candidates for the helpline position?",
+    "gold": [
+      "Women_Helpline_181_SOP_English:p24:c1"
+    ],
+    "score": 0.9586706757545471,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p24:c1",
+        "One_Stop_Centre_SOP_English:p29:c1",
+        "Women_Helpline_181_SOP_English:p3:c4"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p21:c1"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p24:c1",
+        "One_Stop_Centre_SOP_English:p29:c1",
+        "Women_Helpline_181_SOP_English:p3:c4"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p29:c1",
+        "Women_Helpline_181_SOP_English:p24:c1",
+        "Women_Helpline_181_SOP_English:p23:c2"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p24:c1",
+        "One_Stop_Centre_SOP_English:p29:c1",
+        "Women_Helpline_181_SOP_English:p23:c1"
+      ]
+    }
+  },
+  {
+    "question": "How many beds are empty at my nearest OSC right now?",
+    "lang": "en",
+    "translation": "How many beds are empty at my nearest OSC right now?",
+    "gold": [],
+    "score": -1.2529833316802979,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p20:c2",
+        "One_Stop_Centre_SOP_English:p75:c2",
+        "One_Stop_Centre_SOP_English:p82:c1"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p20:c2",
+        "One_Stop_Centre_SOP_English:p75:c2",
+        "One_Stop_Centre_SOP_English:p82:c1"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p20:c2",
+        "One_Stop_Centre_SOP_English:p82:c1",
+        "One_Stop_Centre_SOP_English:p75:c1"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p75:c1",
+        "One_Stop_Centre_SOP_English:p83:c1",
+        "One_Stop_Centre_SOP_English:p75:c2"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p20:c1",
+        "One_Stop_Centre_SOP_English:p19:c2",
+        "One_Stop_Centre_SOP_English:p81:c1"
+      ]
+    }
+  },
+  {
+    "question": "अभी मेरे सबसे पास वाले केंद्र में कितने बिस्तर खाली हैं?",
+    "lang": "hi",
+    "translation": "मेरे सबसे पास वाले केंद्र में कितने बिस्तर खाली हैं?",
+    "gold": [],
+    "score": -2.402238368988037,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p20:c2",
+        "One_Stop_Centre_SOP_English:p20:c1",
+        "One_Stop_Centre_SOP_English:p9:c1"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p20:c2",
+        "One_Stop_Centre_SOP_English:p20:c1",
+        "One_Stop_Centre_SOP_English:p19:c2"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p20:c2",
+        "One_Stop_Centre_SOP_English:p20:c1",
+        "One_Stop_Centre_SOP_English:p9:c1"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p20:c2",
+        "One_Stop_Centre_SOP_English:p20:c1",
+        "One_Stop_Centre_SOP_English:p9:c1"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p20:c1",
+        "One_Stop_Centre_SOP_English:p19:c2",
+        "One_Stop_Centre_SOP_English:p20:c2"
+      ]
+    }
+  },
+  {
+    "question": "Mere nearest OSC mein abhi kitne beds khali hain?",
+    "lang": "hinglish",
+    "translation": "How many empty beds are available at the nearest OSCH?",
+    "gold": [],
+    "score": -0.8252784013748169,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p4:c1",
+        "One_Stop_Centre_SOP_English:p21:c1",
+        "One_Stop_Centre_SOP_English:p57:c2"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p20:c2",
+        "One_Stop_Centre_SOP_English:p20:c1",
+        "One_Stop_Centre_SOP_English:p19:c3"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p4:c1",
+        "One_Stop_Centre_SOP_English:p21:c1",
+        "One_Stop_Centre_SOP_English:p57:c2"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p75:c1",
+        "One_Stop_Centre_SOP_English:p19:c2",
+        "One_Stop_Centre_SOP_English:p20:c1"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p20:c1",
+        "One_Stop_Centre_SOP_English:p19:c2",
+        "One_Stop_Centre_SOP_English:p83:c1"
+      ]
+    }
+  },
+  {
+    "question": "Who is on duty at my local helpline desk this morning?",
+    "lang": "en",
+    "translation": "Who is on duty at my local helpline desk this morning?",
+    "gold": [],
+    "score": -4.674737930297852,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p23:c2",
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p21:c2"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p23:c2",
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p21:c2"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p23:c2",
+        "Women_Helpline_181_SOP_English:p5:c1"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p23:c2",
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p5:c1"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p11:c3",
+        "Women_Helpline_181_SOP_English:p21:c2"
+      ]
+    }
+  },
+  {
+    "question": "आज सुबह मेरी स्थानीय हेल्पलाइन डेस्क पर किसकी ड्यूटी है?",
+    "lang": "hi",
+    "translation": "आज सुबह मेरी स्थानीय हेल्पलाइन डेस्क पर \"मेरी\" की ड्यूटी है।",
+    "gold": [],
+    "score": -3.1997015476226807,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p23:c2",
+        "One_Stop_Centre_SOP_English:p16:c1",
+        "Women_Helpline_181_SOP_English:p21:c2"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p2:c2",
+        "One_Stop_Centre_SOP_English:p72:c1",
+        "One_Stop_Centre_SOP_English:p56:c2"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p23:c2",
+        "One_Stop_Centre_SOP_English:p16:c1",
+        "Women_Helpline_181_SOP_English:p21:c2"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p23:c2",
+        "One_Stop_Centre_SOP_English:p16:c1",
+        "Women_Helpline_181_SOP_English:p21:c2"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p5:c1",
+        "One_Stop_Centre_SOP_English:p16:c1"
+      ]
+    }
+  },
+  {
+    "question": "Aaj subah meri local helpline desk par kiski duty hai?",
+    "lang": "hinglish",
+    "translation": "What is your shift at the local helpline desk today, ma'am?",
+    "gold": [],
+    "score": -3.1872618198394775,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p5:c1",
+        "One_Stop_Centre_SOP_English:p16:c1",
+        "One_Stop_Centre_SOP_English:p8:c1"
+      ],
+      "translated": [
+        "Women_Helpline_181_SOP_English:p21:c2",
+        "Women_Helpline_181_SOP_English:p23:c2",
+        "Women_Helpline_181_SOP_English:p5:c2"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p5:c1",
+        "One_Stop_Centre_SOP_English:p8:c1",
+        "One_Stop_Centre_SOP_English:p16:c1"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p5:c1",
+        "One_Stop_Centre_SOP_English:p8:c1",
+        "Women_Helpline_181_SOP_English:p11:c3"
+      ],
+      "reranked": [
+        "Women_Helpline_181_SOP_English:p11:c3",
+        "Women_Helpline_181_SOP_English:p5:c1",
+        "Women_Helpline_181_SOP_English:p11:c2"
+      ]
+    }
+  },
+  {
+    "question": "Has my complaint from yesterday been closed yet?",
+    "lang": "en",
+    "translation": "Has my complaint from yesterday been closed yet?",
+    "gold": [],
+    "score": -2.4531075954437256,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p84:c1",
+        "One_Stop_Centre_SOP_English:p80:c2",
+        "One_Stop_Centre_SOP_English:p55:c3"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p84:c1",
+        "One_Stop_Centre_SOP_English:p80:c2",
+        "One_Stop_Centre_SOP_English:p55:c3"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p80:c2",
+        "Women_Helpline_181_SOP_English:p13:c3",
+        "One_Stop_Centre_SOP_English:p55:c3"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p80:c2",
+        "One_Stop_Centre_SOP_English:p55:c3",
+        "Women_Helpline_181_SOP_English:p13:c3"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p55:c3",
+        "One_Stop_Centre_SOP_English:p55:c2",
+        "One_Stop_Centre_SOP_English:p55:c1"
+      ]
+    }
+  },
+  {
+    "question": "क्या मेरी कल की शिकायत अब बंद हो चुकी है?",
+    "lang": "hi",
+    "translation": "Is my knowledge of this language now outdated?",
+    "gold": [],
+    "score": 0.15567801892757416,
+    "top3": {
+      "direct": [
+        "One_Stop_Centre_SOP_English:p55:c3",
+        "Women_Helpline_181_SOP_English:p12:c1",
+        "One_Stop_Centre_SOP_English:p84:c1"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p80:c2",
+        "Women_Helpline_181_SOP_English:p1:c1",
+        "One_Stop_Centre_SOP_English:p69:c1"
+      ],
+      "normalized": [
+        "One_Stop_Centre_SOP_English:p55:c3",
+        "Women_Helpline_181_SOP_English:p12:c1",
+        "One_Stop_Centre_SOP_English:p84:c1"
+      ],
+      "hybrid": [
+        "One_Stop_Centre_SOP_English:p55:c3",
+        "Women_Helpline_181_SOP_English:p12:c1",
+        "One_Stop_Centre_SOP_English:p84:c1"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p55:c2",
+        "One_Stop_Centre_SOP_English:p55:c3",
+        "Women_Helpline_181_SOP_English:p9:c1"
+      ]
+    }
+  },
+  {
+    "question": "Meri kal wali complaint ab tak close ho gayi hai kya?",
+    "lang": "hinglish",
+    "translation": "Is complaint till now closed?",
+    "gold": [],
+    "score": -2.0625689029693604,
+    "top3": {
+      "direct": [
+        "Women_Helpline_181_SOP_English:p7:c2",
+        "One_Stop_Centre_SOP_English:p2:c2",
+        "One_Stop_Centre_SOP_English:p69:c1"
+      ],
+      "translated": [
+        "One_Stop_Centre_SOP_English:p55:c3",
+        "One_Stop_Centre_SOP_English:p55:c1",
+        "One_Stop_Centre_SOP_English:p55:c2"
+      ],
+      "normalized": [
+        "Women_Helpline_181_SOP_English:p7:c2",
+        "One_Stop_Centre_SOP_English:p2:c2",
+        "One_Stop_Centre_SOP_English:p8:c1"
+      ],
+      "hybrid": [
+        "Women_Helpline_181_SOP_English:p12:c1",
+        "Women_Helpline_181_SOP_English:p20:c1",
+        "One_Stop_Centre_SOP_English:p55:c2"
+      ],
+      "reranked": [
+        "One_Stop_Centre_SOP_English:p55:c2",
+        "One_Stop_Centre_SOP_English:p55:c1",
+        "Women_Helpline_181_SOP_English:p4:c1"
+      ]
+    }
+  }
+]

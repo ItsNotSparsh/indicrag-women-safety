@@ -1,0 +1,811 @@
+{
+  "model": "qwen2",
+  "checkpoint": "qwen-small",
+  "device": "cuda",
+  "system": "The questions concern India's One Stop Centre and Women Helpline operating procedures. Answer briefly in English. If the question cannot be answered reliably, reply UNKNOWN. When passages are provided, use only those passages and add the supporting passage number in brackets. Never invent live or personal records.",
+  "max_new_tokens": 80,
+  "do_sample": false,
+  "holdout_sha256": "ac3ed18d688b6e009be7697518caab46d09dd85caf209b5a25564cae032d8f5a",
+  "cases": [
+    {
+      "intent": 0,
+      "lang": "en",
+      "question": "Which levels of administration do the district committee’s annual plans cover?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p15:c1",
+        "One_Stop_Centre_SOP_English:p60:c2"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p15:c1",
+        "One_Stop_Centre_SOP_English:p60:c2",
+        "One_Stop_Centre_SOP_English:p14:c1"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 0,
+      "lang": "hi",
+      "question": "जिला समिति की वार्षिक योजनाएँ प्रशासन के किन स्तरों को कवर करती हैं?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p15:c1",
+        "One_Stop_Centre_SOP_English:p60:c2"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p15:c1",
+        "One_Stop_Centre_SOP_English:p60:c2",
+        "One_Stop_Centre_SOP_English:p14:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 0,
+      "lang": "hinglish",
+      "question": "District committee ka yearly action plan kin levels ke liye banta hai?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p15:c1",
+        "One_Stop_Centre_SOP_English:p60:c2"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p15:c1",
+        "One_Stop_Centre_SOP_English:p60:c2",
+        "One_Stop_Centre_SOP_English:p60:c1"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 1,
+      "lang": "en",
+      "question": "Which subjects can qualify someone to be the centre’s psychosocial counsellor?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p28:c1"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p22:c2",
+        "One_Stop_Centre_SOP_English:p33:c1",
+        "One_Stop_Centre_SOP_English:p39:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "Psychosocial counsellor"
+    },
+    {
+      "intent": 1,
+      "lang": "hi",
+      "question": "केंद्र में मनोसामाजिक परामर्शदाता बनने के लिए किन विषयों में पढ़ाई मान्य है?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p28:c1"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p39:c1",
+        "One_Stop_Centre_SOP_English:p39:c2",
+        "One_Stop_Centre_SOP_English:p28:c1"
+      ],
+      "direct": "Unknown",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 1,
+      "lang": "hinglish",
+      "question": "OSC counsellor banne ke liye degree ya diploma kis subject mein chahiye?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p28:c1"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p28:c1",
+        "One_Stop_Centre_SOP_English:p28:c2",
+        "One_Stop_Centre_SOP_English:p27:c3"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 2,
+      "lang": "en",
+      "question": "Who checks that only authorised visitors enter the centre?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p34:c1"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p78:c1",
+        "One_Stop_Centre_SOP_English:p63:c1",
+        "One_Stop_Centre_SOP_English:p33:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "Unknown"
+    },
+    {
+      "intent": 2,
+      "lang": "hi",
+      "question": "कौन सुनिश्चित करता है कि केंद्र में सिर्फ अधिकृत आगंतुक प्रवेश करें?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p34:c1"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p19:c2",
+        "One_Stop_Centre_SOP_English:p20:c1",
+        "One_Stop_Centre_SOP_English:p2:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 2,
+      "lang": "hinglish",
+      "question": "Centre mein entry ke waqt authorised visitors ko check karna kiski duty hai?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p34:c1"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p78:c1",
+        "One_Stop_Centre_SOP_English:p19:c2",
+        "One_Stop_Centre_SOP_English:p33:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 3,
+      "lang": "en",
+      "question": "What personal qualities help staff earn a survivor’s trust?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p35:c1",
+        "One_Stop_Centre_SOP_English:p35:c3"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p35:c1",
+        "One_Stop_Centre_SOP_English:p35:c3",
+        "One_Stop_Centre_SOP_English:p35:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 3,
+      "lang": "hi",
+      "question": "महिला का भरोसा जीतने में कर्मचारियों के कौन से व्यक्तिगत गुण मदद करते हैं?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p35:c1",
+        "One_Stop_Centre_SOP_English:p35:c3"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p2:c1",
+        "One_Stop_Centre_SOP_English:p35:c3",
+        "One_Stop_Centre_SOP_English:p35:c1"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "C."
+    },
+    {
+      "intent": 3,
+      "lang": "hinglish",
+      "question": "Survivor ka trust jeetne ke liye staff ke behaviour mein kya qualities honi chahiye?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p35:c1",
+        "One_Stop_Centre_SOP_English:p35:c3"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p35:c1",
+        "One_Stop_Centre_SOP_English:p35:c3",
+        "One_Stop_Centre_SOP_English:p35:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 4,
+      "lang": "en",
+      "question": "Who is responsible at district level for making sure all OSC personnel get induction training?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p40:c1"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p40:c1",
+        "One_Stop_Centre_SOP_English:p78:c2",
+        "One_Stop_Centre_SOP_English:p37:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 4,
+      "lang": "hi",
+      "question": "जिले में केंद्र के सभी कर्मियों का शुरुआती प्रशिक्षण सुनिश्चित करने की जिम्मेदारी किसकी है?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p40:c1"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p5:c2",
+        "One_Stop_Centre_SOP_English:p73:c1",
+        "One_Stop_Centre_SOP_English:p37:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "C"
+    },
+    {
+      "intent": 4,
+      "lang": "hinglish",
+      "question": "Zile mein OSC ke saare staff ki induction training kaun ensure karta hai?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p40:c1"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p37:c1",
+        "One_Stop_Centre_SOP_English:p37:c3",
+        "One_Stop_Centre_SOP_English:p37:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 5,
+      "lang": "en",
+      "question": "In survivor-centred care, what does safety include beyond protection from physical harm?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p44:c1"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p43:c1",
+        "One_Stop_Centre_SOP_English:p44:c1",
+        "One_Stop_Centre_SOP_English:p11:c1"
+      ],
+      "direct": "Safety includes psychological, emotional, social, and spiritual well-being for survivors of sexual violence.",
+      "rag": "Safety includes both physical safety and security as well as a sense of psychological and emotional safety."
+    },
+    {
+      "intent": 5,
+      "lang": "hi",
+      "question": "महिला-केंद्रित देखभाल में शारीरिक सुरक्षा के अलावा किन पहलुओं को सुरक्षित रखना ज़रूरी है?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p44:c1"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p44:c1",
+        "One_Stop_Centre_SOP_English:p38:c2",
+        "One_Stop_Centre_SOP_English:p45:c1"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 5,
+      "lang": "hinglish",
+      "question": "Survivor-centred care mein physical safety ke alawa aur kis tarah ki safety matter karti hai?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p44:c1"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p11:c1",
+        "One_Stop_Centre_SOP_English:p45:c1",
+        "One_Stop_Centre_SOP_English:p44:c1"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 6,
+      "lang": "en",
+      "question": "How does the counsellor assess mental health during the case assessment?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p48:c1"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p48:c1",
+        "One_Stop_Centre_SOP_English:p47:c2",
+        "One_Stop_Centre_SOP_English:p53:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 6,
+      "lang": "hi",
+      "question": "केस के आकलन के समय परामर्शदाता मानसिक स्वास्थ्य की जाँच किस तरीके से करते हैं?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p48:c1"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p48:c1",
+        "One_Stop_Centre_SOP_English:p47:c2",
+        "One_Stop_Centre_SOP_English:p56:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 6,
+      "lang": "hinglish",
+      "question": "Case assessment mein counsellor mental health ko kis method se check karta hai?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p48:c1"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p48:c1",
+        "One_Stop_Centre_SOP_English:p47:c2",
+        "One_Stop_Centre_SOP_English:p47:c1"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 7,
+      "lang": "en",
+      "question": "If there is no time for every case management step in a crisis, what should workers prioritise?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p50:c1"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p50:c1",
+        "One_Stop_Centre_SOP_English:p70:c1",
+        "One_Stop_Centre_SOP_English:p53:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 7,
+      "lang": "hi",
+      "question": "संकट में केस प्रबंधन के सारे चरण पूरे न हो पाएँ तो कर्मियों को क्या प्राथमिकता देनी चाहिए?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p50:c1"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p73:c1",
+        "One_Stop_Centre_SOP_English:p71:c1",
+        "One_Stop_Centre_SOP_English:p57:c1"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 7,
+      "lang": "hinglish",
+      "question": "Emergency mein saare case steps follow na ho paayein toh worker pehle kis cheez par dhyan de?",
+      "gold": [
+        "One_Stop_Centre_SOP_English:p50:c1"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p49:c2",
+        "Women_Helpline_181_SOP_English:p12:c1",
+        "One_Stop_Centre_SOP_English:p49:c1"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 8,
+      "lang": "en",
+      "question": "What staffing range does the helpline specify for telephone operators in the control room?",
+      "gold": [
+        "Women_Helpline_181_SOP_English:p14:c1"
+      ],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p10:c2",
+        "Women_Helpline_181_SOP_English:p14:c1",
+        "Women_Helpline_181_SOP_English:p10:c1"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 8,
+      "lang": "hi",
+      "question": "हेल्पलाइन के नियंत्रण कक्ष में कॉल ऑपरेटरों की संख्या किस सीमा में रखी जाती है?",
+      "gold": [
+        "Women_Helpline_181_SOP_English:p14:c1"
+      ],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p10:c2",
+        "Women_Helpline_181_SOP_English:p7:c1",
+        "Women_Helpline_181_SOP_English:p10:c1"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 8,
+      "lang": "hinglish",
+      "question": "Helpline control room mein kitne call operators rakhne ka provision hai?",
+      "gold": [
+        "Women_Helpline_181_SOP_English:p14:c1"
+      ],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p6:c1",
+        "Women_Helpline_181_SOP_English:p10:c1",
+        "Women_Helpline_181_SOP_English:p10:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 9,
+      "lang": "en",
+      "question": "Which agency helps the helpline trace family members?",
+      "gold": [
+        "Women_Helpline_181_SOP_English:p18:c1"
+      ],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p18:c1",
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "Women_Helpline_181_SOP_English:p5:c1"
+      ],
+      "direct": "Unknown",
+      "rag": "Unknown"
+    },
+    {
+      "intent": 9,
+      "lang": "hi",
+      "question": "परिवार के सदस्यों का पता लगाने में कौन सी एजेंसी महिला हेल्पलाइन की सहायता करती है?",
+      "gold": [
+        "Women_Helpline_181_SOP_English:p18:c1"
+      ],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "Women_Helpline_181_SOP_English:p4:c1",
+        "Women_Helpline_181_SOP_English:p21:c1"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 9,
+      "lang": "hinglish",
+      "question": "Family members ko trace karne mein women helpline kis agency ki help leti hai?",
+      "gold": [
+        "Women_Helpline_181_SOP_English:p18:c1"
+      ],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p5:c1",
+        "Women_Helpline_181_SOP_English:p23:c2",
+        "Women_Helpline_181_SOP_English:p3:c4"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 10,
+      "lang": "en",
+      "question": "What population range puts a state in the middle helpline funding category?",
+      "gold": [
+        "Women_Helpline_181_SOP_English:p20:c1"
+      ],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p20:c1",
+        "Women_Helpline_181_SOP_English:p3:c4",
+        "Women_Helpline_181_SOP_English:p4:c1"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "Category B"
+    },
+    {
+      "intent": 10,
+      "lang": "hi",
+      "question": "कितनी आबादी वाले राज्य हेल्पलाइन की मध्यम वित्तीय श्रेणी में आते हैं?",
+      "gold": [
+        "Women_Helpline_181_SOP_English:p20:c1"
+      ],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p20:c1",
+        "Women_Helpline_181_SOP_English:p25:c1",
+        "Women_Helpline_181_SOP_English:p4:c1"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 10,
+      "lang": "hinglish",
+      "question": "WHL funding mein medium category ke states ki population range kya hai?",
+      "gold": [
+        "Women_Helpline_181_SOP_English:p20:c1"
+      ],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p20:c1",
+        "Women_Helpline_181_SOP_English:p14:c1",
+        "Women_Helpline_181_SOP_English:p25:c1"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 11,
+      "lang": "en",
+      "question": "How much prior counselling experience is preferred for a helpline administrator?",
+      "gold": [
+        "Women_Helpline_181_SOP_English:p21:c1"
+      ],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p23:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 11,
+      "lang": "hi",
+      "question": "महिला हेल्पलाइन प्रशासक के लिए परामर्श देने का कितना पूर्व अनुभव वांछनीय है?",
+      "gold": [
+        "Women_Helpline_181_SOP_English:p21:c1"
+      ],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p22:c2",
+        "Women_Helpline_181_SOP_English:p22:c1"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 11,
+      "lang": "hinglish",
+      "question": "Helpline administrator ke liye counselling ka kitna past experience preferred hai?",
+      "gold": [
+        "Women_Helpline_181_SOP_English:p21:c1"
+      ],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p22:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 12,
+      "lang": "en",
+      "question": "What languages should a women’s helpline call operator be able to communicate in?",
+      "gold": [
+        "Women_Helpline_181_SOP_English:p22:c1"
+      ],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p10:c1",
+        "Women_Helpline_181_SOP_English:p10:c2",
+        "Women_Helpline_181_SOP_English:p22:c1"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 12,
+      "lang": "hi",
+      "question": "महिला हेल्पलाइन के कॉल ऑपरेटर को किन भाषाओं में बातचीत करने में सक्षम होना चाहिए?",
+      "gold": [
+        "Women_Helpline_181_SOP_English:p22:c1"
+      ],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p22:c1",
+        "Women_Helpline_181_SOP_English:p22:c2",
+        "Women_Helpline_181_SOP_English:p11:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 12,
+      "lang": "hinglish",
+      "question": "Women helpline call operator ko kaunsi languages mein baat karni aani chahiye?",
+      "gold": [
+        "Women_Helpline_181_SOP_English:p22:c1"
+      ],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p22:c1",
+        "Women_Helpline_181_SOP_English:p10:c1",
+        "Women_Helpline_181_SOP_English:p10:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 13,
+      "lang": "en",
+      "question": "Which kinds of technical work experience are expected of the helpline IT supervisor?",
+      "gold": [
+        "Women_Helpline_181_SOP_English:p23:c1"
+      ],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "One_Stop_Centre_SOP_English:p28:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 13,
+      "lang": "hi",
+      "question": "हेल्पलाइन के आईटी पर्यवेक्षक से किन तकनीकी कामों का अनुभव अपेक्षित है?",
+      "gold": [
+        "Women_Helpline_181_SOP_English:p23:c1"
+      ],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "One_Stop_Centre_SOP_English:p71:c1",
+        "One_Stop_Centre_SOP_English:p22:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 13,
+      "lang": "hinglish",
+      "question": "WHL IT supervisor ko kis type ke technical kaam ka experience chahiye?",
+      "gold": [
+        "Women_Helpline_181_SOP_English:p23:c1"
+      ],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p23:c1",
+        "Women_Helpline_181_SOP_English:p6:c1",
+        "Women_Helpline_181_SOP_English:p5:c1"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 14,
+      "lang": "en",
+      "question": "Which previous service background is preferred for a helpline security guard?",
+      "gold": [
+        "Women_Helpline_181_SOP_English:p24:c1"
+      ],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p23:c2",
+        "Women_Helpline_181_SOP_English:p24:c1",
+        "One_Stop_Centre_SOP_English:p29:c1"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "iii"
+    },
+    {
+      "intent": 14,
+      "lang": "hi",
+      "question": "महिला हेल्पलाइन के सुरक्षा गार्ड के लिए किस पिछली सेवा के अनुभव को वरीयता दी जाती है?",
+      "gold": [
+        "Women_Helpline_181_SOP_English:p24:c1"
+      ],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p24:c1",
+        "Women_Helpline_181_SOP_English:p11:c2",
+        "Women_Helpline_181_SOP_English:p23:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 14,
+      "lang": "hinglish",
+      "question": "Helpline guard ke liye kis service se retired candidates ko preference milti hai?",
+      "gold": [
+        "Women_Helpline_181_SOP_English:p24:c1"
+      ],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p29:c1",
+        "Women_Helpline_181_SOP_English:p24:c1",
+        "Women_Helpline_181_SOP_English:p23:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 15,
+      "lang": "en",
+      "question": "How many beds are empty at my nearest OSC right now?",
+      "gold": [],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p75:c1",
+        "One_Stop_Centre_SOP_English:p83:c1",
+        "One_Stop_Centre_SOP_English:p75:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 15,
+      "lang": "hi",
+      "question": "अभी मेरे सबसे पास वाले केंद्र में कितने बिस्तर खाली हैं?",
+      "gold": [],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p20:c2",
+        "One_Stop_Centre_SOP_English:p20:c1",
+        "One_Stop_Centre_SOP_English:p9:c1"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 15,
+      "lang": "hinglish",
+      "question": "Mere nearest OSC mein abhi kitne beds khali hain?",
+      "gold": [],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p75:c1",
+        "One_Stop_Centre_SOP_English:p19:c2",
+        "One_Stop_Centre_SOP_English:p20:c1"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 16,
+      "lang": "en",
+      "question": "Who is on duty at my local helpline desk this morning?",
+      "gold": [],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p23:c2",
+        "Women_Helpline_181_SOP_English:p21:c1",
+        "Women_Helpline_181_SOP_English:p5:c1"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 16,
+      "lang": "hi",
+      "question": "आज सुबह मेरी स्थानीय हेल्पलाइन डेस्क पर किसकी ड्यूटी है?",
+      "gold": [],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p23:c2",
+        "One_Stop_Centre_SOP_English:p16:c1",
+        "Women_Helpline_181_SOP_English:p21:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "iv"
+    },
+    {
+      "intent": 16,
+      "lang": "hinglish",
+      "question": "Aaj subah meri local helpline desk par kiski duty hai?",
+      "gold": [],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p5:c1",
+        "One_Stop_Centre_SOP_English:p8:c1",
+        "Women_Helpline_181_SOP_English:p11:c3"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 17,
+      "lang": "en",
+      "question": "Has my complaint from yesterday been closed yet?",
+      "gold": [],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p80:c2",
+        "One_Stop_Centre_SOP_English:p55:c3",
+        "Women_Helpline_181_SOP_English:p13:c3"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 17,
+      "lang": "hi",
+      "question": "क्या मेरी कल की शिकायत अब बंद हो चुकी है?",
+      "gold": [],
+      "top3": [
+        "One_Stop_Centre_SOP_English:p55:c3",
+        "Women_Helpline_181_SOP_English:p12:c1",
+        "One_Stop_Centre_SOP_English:p84:c1"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    },
+    {
+      "intent": 17,
+      "lang": "hinglish",
+      "question": "Meri kal wali complaint ab tak close ho gayi hai kya?",
+      "gold": [],
+      "top3": [
+        "Women_Helpline_181_SOP_English:p12:c1",
+        "Women_Helpline_181_SOP_English:p20:c1",
+        "One_Stop_Centre_SOP_English:p55:c2"
+      ],
+      "direct": "UNKNOWN",
+      "rag": "UNKNOWN"
+    }
+  ],
+  "direct_batch_seconds": 3.771655600000031,
+  "rag_batch_seconds": 7.796328900000049
+}

@@ -69,7 +69,7 @@ LIVE_STATUS = re.compile(
 )
 
 
-def respond(q,lang,state="",guide=None):
+def _route(q,lang,state="",guide=None):
     if urgent(q):
         return dict(kind="emergency",buttons=links(state),answer=dict(zip(LANGS,["If you can safely call, use 112 for immediate help.","यदि सुरक्षित रूप से कॉल कर सकती हैं, तुरंत मदद के लिए 112 डायल करें।","Agar safe ho toh turant madad ke liye 112 call karein.","பாதுகாப்பாக அழைக்க முடிந்தால் உடனடி உதவிக்கு 112 அழைக்கவும்."]))[lang])
     if guide:
@@ -93,3 +93,49 @@ def respond(q,lang,state="",guide=None):
     with LOCK:
         from sop_search import evidence
         return evidence(q, lang) or fallback
+
+def respond(q, lang, state="", guide=None):
+    from sop_search import input_language
+    # Explicitly separated questions can require evidence from two different SOPs.
+    parts = re.split(r"(?<=[?？।])\s+|\s*;\s*", q.strip())
+    if len(parts)==2 and all(parts) and not guide and not urgent(q):
+        replies = [respond(part,lang,state) for part in parts]
+        if all(r["kind"]=="answer" and r["supporting_passages"] for r in replies):
+            proofs = [r["supporting_passages"][0] for r in replies]
+            if len({v["url"].split("#")[0] for v in proofs})==2:
+                text = "\n\n".join(r["answer"] for r in replies)
+                return dict(kind="answer",answer=text,language=lang,
+                            query_type=" / ".join(dict.fromkeys(r["query_type"] for r in replies)),
+                            answerability="ANSWERABLE",confidence=None,confidence_basis="Two source matches",
+                            explanation="Each part is supported by its separately cited SOP passage.",
+                            supporting_passages=proofs, multiple_sources=True)
+        # Keep each clause's conclusion and citation even when only one is answerable.
+        if all(r["kind"] in {"unknown","answer","excerpt"} for r in replies):
+            proofs = [proof for r in replies for proof in r["supporting_passages"]]
+            complete = all(r["answerability"]=="ANSWERABLE" for r in replies)
+            return dict(kind="answer" if complete else "unknown", language=lang,
+                        answer="\n\n".join(r["answer"] for r in replies),
+                        query_type=" / ".join(dict.fromkeys(r["query_type"] for r in replies)),
+                        answerability="ANSWERABLE" if complete else "UNANSWERABLE",
+                        confidence=None, confidence_basis="Separate evidence checks",
+                        explanation="Each question was checked separately against the SOPs.",
+                        supporting_passages=proofs, multiple_sources=bool(proofs))
+    result = _route(q, lang, state, guide)
+    detected = input_language(q)
+    tag = {"en":"English", "hi":"Indic (Hindi)", "ta":"Indic (Tamil)", "mix":"Indic / code-mixed (Roman Hindi)"}[detected]
+    if detected in {"hi","ta"} and re.search(r"[a-zA-Z]{2,}",q):
+        tag = "Code-mixed (" + ("Hindi" if detected=="hi" else "Tamil") + " / English)"
+    kind = result["kind"]
+    result.update(query_type=tag, answerability="UNANSWERABLE" if kind=="unknown" else
+                  "ANSWERABLE" if kind in {"answer","excerpt","guide"} else "SERVICE ROUTE")
+    result.setdefault("confidence",None)
+    result.setdefault("confidence_basis","Verified rule match" if kind=="answer" else "No scored evidence match")
+    passage = result.get("evidence") or (result["answer"] if kind=="excerpt" else "")
+    result["supporting_passages"] = [dict(text=passage,source=result["source"],url=result["url"])] if passage else []
+    result["explanation"] = {"answer":"The cited SOP passage supports this answer.",
+        "excerpt":"The text shown is an extract from the cited SOP page.",
+        "unknown":"Insufficient information available in the provided documents.",
+        "guide":"This guide links to the published source for its guidance.",
+        "directory":"Use the directory to look up a published service.",
+        "emergency":"Immediate-help routing was triggered by the message."}[kind]
+    return result

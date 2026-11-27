@@ -1,0 +1,26 @@
+<!doctype html><meta charset="utf-8"><title>Saheli research findings</title><style>body{max-width:840px;margin:3em auto;padding:0 18px;font:17px/1.6 system-ui;color:#183a31}td,th{padding:6px 14px;text-align:left;border-bottom:1px solid #ccc}table{border-collapse:collapse}</style>
+<h1>Saheli research findings</h1>
+<p>Fifteen operational questions about two official SOPs were frozen before testing. Each has matched English, Hindi and Hinglish wording and English evidence. Hit@3 counts queries retrieving an annotated passage in the first three results. These are 15 distinct information needs across 45 queries. Conclusions are descriptive and limited to this corpus.</p>
+<h2>Retrieval results</h2>
+<table><tr><th>Method<th>English /15<th>Hindi /15<th>Hinglish /15<th>Total /45
+<tr><td>BM25<td>11<td>0<td>11<td>22
+<tr><td>Multilingual E5<td>11<td>10<td>9<td>30
+<tr><td>Normalized text → E5<td>13<td>10<td>9<td>32
+<tr><td>Translation → E5<td>11<td>6<td>9<td>26
+<tr><td>BM25 + E5 (rank fusion)<td>13<td>10<td>10<td>33
+<tr><td>Fusion top ten → mMARCO reranker<td>15<td>13<td>12<td>40</table>
+<p>Dense retrieval beat lexical search overall. The eight-query advantage comes from cross-language retrieval: dense gained ten Hindi hits, tied on English and lost two on Hinglish. Hybrid gained three hits over dense. Its lowest language-group count increased from 9 to 10. Reranking the ten hybrid candidates gained seven further hits. The 40/45 score describes passage retrieval, not live app accuracy.</p>
+<p>Code mixing was harder than English for dense, hybrid and reranked search on the same intents, but BM25 tied at 11/15. Automatic English translation by Qwen2.5-1.5B-Instruct hurt Hindi retrieval and tied direct embeddings on Hinglish. In one Hindi question it changed a district committee into a municipal council. Original English queries were passed through. Light normalization used lowercasing, whitespace cleanup and two Roman Hindi spelling expansions; on these Hinglish questions it produced no net gain. The existing emergency spelling checks exercise abbreviated forms separately.</p>
+<h2>Generation, hallucinations and rejection</h2>
+<p>Fifty-four prompts per condition: 45 answerable and nine unavailable (three additional intents in three languages). Both Qwen checkpoints used the same English answer instruction, deterministic generation, and the same hybrid top three for RAG. Answers were reviewed against the SOP rubric by one reviewer. Unsupported means a material factual assertion without reference support; irrelevant or malformed text is a separate error.</p>
+<table><tr><th>Checkpoint / mode<th>Fully correct /45<th>Unsupported /54<th>Explicit refusals on unavailable /9
+<tr><td>0.5B direct<td>0<td>1<td>9
+<tr><td>0.5B RAG<td>1<td>0<td>8
+<tr><td>1.5B direct<td>0<td>0<td>9
+<tr><td>1.5B RAG<td>5<td>1<td>9</table>
+<p>The smaller direct model added social and spiritual well-being beyond the reference. The smaller RAG model correctly identified psychological and emotional safety but emitted several irrelevant labels, including “iv” for a personal roster query. At 1.5B the direct model always declined; RAG answered five questions fully and incorrectly asserted that the control room has zero operators. RAG improved factual coverage but did not consistently reduce unsupported answers across sizes. No general hallucination-reduction claim follows from these counts.</p>
+<p>In a separate replay of the 1.5B RAG outputs we withheld an answer when the highest reranker score among its actual three supplied passages fell below a threshold. Without a gate, five fully correct answers and one unsupported claim were returned. At 1.0 the counts were four and one; at 3.0 they were three and zero. The stricter gate suppressed the one observed unsupported claim and two fully correct answers. These exploratory cutoffs are raw relevance logits; the study does not establish an optimal deployment threshold.</p>
+<h2>Citations across documents</h2>
+<p>The app resolves explicitly separated SOP subquestions individually and presents each source beside its original passage. Twelve controlled compound prompts (four fact pairs in three languages) returned two citations each. All 24 quotations matched the extracted page text at the cited locations. This verifies quote and page provenance. Independent review would be needed to validate every translated claim. The demonstration covers explicitly separated subquestions and curated facts.</p>
+<p>Try: How long can I stay at an OSC? Does the helpline answer at night?</p>
+<p>Reproduction: evaluation/bonus_retrieval.py, evaluation/bonus_rejection.py and evaluation/compare_qwen_qa.py --small. Use the project interpreter. The smaller checkpoint is Qwen/Qwen2.5-0.5B-Instruct, revision 7ae557604adf67be50417f59c2c2f167def9a775, stored in data/models/qwen-small. Per-query evidence: bonus-retrieval.json, bonus-rejection.json, qwen-small-paired.json, qwen-qa-paired.json and bonus-multidoc.json.</p>
